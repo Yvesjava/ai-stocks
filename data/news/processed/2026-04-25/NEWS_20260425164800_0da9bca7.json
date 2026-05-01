@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u76ee\u6807\u4ef7", 
+      "\u8bc4\u7ea7"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "BYD plans to private placement, analysts give Outperform rating", 
+  "publish_time": "2026-04-25T11:21:00.863000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": -0.72, 
+    "overall": "negative"
+  }, 
+  "title": "BYD plans to private placement, analysts give Outperform rating", 
+  "original_title": "BYD plans to private placement, analysts give Outperform rating", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T16:48:00.863000", 
+  "source_url": "https://example.com/news/NEWS_20260425164800_0da9bca7", 
+  "news_id": "NEWS_20260425164800_0da9bca7", 
+  "source": "\u8d22\u65b0\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "BYD plans to private placement, analysts give Outperform rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 63, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

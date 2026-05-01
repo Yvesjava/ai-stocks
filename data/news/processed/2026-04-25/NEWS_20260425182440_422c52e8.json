@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182440_422c52e8",
+  "title": "Technology sector benefits from policy support, Wuliangye and related stocks benefit",
+  "original_title": "Technology sector benefits from policy support, Wuliangye and related stocks benefit",
+  "source": "\u65b0\u6d6a\u8d22\u7ecf",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425182440_422c52e8",
+  "publish_time": "2026-04-23T14:32:40.333101",
+  "collect_time": "2026-04-25T18:24:40.333101",
+  "summary": "Technology sector benefits from policy support, Wuliangye and related stocks benefit",
+  "content": "Technology sector benefits from policy support, Wuliangye and related stocks benefit",
+  "related_stocks": [
+    {
+      "stock_code": "000858",
+      "stock_name": "Wuliangye",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u516c\u53f8\u516c\u544a",
+    "secondary": [
+      "Finance"
+    ],
+    "tags": [
+      "\u5e74\u62a5",
+      "\u80a1\u6743\u6fc0\u52b1"
+    ]
+  },
+  "sentiment": {
+    "overall": "negative",
+    "score": 0.93,
+    "reason": "\u516c\u53f8\u516c\u544a related news"
+  },
+  "impact_level": "low",
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors",
+  "metadata": {
+    "word_count": 84,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": false
+  }
+}

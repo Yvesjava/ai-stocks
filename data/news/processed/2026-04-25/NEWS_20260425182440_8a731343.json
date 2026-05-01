@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182440_8a731343",
+  "title": "Technology sector benefits from policy support, China Merchants Bank and related stocks benefit",
+  "original_title": "Technology sector benefits from policy support, China Merchants Bank and related stocks benefit",
+  "source": "\u8d22\u65b0\u7f51",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425182440_8a731343",
+  "publish_time": "2026-04-21T18:48:40.333101",
+  "collect_time": "2026-04-25T18:24:40.333101",
+  "summary": "Technology sector benefits from policy support, China Merchants Bank and related stocks benefit",
+  "content": "Technology sector benefits from policy support, China Merchants Bank and related stocks benefit",
+  "related_stocks": [
+    {
+      "stock_code": "600036",
+      "stock_name": "China Merchants Bank",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u56fd\u9645\u5e02\u573a",
+    "secondary": [
+      "Finance"
+    ],
+    "tags": [
+      "\u539f\u6cb9",
+      "\u7f8e\u80a1"
+    ]
+  },
+  "sentiment": {
+    "overall": "positive",
+    "score": -0.18,
+    "reason": "\u56fd\u9645\u5e02\u573a related news"
+  },
+  "impact_level": "low",
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors",
+  "metadata": {
+    "word_count": 95,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": false
+  }
+}

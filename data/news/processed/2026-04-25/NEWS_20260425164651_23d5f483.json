@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5371\u673a", 
+      "\u4e8b\u6545"
+    ], 
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Wuliangye expects 2026 Q4 net profit to grow -1.64% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-18T16:20:51.179000", 
+  "sentiment": {
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news", 
+    "score": -0.63, 
+    "overall": "negative"
+  }, 
+  "title": "Wuliangye expects 2026 Q4 net profit to grow -1.64% YoY, exceeding market expectations", 
+  "original_title": "Wuliangye expects 2026 Q4 net profit to grow -1.64% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T16:46:51.179000", 
+  "source_url": "https://example.com/news/NEWS_20260425164651_23d5f483", 
+  "news_id": "NEWS_20260425164651_23d5f483", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Wuliangye expects 2026 Q4 net profit to grow -1.64% YoY, exceeding market expectations", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 86, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

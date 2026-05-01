@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u4e1a\u7ee9", 
+      "\u8d22\u52a1\u6570\u636e"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "International market rising, A-share New Energy sector fluctuates", 
+  "publish_time": "2026-04-22T23:07:00.863000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": 0.15, 
+    "overall": "negative"
+  }, 
+  "title": "International market rising, A-share New Energy sector fluctuates", 
+  "original_title": "International market rising, A-share New Energy sector fluctuates", 
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors", 
+  "collect_time": "2026-04-25T16:48:00.863000", 
+  "source_url": "https://example.com/news/NEWS_20260425164800_2fd1914e", 
+  "news_id": "NEWS_20260425164800_2fd1914e", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "International market rising, A-share New Energy sector fluctuates", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 65, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Merchants Bank", 
+      "stock_code": "600036"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425183005_904a9b2a",
+  "title": "Regulatory authorities issued favorable policy, Wuliangye and other companies may be affected",
+  "original_title": "Regulatory authorities issued favorable policy, Wuliangye and other companies may be affected",
+  "source": "\u6caa\u6df1\u4ea4\u6613\u6240",
+  "source_type": "\u5b98\u65b9",
+  "source_url": "https://example.com/news/NEWS_20260425183005_904a9b2a",
+  "publish_time": "2026-04-22T16:45:05.817768",
+  "collect_time": "2026-04-25T18:30:05.817768",
+  "summary": "Regulatory authorities issued favorable policy, Wuliangye and other companies may be affected",
+  "content": "Regulatory authorities issued favorable policy, Wuliangye and other companies may be affected",
+  "related_stocks": [
+    {
+      "stock_code": "000858",
+      "stock_name": "Wuliangye",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u673a\u6784\u7814\u62a5",
+    "secondary": [
+      "Finance"
+    ],
+    "tags": [
+      "\u5206\u6790",
+      "\u8bc4\u7ea7"
+    ]
+  },
+  "sentiment": {
+    "overall": "negative",
+    "score": -0.96,
+    "reason": "\u673a\u6784\u7814\u62a5 related news"
+  },
+  "impact_level": "high",
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors",
+  "metadata": {
+    "word_count": 93,
+    "has_image": true,
+    "is_original": true,
+    "is_headline": false
+  }
+}

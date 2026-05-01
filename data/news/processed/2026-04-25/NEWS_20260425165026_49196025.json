@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6210\u4ea4\u989d", 
+      "\u5927\u76d8"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "International market rising, A-share Consumer sector fluctuates", 
+  "publish_time": "2026-04-18T22:11:26.117000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": -0.24, 
+    "overall": "positive"
+  }, 
+  "title": "International market rising, A-share Consumer sector fluctuates", 
+  "original_title": "International market rising, A-share Consumer sector fluctuates", 
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+  "collect_time": "2026-04-25T16:50:26.117000", 
+  "source_url": "https://example.com/news/NEWS_20260425165026_49196025", 
+  "news_id": "NEWS_20260425165026_49196025", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "International market rising, A-share Consumer sector fluctuates", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 63, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Tourism Group Duty Free", 
+      "stock_code": "601888"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d8b\u52bf", 
+      "\u653f\u7b56"
+    ], 
+    "primary": "\u884c\u4e1a\u52a8\u6001", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Wuliangye expects 2026 Q1 net profit to grow 37.32% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-23T18:56:57.805000", 
+  "sentiment": {
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news", 
+    "score": 0.05, 
+    "overall": "neutral"
+  }, 
+  "title": "Wuliangye expects 2026 Q1 net profit to grow 37.32% YoY, exceeding market expectations", 
+  "original_title": "Wuliangye expects 2026 Q1 net profit to grow 37.32% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T18:20:57.805000", 
+  "source_url": "https://example.com/news/NEWS_20260425182057_b74c9a71", 
+  "news_id": "NEWS_20260425182057_b74c9a71", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Wuliangye expects 2026 Q1 net profit to grow 37.32% YoY, exceeding market expectations", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 86, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5143\u5b87\u5b99", 
+      "\u534a\u5bfc\u4f53"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Wuliangye encountered performance decline, stock price rising", 
+  "publish_time": "2026-04-23T09:58:06.843000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.56, 
+    "overall": "positive"
+  }, 
+  "title": "Wuliangye encountered performance decline, stock price rising", 
+  "original_title": "Wuliangye encountered performance decline, stock price rising", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T16:52:06.843000", 
+  "source_url": "https://example.com/news/NEWS_20260425165206_6f8bd569", 
+  "news_id": "NEWS_20260425165206_6f8bd569", 
+  "source": "\u6caa\u6df1\u4ea4\u6613\u6240", 
+  "source_type": "\u5b98\u65b9", 
+  "impact_level": "low", 
+  "summary": "Wuliangye encountered performance decline, stock price rising", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 61, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

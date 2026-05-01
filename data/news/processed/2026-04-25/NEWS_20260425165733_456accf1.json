@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8bc1\u76d1\u4f1a", 
+      "\u901a\u62a5"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Regulatory authorities issued favorable policy, Ping An Bank and other companies may be affected", 
+  "publish_time": "2026-04-20T21:10:33.003000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": 0.05, 
+    "overall": "negative"
+  }, 
+  "title": "Regulatory authorities issued favorable policy, Ping An Bank and other companies may be affected", 
+  "original_title": "Regulatory authorities issued favorable policy, Ping An Bank and other companies may be affected", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T16:57:33.003000", 
+  "source_url": "https://example.com/news/NEWS_20260425165733_456accf1", 
+  "news_id": "NEWS_20260425165733_456accf1", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Regulatory authorities issued favorable policy, Ping An Bank and other companies may be affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 96, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

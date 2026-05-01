@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182638_bf6530cd",
+  "title": "China Merchants Bank launched new New Energy Vehicle, market response questioning",
+  "original_title": "China Merchants Bank launched new New Energy Vehicle, market response questioning",
+  "source": "\u96ea\u7403",
+  "source_type": "\u8d22\u7ecf\u793e\u533a",
+  "source_url": "https://example.com/news/NEWS_20260425182638_bf6530cd",
+  "publish_time": "2026-04-19T15:26:38.051750",
+  "collect_time": "2026-04-25T18:26:38.051750",
+  "summary": "China Merchants Bank launched new New Energy Vehicle, market response questioning",
+  "content": "China Merchants Bank launched new New Energy Vehicle, market response questioning",
+  "related_stocks": [
+    {
+      "stock_code": "600036",
+      "stock_name": "China Merchants Bank",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u56fd\u9645\u5e02\u573a",
+    "secondary": [
+      "New Energy"
+    ],
+    "tags": [
+      "\u539f\u6cb9",
+      "\u7f8e\u80a1"
+    ]
+  },
+  "sentiment": {
+    "overall": "neutral",
+    "score": 0.11,
+    "reason": "\u56fd\u9645\u5e02\u573a related news"
+  },
+  "impact_level": "low",
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors",
+  "metadata": {
+    "word_count": 81,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": true
+  }
+}

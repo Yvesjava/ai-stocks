@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d22\u52a1\u6570\u636e", 
+      "\u4e1a\u7ee9"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "BYD reached strategic cooperation with Tencent to jointly develop Cloud Computing", 
+  "publish_time": "2026-04-21T09:56:18.324000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": 0.58, 
+    "overall": "neutral"
+  }, 
+  "title": "BYD reached strategic cooperation with Tencent to jointly develop Cloud Computing", 
+  "original_title": "BYD reached strategic cooperation with Tencent to jointly develop Cloud Computing", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T16:54:18.324000", 
+  "source_url": "https://example.com/news/NEWS_20260425165418_987c9c2b", 
+  "news_id": "NEWS_20260425165418_987c9c2b", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "BYD reached strategic cooperation with Tencent to jointly develop Cloud Computing", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 81, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

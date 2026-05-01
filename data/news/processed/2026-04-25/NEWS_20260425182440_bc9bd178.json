@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182440_bc9bd178",
+  "title": "New Energy sector benefits from policy support, China Tourism Group Duty Free and related stocks benefit",
+  "original_title": "New Energy sector benefits from policy support, China Tourism Group Duty Free and related stocks benefit",
+  "source": "\u51e4\u51f0\u8d22\u7ecf",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425182440_bc9bd178",
+  "publish_time": "2026-04-19T21:41:40.332590",
+  "collect_time": "2026-04-25T18:24:40.333101",
+  "summary": "New Energy sector benefits from policy support, China Tourism Group Duty Free and related stocks ben...",
+  "content": "New Energy sector benefits from policy support, China Tourism Group Duty Free and related stocks benefit",
+  "related_stocks": [
+    {
+      "stock_code": "601888",
+      "stock_name": "China Tourism Group Duty Free",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u516c\u53f8\u8d22\u62a5",
+    "secondary": [
+      "Pharmaceutical"
+    ],
+    "tags": [
+      "\u5229\u6da6",
+      "\u4e1a\u7ee9"
+    ]
+  },
+  "sentiment": {
+    "overall": "positive",
+    "score": 0.96,
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news"
+  },
+  "impact_level": "low",
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors",
+  "metadata": {
+    "word_count": 104,
+    "has_image": true,
+    "is_original": true,
+    "is_headline": false
+  }
+}

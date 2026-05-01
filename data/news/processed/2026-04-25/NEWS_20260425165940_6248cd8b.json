@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u65b0\u89c4", 
+      "\u5904\u7f5a"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Regulatory authorities issued favorable policy, BYD and other companies may be affected", 
+  "publish_time": "2026-04-24T20:28:40.024000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": 0.44, 
+    "overall": "positive"
+  }, 
+  "title": "Regulatory authorities issued favorable policy, BYD and other companies may be affected", 
+  "original_title": "Regulatory authorities issued favorable policy, BYD and other companies may be affected", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T16:59:40.024000", 
+  "source_url": "https://example.com/news/NEWS_20260425165940_6248cd8b", 
+  "news_id": "NEWS_20260425165940_6248cd8b", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Regulatory authorities issued favorable policy, BYD and other companies may be affected", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 87, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6307\u6570", 
+      "\u6210\u4ea4\u989d"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Macroeconomic data better than expected, Technology sector affected", 
+  "publish_time": "2026-04-17T23:38:51.180000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": -0.56, 
+    "overall": "positive"
+  }, 
+  "title": "Macroeconomic data better than expected, Technology sector affected", 
+  "original_title": "Macroeconomic data better than expected, Technology sector affected", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T16:46:51.180000", 
+  "source_url": "https://example.com/news/NEWS_20260425164651_118d96c5", 
+  "news_id": "NEWS_20260425164651_118d96c5", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Macroeconomic data better than expected, Technology sector affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 67, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

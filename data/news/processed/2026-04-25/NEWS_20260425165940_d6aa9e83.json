@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6307\u6570", 
+      "\u5927\u76d8"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "China Tourism Group Duty Free encountered performance decline, stock price rising", 
+  "publish_time": "2026-04-17T20:58:40.022000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": -0.49, 
+    "overall": "positive"
+  }, 
+  "title": "China Tourism Group Duty Free encountered performance decline, stock price rising", 
+  "original_title": "China Tourism Group Duty Free encountered performance decline, stock price rising", 
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+  "collect_time": "2026-04-25T16:59:40.022000", 
+  "source_url": "https://example.com/news/NEWS_20260425165940_d6aa9e83", 
+  "news_id": "NEWS_20260425165940_d6aa9e83", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "medium", 
+  "summary": "China Tourism Group Duty Free encountered performance decline, stock price rising", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 81, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Tourism Group Duty Free", 
+      "stock_code": "601888"
+    }
+  ]
+}

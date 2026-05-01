@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5229\u6da6", 
+      "\u8d22\u52a1\u6570\u636e"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Hengrui Medicine expects 2026 Q3 net profit to grow -6.05% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-20T19:52:51.180000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": -0.93, 
+    "overall": "positive"
+  }, 
+  "title": "Hengrui Medicine expects 2026 Q3 net profit to grow -6.05% YoY, exceeding market expectations", 
+  "original_title": "Hengrui Medicine expects 2026 Q3 net profit to grow -6.05% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T16:46:51.180000", 
+  "source_url": "https://example.com/news/NEWS_20260425164651_37af0a2f", 
+  "news_id": "NEWS_20260425164651_37af0a2f", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "high", 
+  "summary": "Hengrui Medicine expects 2026 Q3 net profit to grow -6.05% YoY, exceeding market expectations", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 93, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

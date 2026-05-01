@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6210\u4ea4\u989d", 
+      "\u6307\u6570"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "LONGi Green Energy plans to repurchase shares, analysts give Neutral rating", 
+  "publish_time": "2026-04-19T14:58:13.317000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": 0.07, 
+    "overall": "neutral"
+  }, 
+  "title": "LONGi Green Energy plans to repurchase shares, analysts give Neutral rating", 
+  "original_title": "LONGi Green Energy plans to repurchase shares, analysts give Neutral rating", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T17:44:13.317000", 
+  "source_url": "https://example.com/news/NEWS_20260425174413_892a2c4a", 
+  "news_id": "NEWS_20260425174413_892a2c4a", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "LONGi Green Energy plans to repurchase shares, analysts give Neutral rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 75, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

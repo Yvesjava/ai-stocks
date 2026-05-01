@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u76d1\u7ba1\u653f\u7b56", 
+      "\u8d22\u653f\u653f\u7b56"
+    ], 
+    "primary": "\u5b8f\u89c2\u653f\u7b56", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Wuliangye launched new Smartphone, market response questioning", 
+  "publish_time": "2026-04-21T07:10:13.317000", 
+  "sentiment": {
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news", 
+    "score": 0.19, 
+    "overall": "negative"
+  }, 
+  "title": "Wuliangye launched new Smartphone, market response questioning", 
+  "original_title": "Wuliangye launched new Smartphone, market response questioning", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T17:44:13.317000", 
+  "source_url": "https://example.com/news/NEWS_20260425174413_904235e1", 
+  "news_id": "NEWS_20260425174413_904235e1", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Wuliangye launched new Smartphone, market response questioning", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 62, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

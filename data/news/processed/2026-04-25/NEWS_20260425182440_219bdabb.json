@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182440_219bdabb",
+  "title": "International market fluctuating, A-share Consumer sector fluctuates",
+  "original_title": "International market fluctuating, A-share Consumer sector fluctuates",
+  "source": "\u65b0\u6d6a\u8d22\u7ecf",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425182440_219bdabb",
+  "publish_time": "2026-04-24T01:14:40.333101",
+  "collect_time": "2026-04-25T18:24:40.333101",
+  "summary": "International market fluctuating, A-share Consumer sector fluctuates",
+  "content": "International market fluctuating, A-share Consumer sector fluctuates",
+  "related_stocks": [
+    {
+      "stock_code": "600276",
+      "stock_name": "Hengrui Medicine",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6",
+    "secondary": [
+      "Finance"
+    ],
+    "tags": [
+      "\u4e8b\u6545",
+      "\u75ab\u60c5"
+    ]
+  },
+  "sentiment": {
+    "overall": "negative",
+    "score": 0.52,
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news"
+  },
+  "impact_level": "low",
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors",
+  "metadata": {
+    "word_count": 68,
+    "has_image": true,
+    "is_original": true,
+    "is_headline": true
+  }
+}

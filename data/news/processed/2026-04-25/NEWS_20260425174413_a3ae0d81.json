@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5916\u6c47", 
+      "\u7f8e\u80a1"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Ping An encountered violation, stock price rising", 
+  "publish_time": "2026-04-24T20:36:13.317000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": 0.26, 
+    "overall": "neutral"
+  }, 
+  "title": "Ping An encountered violation, stock price rising", 
+  "original_title": "Ping An encountered violation, stock price rising", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T17:44:13.317000", 
+  "source_url": "https://example.com/news/NEWS_20260425174413_a3ae0d81", 
+  "news_id": "NEWS_20260425174413_a3ae0d81", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Ping An encountered violation, stock price rising", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 49, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

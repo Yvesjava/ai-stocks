@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u7f8e\u80a1", 
+      "\u6e2f\u80a1"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Wuliangye expects 2026 Q2 net profit to grow 12.53% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-23T04:16:57.805000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": 0.11, 
+    "overall": "neutral"
+  }, 
+  "title": "Wuliangye expects 2026 Q2 net profit to grow 12.53% YoY, exceeding market expectations", 
+  "original_title": "Wuliangye expects 2026 Q2 net profit to grow 12.53% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T18:20:57.805000", 
+  "source_url": "https://example.com/news/NEWS_20260425182057_52efcc56", 
+  "news_id": "NEWS_20260425182057_52efcc56", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Wuliangye expects 2026 Q2 net profit to grow 12.53% YoY, exceeding market expectations", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 86, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

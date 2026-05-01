@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d22\u653f\u653f\u7b56", 
+      "\u76d1\u7ba1\u653f\u7b56"
+    ], 
+    "primary": "\u5b8f\u89c2\u653f\u7b56", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "China Tourism Group Duty Free reached strategic cooperation with Huawei to jointly develop Biomedicine", 
+  "publish_time": "2026-04-18T04:11:53.649000", 
+  "sentiment": {
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news", 
+    "score": 0.2, 
+    "overall": "neutral"
+  }, 
+  "title": "China Tourism Group Duty Free reached strategic cooperation with Huawei to jointly develop Biomedicine", 
+  "original_title": "China Tourism Group Duty Free reached strategic cooperation with Huawei to jointly develop Biomedicine", 
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+  "collect_time": "2026-04-25T16:48:53.649000", 
+  "source_url": "https://example.com/news/NEWS_20260425164853_d51cd804", 
+  "news_id": "NEWS_20260425164853_d51cd804", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "China Tourism Group Duty Free reached strategic cooperation with Huawei to jointly develop Biomedici...", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 102, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Tourism Group Duty Free", 
+      "stock_code": "601888"
+    }
+  ]
+}

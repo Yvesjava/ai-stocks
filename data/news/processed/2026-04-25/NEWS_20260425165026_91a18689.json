@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5b63\u62a5", 
+      "\u80a1\u6743\u6fc0\u52b1"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Midea Group encountered violation, stock price falling", 
+  "publish_time": "2026-04-20T08:46:26.118000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": -0.37, 
+    "overall": "negative"
+  }, 
+  "title": "Midea Group encountered violation, stock price falling", 
+  "original_title": "Midea Group encountered violation, stock price falling", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T16:50:26.118000", 
+  "source_url": "https://example.com/news/NEWS_20260425165026_91a18689", 
+  "news_id": "NEWS_20260425165026_91a18689", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Midea Group encountered violation, stock price falling", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 54, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

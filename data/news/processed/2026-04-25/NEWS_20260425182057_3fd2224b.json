@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u65b0\u80fd\u6e90", 
+      "\u534a\u5bfc\u4f53"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Ping An Bank encountered violation, stock price rising", 
+  "publish_time": "2026-04-19T03:51:57.805000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": 0.99, 
+    "overall": "positive"
+  }, 
+  "title": "Ping An Bank encountered violation, stock price rising", 
+  "original_title": "Ping An Bank encountered violation, stock price rising", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T18:20:57.805000", 
+  "source_url": "https://example.com/news/NEWS_20260425182057_3fd2224b", 
+  "news_id": "NEWS_20260425182057_3fd2224b", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Ping An Bank encountered violation, stock price rising", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 54, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

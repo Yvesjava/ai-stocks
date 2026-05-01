@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5b63\u62a5", 
+      "\u5e74\u62a5"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "publish_time": "2026-04-18T19:04:51.537000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": 0.37, 
+    "overall": "positive"
+  }, 
+  "title": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "original_title": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T16:52:51.537000", 
+  "source_url": "https://example.com/news/NEWS_20260425165251_c6a5d051", 
+  "news_id": "NEWS_20260425165251_c6a5d051", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 69, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

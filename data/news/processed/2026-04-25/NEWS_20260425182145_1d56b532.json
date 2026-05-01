@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u539f\u6cb9", 
+      "\u7f8e\u80a1"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Guizhou Moutai reached strategic cooperation with Tencent to jointly develop New Energy Vehicle", 
+  "publish_time": "2026-04-25T15:50:45.457000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": -0.55, 
+    "overall": "neutral"
+  }, 
+  "title": "Guizhou Moutai reached strategic cooperation with Tencent to jointly develop New Energy Vehicle", 
+  "original_title": "Guizhou Moutai reached strategic cooperation with Tencent to jointly develop New Energy Vehicle", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T18:21:45.457000", 
+  "source_url": "https://example.com/news/NEWS_20260425182145_1d56b532", 
+  "news_id": "NEWS_20260425182145_1d56b532", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Guizhou Moutai reached strategic cooperation with Tencent to jointly develop New Energy Vehicle", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 95, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

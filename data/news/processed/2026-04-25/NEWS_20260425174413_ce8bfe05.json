@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "AI", 
+      "\u5143\u5b87\u5b99"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "International market falling, A-share New Energy sector fluctuates", 
+  "publish_time": "2026-04-19T16:20:13.317000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": 0.6, 
+    "overall": "neutral"
+  }, 
+  "title": "International market falling, A-share New Energy sector fluctuates", 
+  "original_title": "International market falling, A-share New Energy sector fluctuates", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T17:44:13.317000", 
+  "source_url": "https://example.com/news/NEWS_20260425174413_ce8bfe05", 
+  "news_id": "NEWS_20260425174413_ce8bfe05", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "International market falling, A-share New Energy sector fluctuates", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 66, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

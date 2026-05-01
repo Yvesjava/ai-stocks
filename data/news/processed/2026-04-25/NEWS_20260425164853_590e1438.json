@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u539f\u6cb9", 
+      "\u6e2f\u80a1"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Midea Group plans to reduce holdings, analysts give Outperform rating", 
+  "publish_time": "2026-04-18T05:48:53.649000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": -0.94, 
+    "overall": "negative"
+  }, 
+  "title": "Midea Group plans to reduce holdings, analysts give Outperform rating", 
+  "original_title": "Midea Group plans to reduce holdings, analysts give Outperform rating", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T16:48:53.649000", 
+  "source_url": "https://example.com/news/NEWS_20260425164853_590e1438", 
+  "news_id": "NEWS_20260425164853_590e1438", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Midea Group plans to reduce holdings, analysts give Outperform rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 69, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

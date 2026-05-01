@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5b63\u62a5", 
+      "\u5206\u7ea2"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "International market rising, A-share New Energy sector fluctuates", 
+  "publish_time": "2026-04-19T11:21:22.693000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": 0.88, 
+    "overall": "positive"
+  }, 
+  "title": "International market rising, A-share New Energy sector fluctuates", 
+  "original_title": "International market rising, A-share New Energy sector fluctuates", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T18:22:22.693000", 
+  "source_url": "https://example.com/news/NEWS_20260425182222_2fd1914e", 
+  "news_id": "NEWS_20260425182222_2fd1914e", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "International market rising, A-share New Energy sector fluctuates", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 65, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

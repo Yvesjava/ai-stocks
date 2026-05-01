@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u7ade\u4e89", 
+      "\u6280\u672f\u7a81\u7834"
+    ], 
+    "primary": "\u884c\u4e1a\u52a8\u6001", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "International market fluctuating, A-share Pharmaceutical sector fluctuates", 
+  "publish_time": "2026-04-23T05:54:51.179000", 
+  "sentiment": {
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news", 
+    "score": -0.05, 
+    "overall": "positive"
+  }, 
+  "title": "International market fluctuating, A-share Pharmaceutical sector fluctuates", 
+  "original_title": "International market fluctuating, A-share Pharmaceutical sector fluctuates", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T16:46:51.179000", 
+  "source_url": "https://example.com/news/NEWS_20260425164651_5f30b708", 
+  "news_id": "NEWS_20260425164651_5f30b708", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "medium", 
+  "summary": "International market fluctuating, A-share Pharmaceutical sector fluctuates", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 74, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

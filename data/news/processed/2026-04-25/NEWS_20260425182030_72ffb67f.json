@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u65b0\u80fd\u6e90", 
+      "\u5143\u5b87\u5b99"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Wuliangye plans to increase holdings, analysts give Buy rating", 
+  "publish_time": "2026-04-17T22:52:30.512000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.42, 
+    "overall": "neutral"
+  }, 
+  "title": "Wuliangye plans to increase holdings, analysts give Buy rating", 
+  "original_title": "Wuliangye plans to increase holdings, analysts give Buy rating", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T18:20:30.512000", 
+  "source_url": "https://example.com/news/NEWS_20260425182030_72ffb67f", 
+  "news_id": "NEWS_20260425182030_72ffb67f", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Wuliangye plans to increase holdings, analysts give Buy rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 62, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

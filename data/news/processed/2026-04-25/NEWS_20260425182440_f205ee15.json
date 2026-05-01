@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182440_f205ee15",
+  "title": "Hengrui Medicine encountered lawsuit, stock price rising",
+  "original_title": "Hengrui Medicine encountered lawsuit, stock price rising",
+  "source": "\u540c\u82b1\u987a",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425182440_f205ee15",
+  "publish_time": "2026-04-23T09:36:40.333101",
+  "collect_time": "2026-04-25T18:24:40.333101",
+  "summary": "Hengrui Medicine encountered lawsuit, stock price rising",
+  "content": "Hengrui Medicine encountered lawsuit, stock price rising",
+  "related_stocks": [
+    {
+      "stock_code": "600276",
+      "stock_name": "Hengrui Medicine",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u884c\u4e1a\u52a8\u6001",
+    "secondary": [
+      "Finance"
+    ],
+    "tags": [
+      "\u653f\u7b56",
+      "\u6280\u672f\u7a81\u7834"
+    ]
+  },
+  "sentiment": {
+    "overall": "negative",
+    "score": 0.79,
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news"
+  },
+  "impact_level": "high",
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors",
+  "metadata": {
+    "word_count": 56,
+    "has_image": true,
+    "is_original": true,
+    "is_headline": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "name": "byd-catl-analysis",
+  "leadAgentId": "c599a16c7d174cc5bb80f86d7f8957e2",
+  "workspacePath": "d:/code/ai-stocks",
+  "createdAt": "2026-05-01T19:36:35.007Z",
+  "options": {
+    "workspacePath": "d:/code/ai-stocks",
+    "isAutoTeam": false
+  },
+  "members": [
+    {
+      "memberId": "team-lead@byd-catl-analysis",
+      "name": "team-lead",
+      "role": "Team Lead - coordinates the team and interacts with the user"
+    },
+    {
+      "memberId": "market-analyst@byd-catl-analysis",
+      "name": "market-analyst",
+      "role": "比亚迪宁德时代技术分析"
+    }
+  ],
+  "isAutoTeam": false
+}

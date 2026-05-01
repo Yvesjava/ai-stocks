@@ -1,0 +1,29 @@
+[
+  {
+    "id": "msg-1777664245823-wm8iyg",
+    "from": "team-lead",
+    "to": "@team",
+    "type": "broadcast",
+    "content": "请各位分析师注意：这是比亚迪（sz002594）和宁德时代（sz300750）的对比分析任务。两只股票都需要完整分析，最终需要给出对比结论。完成后请发送结果给我。",
+    "timestamp": "2026-05-01T19:37:25.823Z",
+    "read": true
+  },
+  {
+    "id": "msg-1777664264181-f1c9qw",
+    "from": "team-lead",
+    "to": "sentiment-analyst",
+    "type": "message",
+    "content": "请各位分析师尽快完成分析，完成后将完整报告发送给我。",
+    "timestamp": "2026-05-01T19:37:44.181Z",
+    "read": true
+  },
+  {
+    "id": "shutdown-1777664444934",
+    "from": "team-lead",
+    "to": "sentiment-analyst",
+    "type": "shutdown_request",
+    "content": "{\"type\":\"shutdown_request\",\"request_id\":\"shutdown-1777664444934\",\"reason\":\"工作已完成，请关闭\",\"from\":\"team-lead\",\"timestamp\":\"2026-05-01T19:40:44.934Z\"}",
+    "timestamp": "2026-05-01T19:40:44.934Z",
+    "read": true
+  }
+]

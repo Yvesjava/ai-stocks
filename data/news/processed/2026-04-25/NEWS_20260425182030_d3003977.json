@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u653f\u7b56", 
+      "\u8d8b\u52bf"
+    ], 
+    "primary": "\u884c\u4e1a\u52a8\u6001", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Regulatory authorities issued new regulation, Ping An Bank and other companies may be affected", 
+  "publish_time": "2026-04-21T11:50:30.512000", 
+  "sentiment": {
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news", 
+    "score": 0.68, 
+    "overall": "neutral"
+  }, 
+  "title": "Regulatory authorities issued new regulation, Ping An Bank and other companies may be affected", 
+  "original_title": "Regulatory authorities issued new regulation, Ping An Bank and other companies may be affected", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T18:20:30.512000", 
+  "source_url": "https://example.com/news/NEWS_20260425182030_d3003977", 
+  "news_id": "NEWS_20260425182030_d3003977", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "medium", 
+  "summary": "Regulatory authorities issued new regulation, Ping An Bank and other companies may be affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 94, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u65b0\u89c4", 
+      "\u901a\u62a5"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Hengrui Medicine reached strategic cooperation with Huawei to jointly develop Biomedicine", 
+  "publish_time": "2026-04-23T03:26:05.005000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": -0.99, 
+    "overall": "positive"
+  }, 
+  "title": "Hengrui Medicine reached strategic cooperation with Huawei to jointly develop Biomedicine", 
+  "original_title": "Hengrui Medicine reached strategic cooperation with Huawei to jointly develop Biomedicine", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T16:59:05.005000", 
+  "source_url": "https://example.com/news/NEWS_20260425165905_6e81d1fd", 
+  "news_id": "NEWS_20260425165905_6e81d1fd", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Hengrui Medicine reached strategic cooperation with Huawei to jointly develop Biomedicine", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 89, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5904\u7f5a", 
+      "\u901a\u62a5"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "International market rising, A-share Technology sector fluctuates", 
+  "publish_time": "2026-04-25T14:10:06.843000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": -0.52, 
+    "overall": "negative"
+  }, 
+  "title": "International market rising, A-share Technology sector fluctuates", 
+  "original_title": "International market rising, A-share Technology sector fluctuates", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T16:52:06.843000", 
+  "source_url": "https://example.com/news/NEWS_20260425165206_d51b64bf", 
+  "news_id": "NEWS_20260425165206_d51b64bf", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "International market rising, A-share Technology sector fluctuates", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 65, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

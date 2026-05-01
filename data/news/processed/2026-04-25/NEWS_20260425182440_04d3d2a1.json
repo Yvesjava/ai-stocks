@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182440_04d3d2a1",
+  "title": "Guizhou Moutai encountered violation, stock price falling",
+  "original_title": "Guizhou Moutai encountered violation, stock price falling",
+  "source": "\u65b0\u6d6a\u8d22\u7ecf",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425182440_04d3d2a1",
+  "publish_time": "2026-04-24T08:21:40.333101",
+  "collect_time": "2026-04-25T18:24:40.333101",
+  "summary": "Guizhou Moutai encountered violation, stock price falling",
+  "content": "Guizhou Moutai encountered violation, stock price falling",
+  "related_stocks": [
+    {
+      "stock_code": "600519",
+      "stock_name": "Guizhou Moutai",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u76d1\u7ba1\u52a8\u6001",
+    "secondary": [
+      "Technology"
+    ],
+    "tags": [
+      "\u5904\u7f5a",
+      "\u901a\u62a5"
+    ]
+  },
+  "sentiment": {
+    "overall": "positive",
+    "score": -0.86,
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news"
+  },
+  "impact_level": "low",
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors",
+  "metadata": {
+    "word_count": 57,
+    "has_image": true,
+    "is_original": true,
+    "is_headline": true
+  }
+}

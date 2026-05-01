@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u80a1\u6743\u6fc0\u52b1", 
+      "\u91cd\u5927\u4e8b\u9879"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "International market rising, A-share Technology sector fluctuates", 
+  "publish_time": "2026-04-22T20:50:49.513000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": 0.83, 
+    "overall": "negative"
+  }, 
+  "title": "International market rising, A-share Technology sector fluctuates", 
+  "original_title": "International market rising, A-share Technology sector fluctuates", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T17:43:49.513000", 
+  "source_url": "https://example.com/news/NEWS_20260425174349_d51b64bf", 
+  "news_id": "NEWS_20260425174349_d51b64bf", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "International market rising, A-share Technology sector fluctuates", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 65, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

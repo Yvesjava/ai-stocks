@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6307\u6570", 
+      "\u5927\u76d8"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Hengrui Medicine encountered performance decline, stock price rising", 
+  "publish_time": "2026-04-19T07:50:40.800000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": -0.29, 
+    "overall": "negative"
+  }, 
+  "title": "Hengrui Medicine encountered performance decline, stock price rising", 
+  "original_title": "Hengrui Medicine encountered performance decline, stock price rising", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T16:58:40.800000", 
+  "source_url": "https://example.com/news/NEWS_20260425165840_4a6c0c04", 
+  "news_id": "NEWS_20260425165840_4a6c0c04", 
+  "source": "\u6caa\u6df1\u4ea4\u6613\u6240", 
+  "source_type": "\u5b98\u65b9", 
+  "impact_level": "low", 
+  "summary": "Hengrui Medicine encountered performance decline, stock price rising", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 68, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8bc4\u7ea7", 
+      "\u4e70\u5165"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "International market rising, A-share Consumer sector fluctuates", 
+  "publish_time": "2026-04-18T17:12:46.864000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": 0.76, 
+    "overall": "positive"
+  }, 
+  "title": "International market rising, A-share Consumer sector fluctuates", 
+  "original_title": "International market rising, A-share Consumer sector fluctuates", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T17:39:46.866000", 
+  "source_url": "https://example.com/news/NEWS_20260425173946_49196025", 
+  "news_id": "NEWS_20260425173946_49196025", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "International market rising, A-share Consumer sector fluctuates", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 63, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5e74\u62a5", 
+      "\u5206\u7ea2"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "International market falling, A-share Consumer sector fluctuates", 
+  "publish_time": "2026-04-24T17:19:22.692000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": 0.3, 
+    "overall": "negative"
+  }, 
+  "title": "International market falling, A-share Consumer sector fluctuates", 
+  "original_title": "International market falling, A-share Consumer sector fluctuates", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T18:22:22.693000", 
+  "source_url": "https://example.com/news/NEWS_20260425182222_57d3b701", 
+  "news_id": "NEWS_20260425182222_57d3b701", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "International market falling, A-share Consumer sector fluctuates", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 64, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

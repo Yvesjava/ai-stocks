@@ -1,0 +1,377 @@
+[
+  {
+    "stock_name": "LONGi Green Energy",
+    "stock_code": "601012",
+    "selection_reasons": [
+      "\u76d1\u7ba1\u52a8\u6001: International market rising, A-share Technology se",
+      "\u5e02\u573a\u884c\u60c5: Macroeconomic data worse than expected, Consumer s",
+      "\u673a\u6784\u7814\u62a5: LONGi Green Energy encountered violation, stock pr"
+    ],
+    "average_sentiment": 0.17,
+    "mention_count": 15,
+    "timestamp": "2026-04-25T16:58:41.944000",
+    "latest_news_time": "2026-04-25T14:10:06.843000",
+    "source_news": [
+      "NEWS_20260425165206_d51b64bf",
+      "NEWS_20260425165348_2df9c13a",
+      "NEWS_20260425165026_c0cc14b4",
+      "NEWS_20260425164800_cbaa001b",
+      "NEWS_20260425165418_fef19413",
+      "NEWS_20260425164853_1d4d3ee6",
+      "NEWS_20260425165840_1991a077",
+      "NEWS_20260425165733_2f71861b",
+      "NEWS_20260425165206_7e2468fd",
+      "NEWS_20260425165348_2df9c13a",
+      "NEWS_20260425165251_3463686f",
+      "NEWS_20260425164800_1d4d3ee6",
+      "NEWS_20260425165026_3807c694",
+      "NEWS_20260425165348_7964614b",
+      "NEWS_20260425165418_7e27396e"
+    ],
+    "priority_score": 106.36,
+    "impact_levels": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  {
+    "stock_name": "BYD",
+    "stock_code": "002594",
+    "selection_reasons": [
+      "\u5e02\u573a\u884c\u60c5: BYD reached strategic cooperation with CATL to joi",
+      "\u673a\u6784\u7814\u62a5: BYD plans to private placement, analysts give Outp",
+      "\u7a81\u53d1\u4e8b\u4ef6: BYD encountered violation, stock price rising"
+    ],
+    "average_sentiment": 0.08,
+    "mention_count": 13,
+    "timestamp": "2026-04-25T16:58:41.944000",
+    "latest_news_time": "2026-04-25T15:43:33.003000",
+    "source_news": [
+      "NEWS_20260425165733_570ee8bb",
+      "NEWS_20260425164800_0da9bca7",
+      "NEWS_20260425165206_7f9de3a0",
+      "NEWS_20260425164651_07435f1a",
+      "NEWS_20260425164651_a9e4d9e1",
+      "NEWS_20260425165251_ff56c622",
+      "NEWS_20260425165418_987c9c2b",
+      "NEWS_20260425165733_4dfc2fd5",
+      "NEWS_20260425164651_6b3fa444",
+      "NEWS_20260425165026_36fd7e77",
+      "NEWS_20260425165418_f77434b1",
+      "NEWS_20260425165418_00bf8c77",
+      "NEWS_20260425164800_d269dbb0"
+    ],
+    "priority_score": 105.64,
+    "impact_levels": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  {
+    "stock_name": "Midea Group",
+    "stock_code": "000333",
+    "selection_reasons": [
+      "\u516c\u53f8\u8d22\u62a5: Macroeconomic data better than expected, Finance s",
+      "\u673a\u6784\u7814\u62a5: Finance sector benefits from policy support, Midea",
+      "\u516c\u53f8\u516c\u544a: International market falling, A-share Finance sect"
+    ],
+    "average_sentiment": -0.19,
+    "mention_count": 15,
+    "timestamp": "2026-04-25T16:58:41.944000",
+    "latest_news_time": "2026-04-25T08:11:06.843000",
+    "source_news": [
+      "NEWS_20260425165206_e024e4bb",
+      "NEWS_20260425165206_62871d15",
+      "NEWS_20260425165418_44e2044d",
+      "NEWS_20260425165251_ce644aaf",
+      "NEWS_20260425164800_35542651",
+      "NEWS_20260425165733_634159c9",
+      "NEWS_20260425164651_5f30b708",
+      "NEWS_20260425165840_431a3a22",
+      "NEWS_20260425165348_5f08dca3",
+      "NEWS_20260425165026_62871d15",
+      "NEWS_20260425165206_431a3a22",
+      "NEWS_20260425165026_91a18689",
+      "NEWS_20260425165348_060599c8",
+      "NEWS_20260425165251_d51b64bf",
+      "NEWS_20260425164853_590e1438"
+    ],
+    "priority_score": 101.34,
+    "impact_levels": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  {
+    "stock_name": "Wuliangye",
+    "stock_code": "000858",
+    "selection_reasons": [
+      "\u5e02\u573a\u884c\u60c5: Wuliangye encountered violation, stock price risin",
+      "\u516c\u53f8\u8d22\u62a5: International market falling, A-share Technology s",
+      "\u76d1\u7ba1\u52a8\u6001: Wuliangye launched new New Energy Vehicle, market "
+    ],
+    "average_sentiment": -0.01,
+    "mention_count": 23,
+    "timestamp": "2026-04-25T16:58:41.944000",
+    "latest_news_time": "2026-04-25T06:36:51.179000",
+    "source_news": [
+      "NEWS_20260425164651_a617b9b4",
+      "NEWS_20260425165816_50a801bf",
+      "NEWS_20260425165418_1b1a06db",
+      "NEWS_20260425165026_bc4453bd",
+      "NEWS_20260425164853_37cc413a",
+      "NEWS_20260425165251_71a0ce14",
+      "NEWS_20260425165206_6f8bd569",
+      "NEWS_20260425164800_952a5766",
+      "NEWS_20260425165418_904a9b2a",
+      "NEWS_20260425165251_52a9b9af",
+      "NEWS_20260425165733_904a9b2a",
+      "NEWS_20260425164853_be62129c",
+      "NEWS_20260425165251_5f30b708",
+      "NEWS_20260425165206_007b3761",
+      "NEWS_20260425165840_dc351efb",
+      "NEWS_20260425165816_89c93649",
+      "NEWS_20260425164651_1851d827",
+      "NEWS_20260425165348_118d96c5",
+      "NEWS_20260425165840_0fcfcc97",
+      "NEWS_20260425165840_57d3b701",
+      "NEWS_20260425165418_57d3b701",
+      "NEWS_20260425164651_23d5f483",
+      "NEWS_20260425165206_2df35f82"
+    ],
+    "priority_score": 100.68,
+    "impact_levels": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  {
+    "stock_name": "China Merchants Bank",
+    "stock_code": "600036",
+    "selection_reasons": [
+      "\u76d1\u7ba1\u52a8\u6001: China Merchants Bank launched new Smartphone, mark",
+      "\u673a\u6784\u7814\u62a5: China Merchants Bank plans to private placement, a",
+      "\u673a\u6784\u7814\u62a5: Pharmaceutical sector benefits from policy support"
+    ],
+    "average_sentiment": 0.01,
+    "mention_count": 19,
+    "timestamp": "2026-04-25T16:58:41.944000",
+    "latest_news_time": "2026-04-25T05:57:51.535000",
+    "source_news": [
+      "NEWS_20260425165251_426a0d0b",
+      "NEWS_20260425164651_536c6d69",
+      "NEWS_20260425165418_707d2b3d",
+      "NEWS_20260425164800_3dd27cba",
+      "NEWS_20260425164651_ebc8eee1",
+      "NEWS_20260425165816_9753dcbc",
+      "NEWS_20260425165816_b6736e2f",
+      "NEWS_20260425164800_2fd1914e",
+      "NEWS_20260425165026_fd5452fb",
+      "NEWS_20260425164853_4ca0508b",
+      "NEWS_20260425165733_32f46663",
+      "NEWS_20260425164651_fdfbb627",
+      "NEWS_20260425164800_bf6530cd",
+      "NEWS_20260425164853_a52ff371",
+      "NEWS_20260425164853_1eadf6a2",
+      "NEWS_20260425164800_d9a6da19",
+      "NEWS_20260425165348_5a8cdcbc",
+      "NEWS_20260425165026_918c586e",
+      "NEWS_20260425165251_6fc8ffb1"
+    ],
+    "priority_score": 100.62,
+    "impact_levels": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  {
+    "stock_name": "Hengrui Medicine",
+    "stock_code": "600276",
+    "selection_reasons": [
+      "\u5b8f\u89c2\u653f\u7b56: Hengrui Medicine expects 2026 Q2 net profit to gro",
+      "\u5b8f\u89c2\u653f\u7b56: Hengrui Medicine encountered lawsuit, stock price ",
+      "\u7a81\u53d1\u4e8b\u4ef6: Hengrui Medicine expects 2026 Q3 net profit to gro"
+    ],
+    "average_sentiment": 0.02,
+    "mention_count": 16,
+    "timestamp": "2026-04-25T16:58:41.944000",
+    "latest_news_time": "2026-04-25T04:14:51.180000",
+    "source_news": [
+      "NEWS_20260425164651_581c6eaf",
+      "NEWS_20260425165733_d51fc331",
+      "NEWS_20260425165348_3d0b5c61",
+      "NEWS_20260425165733_9ffbb734",
+      "NEWS_20260425165206_bff378a2",
+      "NEWS_20260425165418_d5f91a95",
+      "NEWS_20260425164853_dc351efb",
+      "NEWS_20260425164800_61763efa",
+      "NEWS_20260425165206_4059835d",
+      "NEWS_20260425165348_f205ee15",
+      "NEWS_20260425164651_37af0a2f",
+      "NEWS_20260425165816_e51205c8",
+      "NEWS_20260425165348_43d8d77f",
+      "NEWS_20260425165206_44e2044d",
+      "NEWS_20260425165840_c87b6504",
+      "NEWS_20260425165840_4a6c0c04"
+    ],
+    "priority_score": 100.01,
+    "impact_levels": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  {
+    "stock_name": "Ping An",
+    "stock_code": "601318",
+    "selection_reasons": [
+      "\u516c\u53f8\u516c\u544a: Ping An launched new Smart Device, market response",
+      "\u5e02\u573a\u884c\u60c5: Consumer sector benefits from policy support, Ping",
+      "\u5b8f\u89c2\u653f\u7b56: Macroeconomic data in line with expectations, Phar"
+    ],
+    "average_sentiment": 0.03,
+    "mention_count": 18,
+    "timestamp": "2026-04-25T16:58:41.944000",
+    "latest_news_time": "2026-04-25T01:49:18.324000",
+    "source_news": [
+      "NEWS_20260425165418_a2601b57",
+      "NEWS_20260425165418_129422a7",
+      "NEWS_20260425165206_0727d389",
+      "NEWS_20260425165206_df2cff6f",
+      "NEWS_20260425165840_a401ca35",
+      "NEWS_20260425165816_7d3df581",
+      "NEWS_20260425165816_17939e27",
+      "NEWS_20260425165816_24b04083",
+      "NEWS_20260425165348_77cc7fbb",
+      "NEWS_20260425165816_a401ca35",
+      "NEWS_20260425165816_77cc7fbb",
+      "NEWS_20260425165733_1a05d3c8",
+      "NEWS_20260425164800_3d06cdc4",
+      "NEWS_20260425165348_8de79823",
+      "NEWS_20260425165251_c6a5d051",
+      "NEWS_20260425165251_e5dc947e",
+      "NEWS_20260425164651_4b6778a5",
+      "NEWS_20260425165348_1daf9a1f"
+    ],
+    "priority_score": 99.06,
+    "impact_levels": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  {
+    "stock_name": "Guizhou Moutai",
+    "stock_code": "600519",
+    "selection_reasons": [
+      "\u6982\u5ff5\u70ed\u70b9: Guizhou Moutai reached strategic cooperation with ",
+      "\u56fd\u9645\u5e02\u573a: Guizhou Moutai encountered violation, stock price ",
+      "\u6982\u5ff5\u70ed\u70b9: Guizhou Moutai encountered lawsuit, stock price fl"
+    ],
+    "average_sentiment": 0.04,
+    "mention_count": 18,
+    "timestamp": "2026-04-25T16:58:41.944000",
+    "latest_news_time": "2026-04-24T21:07:40.800000",
+    "source_news": [
+      "NEWS_20260425165840_865ad7db",
+      "NEWS_20260425164853_fdef36ca",
+      "NEWS_20260425165733_88b6216b",
+      "NEWS_20260425165840_03a51a58",
+      "NEWS_20260425164800_f4b4ed72",
+      "NEWS_20260425164853_07122535",
+      "NEWS_20260425164853_de579068",
+      "NEWS_20260425165840_57d3b701",
+      "NEWS_20260425164853_1483c484",
+      "NEWS_20260425165733_219bdabb",
+      "NEWS_20260425165026_c6a5d051",
+      "NEWS_20260425165733_aae34ca3",
+      "NEWS_20260425165816_e7507df3",
+      "NEWS_20260425165251_6b7ff305",
+      "NEWS_20260425165251_04da6d8c",
+      "NEWS_20260425165733_88b6216b",
+      "NEWS_20260425164651_118d96c5",
+      "NEWS_20260425165251_cbb9d871"
+    ],
+    "priority_score": 97.35,
+    "impact_levels": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  {
+    "stock_name": "Ping An Bank",
+    "stock_code": "000001",
+    "selection_reasons": [
+      "\u884c\u4e1a\u52a8\u6001: Ping An Bank expects 2026 Q4 net profit to grow -1",
+      "\u884c\u4e1a\u52a8\u6001: Ping An Bank expects 2026 Q1 net profit to grow 33",
+      "\u516c\u53f8\u8d22\u62a5: Ping An Bank reached strategic cooperation with CA"
+    ],
+    "average_sentiment": 0.12,
+    "mention_count": 17,
+    "timestamp": "2026-04-25T16:58:41.944000",
+    "latest_news_time": "2026-04-24T01:52:18.324000",
+    "source_news": [
+      "NEWS_20260425165418_49e5e4b1",
+      "NEWS_20260425165251_42aa5e47",
+      "NEWS_20260425165026_7eaf532a",
+      "NEWS_20260425165840_f9b21cea",
+      "NEWS_20260425164651_13ccff8b",
+      "NEWS_20260425164853_f3a1a2a1",
+      "NEWS_20260425165348_abc2f853",
+      "NEWS_20260425165733_456accf1",
+      "NEWS_20260425165026_23b7dea4",
+      "NEWS_20260425165206_118d96c5",
+      "NEWS_20260425165840_4389c0de",
+      "NEWS_20260425165733_2820bf9e",
+      "NEWS_20260425165418_506e5101",
+      "NEWS_20260425164800_d6f4be68",
+      "NEWS_20260425165026_c19206ff",
+      "NEWS_20260425164800_13ccff8b",
+      "NEWS_20260425165840_f32ff1e0"
+    ],
+    "priority_score": 96.81,
+    "impact_levels": [
+      "high",
+      "medium",
+      "low"
+    ]
+  },
+  {
+    "stock_name": "China Tourism Group Duty Free",
+    "stock_code": "601888",
+    "selection_reasons": [
+      "\u5b8f\u89c2\u653f\u7b56: China Tourism Group Duty Free reached strategic co",
+      "\u516c\u53f8\u8d22\u62a5: China Tourism Group Duty Free encountered negative",
+      "\u56fd\u9645\u5e02\u573a: China Tourism Group Duty Free expects 2026 Q4 net "
+    ],
+    "average_sentiment": -0.18,
+    "mention_count": 11,
+    "timestamp": "2026-04-25T16:58:41.944000",
+    "latest_news_time": "2026-04-24T14:25:40.800000",
+    "source_news": [
+      "NEWS_20260425165840_c0329d9f",
+      "NEWS_20260425165816_94922b84",
+      "NEWS_20260425165026_72535c64",
+      "NEWS_20260425165816_9b4a699e",
+      "NEWS_20260425165348_99c75541",
+      "NEWS_20260425165816_9f332442",
+      "NEWS_20260425165026_ce8bfe05",
+      "NEWS_20260425165026_49196025",
+      "NEWS_20260425164853_7eb77481",
+      "NEWS_20260425165816_5384f2ad",
+      "NEWS_20260425164853_d51cd804"
+    ],
+    "priority_score": 95.0,
+    "impact_levels": [
+      "high",
+      "medium",
+      "low"
+    ]
+  }
+]

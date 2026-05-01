@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5143\u5b87\u5b99", 
+      "AI"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Ping An Bank launched new New Energy Vehicle, market response flat", 
+  "publish_time": "2026-04-22T04:07:46.866000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.87, 
+    "overall": "negative"
+  }, 
+  "title": "Ping An Bank launched new New Energy Vehicle, market response flat", 
+  "original_title": "Ping An Bank launched new New Energy Vehicle, market response flat", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T17:39:46.866000", 
+  "source_url": "https://example.com/news/NEWS_20260425173946_40ffe4d5", 
+  "news_id": "NEWS_20260425173946_40ffe4d5", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "low", 
+  "summary": "Ping An Bank launched new New Energy Vehicle, market response flat", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 66, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

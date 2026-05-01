@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u7ade\u4e89", 
+      "\u8d8b\u52bf"
+    ], 
+    "primary": "\u884c\u4e1a\u52a8\u6001", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Wuliangye plans to private placement, analysts give Sell rating", 
+  "publish_time": "2026-04-18T15:31:06.843000", 
+  "sentiment": {
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news", 
+    "score": 0.01, 
+    "overall": "positive"
+  }, 
+  "title": "Wuliangye plans to private placement, analysts give Sell rating", 
+  "original_title": "Wuliangye plans to private placement, analysts give Sell rating", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T16:52:06.843000", 
+  "source_url": "https://example.com/news/NEWS_20260425165206_2df35f82", 
+  "news_id": "NEWS_20260425165206_2df35f82", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Wuliangye plans to private placement, analysts give Sell rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 63, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

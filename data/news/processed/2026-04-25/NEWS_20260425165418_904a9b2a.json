@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u677f\u5757\u8f6e\u52a8", 
+      "\u6307\u6570"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Regulatory authorities issued favorable policy, Wuliangye and other companies may be affected", 
+  "publish_time": "2026-04-22T12:27:18.324000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": 0.31, 
+    "overall": "positive"
+  }, 
+  "title": "Regulatory authorities issued favorable policy, Wuliangye and other companies may be affected", 
+  "original_title": "Regulatory authorities issued favorable policy, Wuliangye and other companies may be affected", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T16:54:18.324000", 
+  "source_url": "https://example.com/news/NEWS_20260425165418_904a9b2a", 
+  "news_id": "NEWS_20260425165418_904a9b2a", 
+  "source": "\u6caa\u6df1\u4ea4\u6613\u6240", 
+  "source_type": "\u5b98\u65b9", 
+  "impact_level": "medium", 
+  "summary": "Regulatory authorities issued favorable policy, Wuliangye and other companies may be affected", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 93, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

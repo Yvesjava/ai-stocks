@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5229\u6da6", 
+      "\u8d22\u52a1\u6570\u636e"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Regulatory authorities issued favorable policy, LONGi Green Energy and other companies may be affected", 
+  "publish_time": "2026-04-24T11:49:00.863000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": -0.86, 
+    "overall": "negative"
+  }, 
+  "title": "Regulatory authorities issued favorable policy, LONGi Green Energy and other companies may be affected", 
+  "original_title": "Regulatory authorities issued favorable policy, LONGi Green Energy and other companies may be affected", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T16:48:00.863000", 
+  "source_url": "https://example.com/news/NEWS_20260425164800_cbaa001b", 
+  "news_id": "NEWS_20260425164800_cbaa001b", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Regulatory authorities issued favorable policy, LONGi Green Energy and other companies may be affect...", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 102, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

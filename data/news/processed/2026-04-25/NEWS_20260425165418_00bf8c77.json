@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5206\u7ea2", 
+      "\u91cd\u5927\u4e8b\u9879"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "BYD released Q2 2026 report, revenue 887.33 billion yuan, YoY growth 5.4%", 
+  "publish_time": "2026-04-19T05:10:18.324000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": 0.24, 
+    "overall": "neutral"
+  }, 
+  "title": "BYD released Q2 2026 report, revenue 887.33 billion yuan, YoY growth 5.4%", 
+  "original_title": "BYD released Q2 2026 report, revenue 887.33 billion yuan, YoY growth 5.4%", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T16:54:18.324000", 
+  "source_url": "https://example.com/news/NEWS_20260425165418_00bf8c77", 
+  "news_id": "NEWS_20260425165418_00bf8c77", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "BYD released Q2 2026 report, revenue 887.33 billion yuan, YoY growth 5.4%", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 73, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

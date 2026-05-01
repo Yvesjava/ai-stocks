@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5371\u673a", 
+      "\u5730\u9707"
+    ], 
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "International market falling, A-share New Energy sector fluctuates", 
+  "publish_time": "2026-04-20T20:13:26.118000", 
+  "sentiment": {
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news", 
+    "score": -0.71, 
+    "overall": "negative"
+  }, 
+  "title": "International market falling, A-share New Energy sector fluctuates", 
+  "original_title": "International market falling, A-share New Energy sector fluctuates", 
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+  "collect_time": "2026-04-25T16:50:26.118000", 
+  "source_url": "https://example.com/news/NEWS_20260425165026_ce8bfe05", 
+  "news_id": "NEWS_20260425165026_ce8bfe05", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "International market falling, A-share New Energy sector fluctuates", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 66, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Tourism Group Duty Free", 
+      "stock_code": "601888"
+    }
+  ]
+}

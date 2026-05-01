@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5730\u9707", 
+      "\u5371\u673a"
+    ], 
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "BYD encountered violation, stock price rising", 
+  "publish_time": "2026-04-25T05:54:06.843000", 
+  "sentiment": {
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news", 
+    "score": 0.43, 
+    "overall": "negative"
+  }, 
+  "title": "BYD encountered violation, stock price rising", 
+  "original_title": "BYD encountered violation, stock price rising", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T16:52:06.843000", 
+  "source_url": "https://example.com/news/NEWS_20260425165206_7f9de3a0", 
+  "news_id": "NEWS_20260425165206_7f9de3a0", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "medium", 
+  "summary": "BYD encountered violation, stock price rising", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 45, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

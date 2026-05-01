@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5206\u6790", 
+      "\u76ee\u6807\u4ef7"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Hengrui Medicine plans to increase holdings, analysts give Underperform rating", 
+  "publish_time": "2026-04-23T13:13:11.651000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": 0.8, 
+    "overall": "neutral"
+  }, 
+  "title": "Hengrui Medicine plans to increase holdings, analysts give Underperform rating", 
+  "original_title": "Hengrui Medicine plans to increase holdings, analysts give Underperform rating", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T17:40:11.651000", 
+  "source_url": "https://example.com/news/NEWS_20260425174011_7ebd8729", 
+  "news_id": "NEWS_20260425174011_7ebd8729", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Hengrui Medicine plans to increase holdings, analysts give Underperform rating", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 78, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

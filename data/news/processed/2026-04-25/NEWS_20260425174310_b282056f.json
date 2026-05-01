@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5143\u5b87\u5b99", 
+      "\u65b0\u80fd\u6e90"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Wuliangye plans to reduce holdings, analysts give Neutral rating", 
+  "publish_time": "2026-04-24T08:32:10.400000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": 0.02, 
+    "overall": "positive"
+  }, 
+  "title": "Wuliangye plans to reduce holdings, analysts give Neutral rating", 
+  "original_title": "Wuliangye plans to reduce holdings, analysts give Neutral rating", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T17:43:10.400000", 
+  "source_url": "https://example.com/news/NEWS_20260425174310_b282056f", 
+  "news_id": "NEWS_20260425174310_b282056f", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Wuliangye plans to reduce holdings, analysts give Neutral rating", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 64, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

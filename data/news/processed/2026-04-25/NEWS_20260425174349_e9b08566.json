@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8bc1\u76d1\u4f1a", 
+      "\u5904\u7f5a"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "BYD plans to repurchase shares, analysts give Outperform rating", 
+  "publish_time": "2026-04-23T03:47:49.512000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": 0.84, 
+    "overall": "positive"
+  }, 
+  "title": "BYD plans to repurchase shares, analysts give Outperform rating", 
+  "original_title": "BYD plans to repurchase shares, analysts give Outperform rating", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T17:43:49.512000", 
+  "source_url": "https://example.com/news/NEWS_20260425174349_e9b08566", 
+  "news_id": "NEWS_20260425174349_e9b08566", 
+  "source": "\u6caa\u6df1\u4ea4\u6613\u6240", 
+  "source_type": "\u5b98\u65b9", 
+  "impact_level": "low", 
+  "summary": "BYD plans to repurchase shares, analysts give Outperform rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 63, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

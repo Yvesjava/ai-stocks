@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5927\u76d8", 
+      "\u677f\u5757\u8f6e\u52a8"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "BYD launched new New Drug, market response flat", 
+  "publish_time": "2026-04-23T20:16:51.180000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": 0.81, 
+    "overall": "negative"
+  }, 
+  "title": "BYD launched new New Drug, market response flat", 
+  "original_title": "BYD launched new New Drug, market response flat", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T16:46:51.180000", 
+  "source_url": "https://example.com/news/NEWS_20260425164651_07435f1a", 
+  "news_id": "NEWS_20260425164651_07435f1a", 
+  "source": "\u6caa\u6df1\u4ea4\u6613\u6240", 
+  "source_type": "\u5b98\u65b9", 
+  "impact_level": "low", 
+  "summary": "BYD launched new New Drug, market response flat", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 47, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

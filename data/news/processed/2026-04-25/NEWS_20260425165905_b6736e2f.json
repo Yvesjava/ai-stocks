@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u4e70\u5165", 
+      "\u76ee\u6807\u4ef7"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "International market rising, A-share Finance sector fluctuates", 
+  "publish_time": "2026-04-20T22:30:05.005000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": -0.9, 
+    "overall": "negative"
+  }, 
+  "title": "International market rising, A-share Finance sector fluctuates", 
+  "original_title": "International market rising, A-share Finance sector fluctuates", 
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors", 
+  "collect_time": "2026-04-25T16:59:05.005000", 
+  "source_url": "https://example.com/news/NEWS_20260425165905_b6736e2f", 
+  "news_id": "NEWS_20260425165905_b6736e2f", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "International market rising, A-share Finance sector fluctuates", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 62, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Merchants Bank", 
+      "stock_code": "600036"
+    }
+  ]
+}

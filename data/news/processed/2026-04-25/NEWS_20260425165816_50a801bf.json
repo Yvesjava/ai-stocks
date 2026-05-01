@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5229\u6da6", 
+      "\u4e1a\u7ee9"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "International market falling, A-share Technology sector fluctuates", 
+  "publish_time": "2026-04-25T01:35:16.420000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": 0.81, 
+    "overall": "neutral"
+  }, 
+  "title": "International market falling, A-share Technology sector fluctuates", 
+  "original_title": "International market falling, A-share Technology sector fluctuates", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T16:58:16.420000", 
+  "source_url": "https://example.com/news/NEWS_20260425165816_50a801bf", 
+  "news_id": "NEWS_20260425165816_50a801bf", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "International market falling, A-share Technology sector fluctuates", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 66, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

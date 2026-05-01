@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425183005_3e524d5d",
+  "title": "Midea Group launched new New Energy Vehicle, market response enthusiastic",
+  "original_title": "Midea Group launched new New Energy Vehicle, market response enthusiastic",
+  "source": "\u8d22\u65b0\u7f51",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425183005_3e524d5d",
+  "publish_time": "2026-04-17T22:20:05.817249",
+  "collect_time": "2026-04-25T18:30:05.817249",
+  "summary": "Midea Group launched new New Energy Vehicle, market response enthusiastic",
+  "content": "Midea Group launched new New Energy Vehicle, market response enthusiastic",
+  "related_stocks": [
+    {
+      "stock_code": "000333",
+      "stock_name": "Midea Group",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u884c\u4e1a\u52a8\u6001",
+    "secondary": [
+      "Pharmaceutical"
+    ],
+    "tags": [
+      "\u7ade\u4e89",
+      "\u653f\u7b56"
+    ]
+  },
+  "sentiment": {
+    "overall": "neutral",
+    "score": -0.99,
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news"
+  },
+  "impact_level": "low",
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors",
+  "metadata": {
+    "word_count": 73,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": false
+  }
+}

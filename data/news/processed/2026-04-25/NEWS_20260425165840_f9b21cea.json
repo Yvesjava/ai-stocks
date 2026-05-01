@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d22\u653f\u653f\u7b56", 
+      "\u8d27\u5e01\u653f\u7b56"
+    ], 
+    "primary": "\u5b8f\u89c2\u653f\u7b56", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Ping An Bank launched new Smart Device, market response flat", 
+  "publish_time": "2026-04-23T00:07:40.800000", 
+  "sentiment": {
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news", 
+    "score": -0.34, 
+    "overall": "negative"
+  }, 
+  "title": "Ping An Bank launched new Smart Device, market response flat", 
+  "original_title": "Ping An Bank launched new Smart Device, market response flat", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T16:58:40.800000", 
+  "source_url": "https://example.com/news/NEWS_20260425165840_f9b21cea", 
+  "news_id": "NEWS_20260425165840_f9b21cea", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Ping An Bank launched new Smart Device, market response flat", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 60, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

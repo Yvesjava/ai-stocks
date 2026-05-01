@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182638_b28563c8",
+  "title": "Regulatory authorities issued new regulation, LONGi Green Energy and other companies may be affected",
+  "original_title": "Regulatory authorities issued new regulation, LONGi Green Energy and other companies may be affected",
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425182638_b28563c8",
+  "publish_time": "2026-04-22T19:59:38.051750",
+  "collect_time": "2026-04-25T18:26:38.051750",
+  "summary": "Regulatory authorities issued new regulation, LONGi Green Energy and other companies may be affected",
+  "content": "Regulatory authorities issued new regulation, LONGi Green Energy and other companies may be affected",
+  "related_stocks": [
+    {
+      "stock_code": "601012",
+      "stock_name": "LONGi Green Energy",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u56fd\u9645\u5e02\u573a",
+    "secondary": [
+      "Pharmaceutical"
+    ],
+    "tags": [
+      "\u539f\u6cb9",
+      "\u5916\u6c47"
+    ]
+  },
+  "sentiment": {
+    "overall": "positive",
+    "score": -0.51,
+    "reason": "\u56fd\u9645\u5e02\u573a related news"
+  },
+  "impact_level": "medium",
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors",
+  "metadata": {
+    "word_count": 100,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": false
+  }
+}

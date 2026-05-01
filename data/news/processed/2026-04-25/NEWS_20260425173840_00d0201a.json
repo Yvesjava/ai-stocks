@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u91cd\u5927\u4e8b\u9879", 
+      "\u80a1\u6743\u6fc0\u52b1"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Wuliangye released Q1 2026 report, revenue 909.71 billion yuan, YoY growth 37.56%", 
+  "publish_time": "2026-04-23T15:23:40.579000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": -0.7, 
+    "overall": "neutral"
+  }, 
+  "title": "Wuliangye released Q1 2026 report, revenue 909.71 billion yuan, YoY growth 37.56%", 
+  "original_title": "Wuliangye released Q1 2026 report, revenue 909.71 billion yuan, YoY growth 37.56%", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T17:38:40.581000", 
+  "source_url": "https://example.com/news/NEWS_20260425173840_00d0201a", 
+  "news_id": "NEWS_20260425173840_00d0201a", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "medium", 
+  "summary": "Wuliangye released Q1 2026 report, revenue 909.71 billion yuan, YoY growth 37.56%", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 81, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

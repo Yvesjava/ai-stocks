@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5b63\u62a5", 
+      "\u5e74\u62a5"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Guizhou Moutai released Q4 2026 report, revenue 138.39 billion yuan, YoY growth -8.83%", 
+  "publish_time": "2026-04-21T22:09:33.365000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": 0.86, 
+    "overall": "positive"
+  }, 
+  "title": "Guizhou Moutai released Q4 2026 report, revenue 138.39 billion yuan, YoY growth -8.83%", 
+  "original_title": "Guizhou Moutai released Q4 2026 report, revenue 138.39 billion yuan, YoY growth -8.83%", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T17:43:33.365000", 
+  "source_url": "https://example.com/news/NEWS_20260425174333_941aa814", 
+  "news_id": "NEWS_20260425174333_941aa814", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Guizhou Moutai released Q4 2026 report, revenue 138.39 billion yuan, YoY growth -8.83%", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 86, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

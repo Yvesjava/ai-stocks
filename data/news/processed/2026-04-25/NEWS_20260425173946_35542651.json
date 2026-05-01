@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u4e1a\u7ee9", 
+      "\u5229\u6da6"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Macroeconomic data worse than expected, New Energy sector affected", 
+  "publish_time": "2026-04-18T08:49:46.866000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": -0.49, 
+    "overall": "neutral"
+  }, 
+  "title": "Macroeconomic data worse than expected, New Energy sector affected", 
+  "original_title": "Macroeconomic data worse than expected, New Energy sector affected", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T17:39:46.866000", 
+  "source_url": "https://example.com/news/NEWS_20260425173946_35542651", 
+  "news_id": "NEWS_20260425173946_35542651", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Macroeconomic data worse than expected, New Energy sector affected", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 66, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

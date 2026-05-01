@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u534a\u5bfc\u4f53", 
+      "AI"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Macroeconomic data better than expected, Pharmaceutical sector affected", 
+  "publish_time": "2026-04-19T19:47:46.866000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.51, 
+    "overall": "positive"
+  }, 
+  "title": "Macroeconomic data better than expected, Pharmaceutical sector affected", 
+  "original_title": "Macroeconomic data better than expected, Pharmaceutical sector affected", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T17:39:46.866000", 
+  "source_url": "https://example.com/news/NEWS_20260425173946_9027a315", 
+  "news_id": "NEWS_20260425173946_9027a315", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Macroeconomic data better than expected, Pharmaceutical sector affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 71, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

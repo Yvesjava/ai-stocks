@@ -1,0 +1,172 @@
+[
+  {
+    "stock_name": "LONGi Green Energy",
+    "stock_code": "601012",
+    "priority_score": 106.36,
+    "target_price": 69.72,
+    "recommendation": "Strong Buy",
+    "risk_level": "High",
+    "source_news_count": 15,
+    "analysis_report": {
+      "technical_analysis": "Technical analysis:\n- MACD golden cross\n- Bollinger Band contraction\n- Bollinger Band breakout\n- Technical pattern: Bottom reversal\n",
+      "fundamental_analysis": "Fundamental analysis:\n- Gross margin improvement\n- Inventory turnover increase\n- Healthy cash flow\n- Financial condition: Good\n",
+      "news_analysis": "News analysis:\n- Recent mentions: 15 times\n- Average sentiment: 0.17\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T14:10:06.843000\n- News outlook: Positive\n",
+      "comprehensive_opinion": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+    },
+    "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Macroeconomic risk\n- Raw material price volatility\n",
+    "analysis_time": "2026-04-25T16:58:42.958000"
+  },
+  {
+    "stock_name": "BYD",
+    "stock_code": "002594",
+    "priority_score": 105.64,
+    "target_price": 428.08,
+    "recommendation": "Strong Buy",
+    "risk_level": "Low",
+    "source_news_count": 13,
+    "analysis_report": {
+      "technical_analysis": "Technical analysis:\n- Bollinger Band contraction\n- KDJ oversold\n- RSI neutral\n- MACD death cross\n- Technical pattern: Bottom reversal\n",
+      "fundamental_analysis": "Fundamental analysis:\n- R&D investment increase\n- Healthy cash flow\n- Inventory turnover increase\n- Gross margin improvement\n- Financial condition: Excellent\n",
+      "news_analysis": "News analysis:\n- Recent mentions: 13 times\n- Average sentiment: 0.08\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T15:43:33.003000\n- News outlook: Cautious\n",
+      "comprehensive_opinion": "Although news sentiment is positive, there is technical adjustment pressure and fundamentals need further observation."
+    },
+    "reasoning": "Recommendation reasons:\n- Fundamentals continue to improve, performance growth expected\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Industry cyclical risk\n- Inventory backlog risk\n",
+    "analysis_time": "2026-04-25T16:58:42.960000"
+  },
+  {
+    "stock_name": "Midea Group",
+    "stock_code": "000333",
+    "priority_score": 101.34,
+    "target_price": 858.96,
+    "recommendation": "Strong Buy",
+    "risk_level": "Medium",
+    "source_news_count": 15,
+    "analysis_report": {
+      "technical_analysis": "Technical analysis:\n- KDJ overbought\n- MACD golden cross\n- KDJ oversold\n- Technical pattern: Downtrend\n",
+      "fundamental_analysis": "Fundamental analysis:\n- Inventory turnover increase\n- ROE improvement\n- Gross margin improvement\n- Reasonable debt ratio\n- Financial condition: Good\n",
+      "news_analysis": "News analysis:\n- Recent mentions: 15 times\n- Average sentiment: -0.19\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T08:11:06.843000\n- News outlook: Cautious\n",
+      "comprehensive_opinion": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+    },
+    "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Inventory backlog risk\n- Raw material price volatility\n",
+    "analysis_time": "2026-04-25T16:58:42.960000"
+  },
+  {
+    "stock_name": "Wuliangye",
+    "stock_code": "000858",
+    "priority_score": 100.68,
+    "target_price": 451.5,
+    "recommendation": "Strong Buy",
+    "risk_level": "Medium",
+    "source_news_count": 23,
+    "analysis_report": {
+      "technical_analysis": "Technical analysis:\n- MACD death cross\n- KDJ oversold\n- Bollinger Band breakout\n- Technical pattern: Top pattern\n",
+      "fundamental_analysis": "Fundamental analysis:\n- Reasonable debt ratio\n- Accounts receivable turnover improvement\n- Gross margin improvement\n- ROE improvement\n- Net profit growth\n- Financial condition: Poor\n",
+      "news_analysis": "News analysis:\n- Recent mentions: 23 times\n- Average sentiment: -0.01\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T06:36:51.179000\n- News outlook: Positive\n",
+      "comprehensive_opinion": "Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals."
+    },
+    "reasoning": "Recommendation reasons:\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Intensified market competition\n- Exchange rate risk\n",
+    "analysis_time": "2026-04-25T16:58:42.960000"
+  },
+  {
+    "stock_name": "China Merchants Bank",
+    "stock_code": "600036",
+    "priority_score": 100.62,
+    "target_price": 630.98,
+    "recommendation": "Strong Buy",
+    "risk_level": "Medium",
+    "source_news_count": 19,
+    "analysis_report": {
+      "technical_analysis": "Technical analysis:\n- MACD golden cross\n- Volume-price coordination\n- MACD death cross\n- Bollinger Band contraction\n- RSI overbought\n- Technical pattern: Downtrend\n",
+      "fundamental_analysis": "Fundamental analysis:\n- Market share expansion\n- Accounts receivable turnover improvement\n- Gross margin improvement\n- ROE improvement\n- Reasonable debt ratio\n- Financial condition: Poor\n",
+      "news_analysis": "News analysis:\n- Recent mentions: 19 times\n- Average sentiment: 0.01\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T05:57:51.535000\n- News outlook: Cautious\n",
+      "comprehensive_opinion": "Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals."
+    },
+    "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Accounts receivable risk\n- Inventory backlog risk\n",
+    "analysis_time": "2026-04-25T16:58:42.960000"
+  },
+  {
+    "stock_name": "Hengrui Medicine",
+    "stock_code": "600276",
+    "priority_score": 100.01,
+    "target_price": 366.84,
+    "recommendation": "Strong Buy",
+    "risk_level": "High",
+    "source_news_count": 16,
+    "analysis_report": {
+      "technical_analysis": "Technical analysis:\n- Bollinger Band contraction\n- RSI overbought\n- KDJ overbought\n- Technical pattern: Bottom reversal\n",
+      "fundamental_analysis": "Fundamental analysis:\n- Accounts receivable turnover improvement\n- Reasonable debt ratio\n- Inventory turnover increase\n- Financial condition: Excellent\n",
+      "news_analysis": "News analysis:\n- Recent mentions: 16 times\n- Average sentiment: 0.02\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T04:14:51.180000\n- News outlook: Positive\n",
+      "comprehensive_opinion": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+    },
+    "reasoning": "Recommendation reasons:\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Exchange rate risk\n- Inventory backlog risk\n",
+    "analysis_time": "2026-04-25T16:58:42.960000"
+  },
+  {
+    "stock_name": "Ping An",
+    "stock_code": "601318",
+    "priority_score": 99.06,
+    "target_price": 170.66,
+    "recommendation": "Strong Buy",
+    "risk_level": "Medium",
+    "source_news_count": 18,
+    "analysis_report": {
+      "technical_analysis": "Technical analysis:\n- Volume-price coordination\n- KDJ oversold\n- KDJ overbought\n- MACD golden cross\n- Technical pattern: Bottom reversal\n",
+      "fundamental_analysis": "Fundamental analysis:\n- Inventory turnover increase\n- Gross margin improvement\n- ROE improvement\n- Accounts receivable turnover improvement\n- Net profit growth\n- Financial condition: Excellent\n",
+      "news_analysis": "News analysis:\n- Recent mentions: 18 times\n- Average sentiment: 0.03\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T01:49:18.324000\n- News outlook: Positive\n",
+      "comprehensive_opinion": "Both technical and news indicators show positive signals, with improving fundamentals. Worth focusing on."
+    },
+    "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Industry cyclical risk\n- Intensified market competition\n",
+    "analysis_time": "2026-04-25T16:58:42.961000"
+  },
+  {
+    "stock_name": "Guizhou Moutai",
+    "stock_code": "600519",
+    "priority_score": 97.35,
+    "target_price": 985.65,
+    "recommendation": "Strong Buy",
+    "risk_level": "Medium",
+    "source_news_count": 18,
+    "analysis_report": {
+      "technical_analysis": "Technical analysis:\n- RSI overbought\n- KDJ overbought\n- Bollinger Band contraction\n- Technical pattern: Sideways\n",
+      "fundamental_analysis": "Fundamental analysis:\n- Inventory turnover increase\n- Revenue growth\n- Market share expansion\n- Financial condition: Average\n",
+      "news_analysis": "News analysis:\n- Recent mentions: 18 times\n- Average sentiment: 0.04\n- Impact level: high, medium, low\n- Latest news time: 2026-04-24T21:07:40.800000\n- News outlook: Positive\n",
+      "comprehensive_opinion": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+    },
+    "reasoning": "Recommendation reasons:\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Macroeconomic risk\n- Accounts receivable risk\n",
+    "analysis_time": "2026-04-25T16:58:42.961000"
+  },
+  {
+    "stock_name": "Ping An Bank",
+    "stock_code": "000001",
+    "priority_score": 96.81,
+    "target_price": 827.67,
+    "recommendation": "Strong Buy",
+    "risk_level": "High",
+    "source_news_count": 17,
+    "analysis_report": {
+      "technical_analysis": "Technical analysis:\n- Bollinger Band contraction\n- Volume-price coordination\n- Bollinger Band breakout\n- MACD golden cross\n- Technical pattern: Sideways\n",
+      "fundamental_analysis": "Fundamental analysis:\n- Healthy cash flow\n- Net profit growth\n- Market share expansion\n- Inventory turnover increase\n- ROE improvement\n- Financial condition: Excellent\n",
+      "news_analysis": "News analysis:\n- Recent mentions: 17 times\n- Average sentiment: 0.12\n- Impact level: high, medium, low\n- Latest news time: 2026-04-24T01:52:18.324000\n- News outlook: Positive\n",
+      "comprehensive_opinion": "Both technical and news indicators show positive signals, with improving fundamentals. Worth focusing on."
+    },
+    "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Industry cyclical risk\n- Policy uncertainty\n",
+    "analysis_time": "2026-04-25T16:58:42.961000"
+  },
+  {
+    "stock_name": "China Tourism Group Duty Free",
+    "stock_code": "601888",
+    "priority_score": 95.0,
+    "target_price": 125.13,
+    "recommendation": "Strong Buy",
+    "risk_level": "High",
+    "source_news_count": 11,
+    "analysis_report": {
+      "technical_analysis": "Technical analysis:\n- MACD golden cross\n- Bollinger Band breakout\n- MA bullish\u6392\u5217\n- Bollinger Band contraction\n- Technical pattern: Top pattern\n",
+      "fundamental_analysis": "Fundamental analysis:\n- Accounts receivable turnover improvement\n- ROE improvement\n- Net profit growth\n- Healthy cash flow\n- Inventory turnover increase\n- Financial condition: Excellent\n",
+      "news_analysis": "News analysis:\n- Recent mentions: 11 times\n- Average sentiment: -0.18\n- Impact level: high, medium, low\n- Latest news time: 2026-04-24T14:25:40.800000\n- News outlook: Positive\n",
+      "comprehensive_opinion": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+    },
+    "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Raw material price volatility\n- Exchange rate risk\n",
+    "analysis_time": "2026-04-25T16:58:42.961000"
+  }
+]

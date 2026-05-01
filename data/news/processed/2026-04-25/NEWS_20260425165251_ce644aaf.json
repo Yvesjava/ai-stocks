@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u677f\u5757\u8f6e\u52a8", 
+      "\u6307\u6570"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Midea Group plans to reduce holdings, analysts give Buy rating", 
+  "publish_time": "2026-04-24T07:41:51.535000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": 0.61, 
+    "overall": "neutral"
+  }, 
+  "title": "Midea Group plans to reduce holdings, analysts give Buy rating", 
+  "original_title": "Midea Group plans to reduce holdings, analysts give Buy rating", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T16:52:51.535000", 
+  "source_url": "https://example.com/news/NEWS_20260425165251_ce644aaf", 
+  "news_id": "NEWS_20260425165251_ce644aaf", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Midea Group plans to reduce holdings, analysts give Buy rating", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 62, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

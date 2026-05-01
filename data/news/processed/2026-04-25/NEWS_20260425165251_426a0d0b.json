@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u901a\u62a5", 
+      "\u5904\u7f5a"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "China Merchants Bank launched new Smartphone, market response questioning", 
+  "publish_time": "2026-04-25T05:57:51.535000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": 0.01, 
+    "overall": "positive"
+  }, 
+  "title": "China Merchants Bank launched new Smartphone, market response questioning", 
+  "original_title": "China Merchants Bank launched new Smartphone, market response questioning", 
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors", 
+  "collect_time": "2026-04-25T16:52:51.535000", 
+  "source_url": "https://example.com/news/NEWS_20260425165251_426a0d0b", 
+  "news_id": "NEWS_20260425165251_426a0d0b", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "China Merchants Bank launched new Smartphone, market response questioning", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 73, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Merchants Bank", 
+      "stock_code": "600036"
+    }
+  ]
+}

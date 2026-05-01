@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8bc1\u76d1\u4f1a", 
+      "\u65b0\u89c4"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Wuliangye plans to reduce holdings, analysts give Sell rating", 
+  "publish_time": "2026-04-24T18:57:26.117000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": -0.3, 
+    "overall": "negative"
+  }, 
+  "title": "Wuliangye plans to reduce holdings, analysts give Sell rating", 
+  "original_title": "Wuliangye plans to reduce holdings, analysts give Sell rating", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T16:50:26.117000", 
+  "source_url": "https://example.com/news/NEWS_20260425165026_bc4453bd", 
+  "news_id": "NEWS_20260425165026_bc4453bd", 
+  "source": "\u8d22\u65b0\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Wuliangye plans to reduce holdings, analysts give Sell rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 61, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

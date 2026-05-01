@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d22\u653f\u653f\u7b56", 
+      "\u8d27\u5e01\u653f\u7b56"
+    ], 
+    "primary": "\u5b8f\u89c2\u653f\u7b56", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "China Merchants Bank launched new New Energy Vehicle, market response questioning", 
+  "publish_time": "2026-04-20T17:27:00.863000", 
+  "sentiment": {
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news", 
+    "score": -0.82, 
+    "overall": "positive"
+  }, 
+  "title": "China Merchants Bank launched new New Energy Vehicle, market response questioning", 
+  "original_title": "China Merchants Bank launched new New Energy Vehicle, market response questioning", 
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors", 
+  "collect_time": "2026-04-25T16:48:00.863000", 
+  "source_url": "https://example.com/news/NEWS_20260425164800_bf6530cd", 
+  "news_id": "NEWS_20260425164800_bf6530cd", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "China Merchants Bank launched new New Energy Vehicle, market response questioning", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 81, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Merchants Bank", 
+      "stock_code": "600036"
+    }
+  ]
+}

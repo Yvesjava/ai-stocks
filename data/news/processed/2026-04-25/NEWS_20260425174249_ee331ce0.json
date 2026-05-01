@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u534a\u5bfc\u4f53", 
+      "\u65b0\u80fd\u6e90"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Ping An Bank encountered performance decline, stock price fluctuating", 
+  "publish_time": "2026-04-21T19:57:49.381000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.57, 
+    "overall": "positive"
+  }, 
+  "title": "Ping An Bank encountered performance decline, stock price fluctuating", 
+  "original_title": "Ping An Bank encountered performance decline, stock price fluctuating", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T17:42:49.381000", 
+  "source_url": "https://example.com/news/NEWS_20260425174249_ee331ce0", 
+  "news_id": "NEWS_20260425174249_ee331ce0", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Ping An Bank encountered performance decline, stock price fluctuating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 69, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

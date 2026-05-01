@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5904\u7f5a", 
+      "\u8bc1\u76d1\u4f1a"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Hengrui Medicine released Q1 2026 report, revenue 973.46 billion yuan, YoY growth 17.82%", 
+  "publish_time": "2026-04-18T07:48:45.457000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": -0.79, 
+    "overall": "neutral"
+  }, 
+  "title": "Hengrui Medicine released Q1 2026 report, revenue 973.46 billion yuan, YoY growth 17.82%", 
+  "original_title": "Hengrui Medicine released Q1 2026 report, revenue 973.46 billion yuan, YoY growth 17.82%", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T18:21:45.457000", 
+  "source_url": "https://example.com/news/NEWS_20260425182145_0952fdda", 
+  "news_id": "NEWS_20260425182145_0952fdda", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Hengrui Medicine released Q1 2026 report, revenue 973.46 billion yuan, YoY growth 17.82%", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 88, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

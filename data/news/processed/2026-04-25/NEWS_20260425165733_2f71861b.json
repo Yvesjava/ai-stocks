@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u76ee\u6807\u4ef7", 
+      "\u8bc4\u7ea7"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "LONGi Green Energy released Q4 2026 report, revenue 373.53 billion yuan, YoY growth -7.02%", 
+  "publish_time": "2026-04-23T01:21:33.003000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": 0.7, 
+    "overall": "neutral"
+  }, 
+  "title": "LONGi Green Energy released Q4 2026 report, revenue 373.53 billion yuan, YoY growth -7.02%", 
+  "original_title": "LONGi Green Energy released Q4 2026 report, revenue 373.53 billion yuan, YoY growth -7.02%", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T16:57:33.003000", 
+  "source_url": "https://example.com/news/NEWS_20260425165733_2f71861b", 
+  "news_id": "NEWS_20260425165733_2f71861b", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "high", 
+  "summary": "LONGi Green Energy released Q4 2026 report, revenue 373.53 billion yuan, YoY growth -7.02%", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 90, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

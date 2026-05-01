@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6e2f\u80a1", 
+      "\u7f8e\u80a1"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Regulatory authorities issued new regulation, Ping An and other companies may be affected", 
+  "publish_time": "2026-04-20T14:10:16.421000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": 0.23, 
+    "overall": "negative"
+  }, 
+  "title": "Regulatory authorities issued new regulation, Ping An and other companies may be affected", 
+  "original_title": "Regulatory authorities issued new regulation, Ping An and other companies may be affected", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T16:58:16.421000", 
+  "source_url": "https://example.com/news/NEWS_20260425165816_77cc7fbb", 
+  "news_id": "NEWS_20260425165816_77cc7fbb", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Regulatory authorities issued new regulation, Ping An and other companies may be affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 89, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

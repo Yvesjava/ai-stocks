@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8bc4\u7ea7", 
+      "\u4e70\u5165"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Ping An Bank plans to repurchase shares, analysts give Buy rating", 
+  "publish_time": "2026-04-18T18:48:26.117000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": -0.62, 
+    "overall": "positive"
+  }, 
+  "title": "Ping An Bank plans to repurchase shares, analysts give Buy rating", 
+  "original_title": "Ping An Bank plans to repurchase shares, analysts give Buy rating", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T16:50:26.117000", 
+  "source_url": "https://example.com/news/NEWS_20260425165026_c19206ff", 
+  "news_id": "NEWS_20260425165026_c19206ff", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "low", 
+  "summary": "Ping An Bank plans to repurchase shares, analysts give Buy rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 65, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

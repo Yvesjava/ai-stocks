@@ -1,0 +1,1216 @@
+{
+  "workflow_id": "WF_20260425_182440",
+  "started_at": "2026-04-25T18:24:40.099290",
+  "completed_at": "2026-04-25T18:24:42.559933",
+  "stages": {
+    "news_collector": {
+      "status": "completed",
+      "start_time": "2026-04-25T18:24:40.099290",
+      "end_time": "2026-04-25T18:24:40.372882",
+      "duration_seconds": 0.273592,
+      "result": [
+        {
+          "news_id": "NEWS_20260425182440_bc9bd178",
+          "title": "New Energy sector benefits from policy support, China Tourism Group Duty Free and related stocks benefit",
+          "original_title": "New Energy sector benefits from policy support, China Tourism Group Duty Free and related stocks benefit",
+          "source": "凤凰财经",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_bc9bd178",
+          "publish_time": "2026-04-19T21:41:40.332590",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "New Energy sector benefits from policy support, China Tourism Group Duty Free and related stocks ben...",
+          "content": "New Energy sector benefits from policy support, China Tourism Group Duty Free and related stocks benefit",
+          "related_stocks": [
+            {
+              "stock_code": "601888",
+              "stock_name": "China Tourism Group Duty Free",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "公司财报",
+            "secondary": [
+              "Pharmaceutical"
+            ],
+            "tags": [
+              "利润",
+              "业绩"
+            ]
+          },
+          "sentiment": {
+            "overall": "positive",
+            "score": 0.96,
+            "reason": "公司财报 related news"
+          },
+          "impact_level": "low",
+          "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors",
+          "metadata": {
+            "word_count": 104,
+            "has_image": true,
+            "is_original": true,
+            "is_headline": false
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_fbe47d8f",
+          "title": "Ping An released Q3 2026 report, revenue 421.21 billion yuan, YoY growth 12.12%",
+          "original_title": "Ping An released Q3 2026 report, revenue 421.21 billion yuan, YoY growth 12.12%",
+          "source": "财新网",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_fbe47d8f",
+          "publish_time": "2026-04-24T12:17:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "Ping An released Q3 2026 report, revenue 421.21 billion yuan, YoY growth 12.12%",
+          "content": "Ping An released Q3 2026 report, revenue 421.21 billion yuan, YoY growth 12.12%",
+          "related_stocks": [
+            {
+              "stock_code": "601318",
+              "stock_name": "Ping An",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "突发事件",
+            "secondary": [
+              "Technology"
+            ],
+            "tags": [
+              "地震",
+              "疫情"
+            ]
+          },
+          "sentiment": {
+            "overall": "negative",
+            "score": -0.16,
+            "reason": "突发事件 related news"
+          },
+          "impact_level": "low",
+          "market_reaction_expected": "Expected to impact Ping An and related sectors",
+          "metadata": {
+            "word_count": 79,
+            "has_image": false,
+            "is_original": true,
+            "is_headline": true
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_422c52e8",
+          "title": "Technology sector benefits from policy support, Wuliangye and related stocks benefit",
+          "original_title": "Technology sector benefits from policy support, Wuliangye and related stocks benefit",
+          "source": "新浪财经",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_422c52e8",
+          "publish_time": "2026-04-23T14:32:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "Technology sector benefits from policy support, Wuliangye and related stocks benefit",
+          "content": "Technology sector benefits from policy support, Wuliangye and related stocks benefit",
+          "related_stocks": [
+            {
+              "stock_code": "000858",
+              "stock_name": "Wuliangye",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "公司公告",
+            "secondary": [
+              "Finance"
+            ],
+            "tags": [
+              "年报",
+              "股权激励"
+            ]
+          },
+          "sentiment": {
+            "overall": "negative",
+            "score": 0.93,
+            "reason": "公司公告 related news"
+          },
+          "impact_level": "low",
+          "market_reaction_expected": "Expected to impact Wuliangye and related sectors",
+          "metadata": {
+            "word_count": 84,
+            "has_image": false,
+            "is_original": true,
+            "is_headline": false
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_dbbebe2e",
+          "title": "Wuliangye launched new Smart Device, market response enthusiastic",
+          "original_title": "Wuliangye launched new Smart Device, market response enthusiastic",
+          "source": "东方财富网",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_dbbebe2e",
+          "publish_time": "2026-04-24T17:32:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "Wuliangye launched new Smart Device, market response enthusiastic",
+          "content": "Wuliangye launched new Smart Device, market response enthusiastic",
+          "related_stocks": [
+            {
+              "stock_code": "000858",
+              "stock_name": "Wuliangye",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "公司公告",
+            "secondary": [
+              "Pharmaceutical"
+            ],
+            "tags": [
+              "年报",
+              "股权激励"
+            ]
+          },
+          "sentiment": {
+            "overall": "positive",
+            "score": -0.73,
+            "reason": "公司公告 related news"
+          },
+          "impact_level": "high",
+          "market_reaction_expected": "Expected to impact Wuliangye and related sectors",
+          "metadata": {
+            "word_count": 65,
+            "has_image": true,
+            "is_original": true,
+            "is_headline": false
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_b90a9c9c",
+          "title": "BYD expects 2026 Q2 net profit to grow -11.51% YoY, exceeding market expectations",
+          "original_title": "BYD expects 2026 Q2 net profit to grow -11.51% YoY, exceeding market expectations",
+          "source": "沪深交易所",
+          "source_type": "官方",
+          "source_url": "https://example.com/news/NEWS_20260425182440_b90a9c9c",
+          "publish_time": "2026-04-19T06:29:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "BYD expects 2026 Q2 net profit to grow -11.51% YoY, exceeding market expectations",
+          "content": "BYD expects 2026 Q2 net profit to grow -11.51% YoY, exceeding market expectations",
+          "related_stocks": [
+            {
+              "stock_code": "002594",
+              "stock_name": "BYD",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "机构研报",
+            "secondary": [
+              "Technology"
+            ],
+            "tags": [
+              "买入",
+              "分析"
+            ]
+          },
+          "sentiment": {
+            "overall": "negative",
+            "score": -0.37,
+            "reason": "机构研报 related news"
+          },
+          "impact_level": "medium",
+          "market_reaction_expected": "Expected to impact BYD and related sectors",
+          "metadata": {
+            "word_count": 81,
+            "has_image": false,
+            "is_original": true,
+            "is_headline": false
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_f205ee15",
+          "title": "Hengrui Medicine encountered lawsuit, stock price rising",
+          "original_title": "Hengrui Medicine encountered lawsuit, stock price rising",
+          "source": "同花顺",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_f205ee15",
+          "publish_time": "2026-04-23T09:36:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "Hengrui Medicine encountered lawsuit, stock price rising",
+          "content": "Hengrui Medicine encountered lawsuit, stock price rising",
+          "related_stocks": [
+            {
+              "stock_code": "600276",
+              "stock_name": "Hengrui Medicine",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "行业动态",
+            "secondary": [
+              "Finance"
+            ],
+            "tags": [
+              "政策",
+              "技术突破"
+            ]
+          },
+          "sentiment": {
+            "overall": "negative",
+            "score": 0.79,
+            "reason": "行业动态 related news"
+          },
+          "impact_level": "high",
+          "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors",
+          "metadata": {
+            "word_count": 56,
+            "has_image": true,
+            "is_original": true,
+            "is_headline": true
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_b7605b0d",
+          "title": "China Merchants Bank released Q3 2026 report, revenue 424.63 billion yuan, YoY growth 8.91%",
+          "original_title": "China Merchants Bank released Q3 2026 report, revenue 424.63 billion yuan, YoY growth 8.91%",
+          "source": "东方财富网",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_b7605b0d",
+          "publish_time": "2026-04-20T04:46:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "China Merchants Bank released Q3 2026 report, revenue 424.63 billion yuan, YoY growth 8.91%",
+          "content": "China Merchants Bank released Q3 2026 report, revenue 424.63 billion yuan, YoY growth 8.91%",
+          "related_stocks": [
+            {
+              "stock_code": "600036",
+              "stock_name": "China Merchants Bank",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "公司公告",
+            "secondary": [
+              "Technology"
+            ],
+            "tags": [
+              "年报",
+              "季报"
+            ]
+          },
+          "sentiment": {
+            "overall": "neutral",
+            "score": 0.6,
+            "reason": "公司公告 related news"
+          },
+          "impact_level": "low",
+          "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors",
+          "metadata": {
+            "word_count": 91,
+            "has_image": false,
+            "is_original": true,
+            "is_headline": true
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_297503c0",
+          "title": "China Merchants Bank released Q4 2026 report, revenue 591.86 billion yuan, YoY growth -11.95%",
+          "original_title": "China Merchants Bank released Q4 2026 report, revenue 591.86 billion yuan, YoY growth -11.95%",
+          "source": "东方财富网",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_297503c0",
+          "publish_time": "2026-04-17T22:17:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "China Merchants Bank released Q4 2026 report, revenue 591.86 billion yuan, YoY growth -11.95%",
+          "content": "China Merchants Bank released Q4 2026 report, revenue 591.86 billion yuan, YoY growth -11.95%",
+          "related_stocks": [
+            {
+              "stock_code": "600036",
+              "stock_name": "China Merchants Bank",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "市场行情",
+            "secondary": [
+              "Pharmaceutical"
+            ],
+            "tags": [
+              "成交额",
+              "板块轮动"
+            ]
+          },
+          "sentiment": {
+            "overall": "positive",
+            "score": -0.86,
+            "reason": "市场行情 related news"
+          },
+          "impact_level": "low",
+          "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors",
+          "metadata": {
+            "word_count": 93,
+            "has_image": false,
+            "is_original": true,
+            "is_headline": true
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_219bdabb",
+          "title": "International market fluctuating, A-share Consumer sector fluctuates",
+          "original_title": "International market fluctuating, A-share Consumer sector fluctuates",
+          "source": "新浪财经",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_219bdabb",
+          "publish_time": "2026-04-24T01:14:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "International market fluctuating, A-share Consumer sector fluctuates",
+          "content": "International market fluctuating, A-share Consumer sector fluctuates",
+          "related_stocks": [
+            {
+              "stock_code": "600276",
+              "stock_name": "Hengrui Medicine",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "突发事件",
+            "secondary": [
+              "Finance"
+            ],
+            "tags": [
+              "事故",
+              "疫情"
+            ]
+          },
+          "sentiment": {
+            "overall": "negative",
+            "score": 0.52,
+            "reason": "突发事件 related news"
+          },
+          "impact_level": "low",
+          "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors",
+          "metadata": {
+            "word_count": 68,
+            "has_image": true,
+            "is_original": true,
+            "is_headline": true
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_75375af5",
+          "title": "New Energy sector benefits from policy support, Midea Group and related stocks benefit",
+          "original_title": "New Energy sector benefits from policy support, Midea Group and related stocks benefit",
+          "source": "新浪财经",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_75375af5",
+          "publish_time": "2026-04-18T22:05:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "New Energy sector benefits from policy support, Midea Group and related stocks benefit",
+          "content": "New Energy sector benefits from policy support, Midea Group and related stocks benefit",
+          "related_stocks": [
+            {
+              "stock_code": "000333",
+              "stock_name": "Midea Group",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "市场行情",
+            "secondary": [
+              "Pharmaceutical"
+            ],
+            "tags": [
+              "成交额",
+              "板块轮动"
+            ]
+          },
+          "sentiment": {
+            "overall": "positive",
+            "score": -0.32,
+            "reason": "市场行情 related news"
+          },
+          "impact_level": "high",
+          "market_reaction_expected": "Expected to impact Midea Group and related sectors",
+          "metadata": {
+            "word_count": 86,
+            "has_image": false,
+            "is_original": true,
+            "is_headline": true
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_71a48cc1",
+          "title": "Finance sector benefits from policy support, Wuliangye and related stocks benefit",
+          "original_title": "Finance sector benefits from policy support, Wuliangye and related stocks benefit",
+          "source": "东方财富网",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_71a48cc1",
+          "publish_time": "2026-04-23T06:49:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "Finance sector benefits from policy support, Wuliangye and related stocks benefit",
+          "content": "Finance sector benefits from policy support, Wuliangye and related stocks benefit",
+          "related_stocks": [
+            {
+              "stock_code": "000858",
+              "stock_name": "Wuliangye",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "监管动态",
+            "secondary": [
+              "New Energy"
+            ],
+            "tags": [
+              "证监会",
+              "新规"
+            ]
+          },
+          "sentiment": {
+            "overall": "negative",
+            "score": 0.17,
+            "reason": "监管动态 related news"
+          },
+          "impact_level": "low",
+          "market_reaction_expected": "Expected to impact Wuliangye and related sectors",
+          "metadata": {
+            "word_count": 81,
+            "has_image": false,
+            "is_original": true,
+            "is_headline": false
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_8a731343",
+          "title": "Technology sector benefits from policy support, China Merchants Bank and related stocks benefit",
+          "original_title": "Technology sector benefits from policy support, China Merchants Bank and related stocks benefit",
+          "source": "财新网",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_8a731343",
+          "publish_time": "2026-04-21T18:48:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "Technology sector benefits from policy support, China Merchants Bank and related stocks benefit",
+          "content": "Technology sector benefits from policy support, China Merchants Bank and related stocks benefit",
+          "related_stocks": [
+            {
+              "stock_code": "600036",
+              "stock_name": "China Merchants Bank",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "国际市场",
+            "secondary": [
+              "Finance"
+            ],
+            "tags": [
+              "原油",
+              "美股"
+            ]
+          },
+          "sentiment": {
+            "overall": "positive",
+            "score": -0.18,
+            "reason": "国际市场 related news"
+          },
+          "impact_level": "low",
+          "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors",
+          "metadata": {
+            "word_count": 95,
+            "has_image": false,
+            "is_original": true,
+            "is_headline": false
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_4dca73e8",
+          "title": "LONGi Green Energy plans to private placement, analysts give Sell rating",
+          "original_title": "LONGi Green Energy plans to private placement, analysts give Sell rating",
+          "source": "沪深交易所",
+          "source_type": "官方",
+          "source_url": "https://example.com/news/NEWS_20260425182440_4dca73e8",
+          "publish_time": "2026-04-24T11:54:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "LONGi Green Energy plans to private placement, analysts give Sell rating",
+          "content": "LONGi Green Energy plans to private placement, analysts give Sell rating",
+          "related_stocks": [
+            {
+              "stock_code": "601012",
+              "stock_name": "LONGi Green Energy",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "市场行情",
+            "secondary": [
+              "Finance"
+            ],
+            "tags": [
+              "板块轮动",
+              "成交额"
+            ]
+          },
+          "sentiment": {
+            "overall": "negative",
+            "score": -0.5,
+            "reason": "市场行情 related news"
+          },
+          "impact_level": "high",
+          "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors",
+          "metadata": {
+            "word_count": 72,
+            "has_image": false,
+            "is_original": true,
+            "is_headline": true
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_04d3d2a1",
+          "title": "Guizhou Moutai encountered violation, stock price falling",
+          "original_title": "Guizhou Moutai encountered violation, stock price falling",
+          "source": "新浪财经",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_04d3d2a1",
+          "publish_time": "2026-04-24T08:21:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "Guizhou Moutai encountered violation, stock price falling",
+          "content": "Guizhou Moutai encountered violation, stock price falling",
+          "related_stocks": [
+            {
+              "stock_code": "600519",
+              "stock_name": "Guizhou Moutai",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "监管动态",
+            "secondary": [
+              "Technology"
+            ],
+            "tags": [
+              "处罚",
+              "通报"
+            ]
+          },
+          "sentiment": {
+            "overall": "positive",
+            "score": -0.86,
+            "reason": "监管动态 related news"
+          },
+          "impact_level": "low",
+          "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors",
+          "metadata": {
+            "word_count": 57,
+            "has_image": true,
+            "is_original": true,
+            "is_headline": true
+          }
+        },
+        {
+          "news_id": "NEWS_20260425182440_9ea097d5",
+          "title": "Guizhou Moutai plans to reduce holdings, analysts give Neutral rating",
+          "original_title": "Guizhou Moutai plans to reduce holdings, analysts give Neutral rating",
+          "source": "第一财经",
+          "source_type": "财经媒体",
+          "source_url": "https://example.com/news/NEWS_20260425182440_9ea097d5",
+          "publish_time": "2026-04-23T01:02:40.333101",
+          "collect_time": "2026-04-25T18:24:40.333101",
+          "summary": "Guizhou Moutai plans to reduce holdings, analysts give Neutral rating",
+          "content": "Guizhou Moutai plans to reduce holdings, analysts give Neutral rating",
+          "related_stocks": [
+            {
+              "stock_code": "600519",
+              "stock_name": "Guizhou Moutai",
+              "mention_type": "main target"
+            }
+          ],
+          "category": {
+            "primary": "市场行情",
+            "secondary": [
+              "Technology"
+            ],
+            "tags": [
+              "大盘",
+              "成交额"
+            ]
+          },
+          "sentiment": {
+            "overall": "negative",
+            "score": -0.96,
+            "reason": "市场行情 related news"
+          },
+          "impact_level": "high",
+          "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors",
+          "metadata": {
+            "word_count": 69,
+            "has_image": true,
+            "is_original": true,
+            "is_headline": true
+          }
+        }
+      ]
+    },
+    "stock_collector": {
+      "status": "completed",
+      "start_time": "2026-04-25T18:24:40.892081",
+      "end_time": "2026-04-25T18:24:40.999069",
+      "duration_seconds": 0.106988,
+      "result": [
+        {
+          "stock_name": "LONGi Green Energy",
+          "stock_code": "601012",
+          "selection_reasons": [
+            "监管动态: International market rising, A-share Technology se",
+            "市场行情: Macroeconomic data worse than expected, Consumer s",
+            "机构研报: LONGi Green Energy encountered violation, stock pr"
+          ],
+          "average_sentiment": 0.17,
+          "mention_count": 15,
+          "timestamp": "2026-04-25T16:58:41.944000",
+          "latest_news_time": "2026-04-25T14:10:06.843000",
+          "source_news": [
+            "NEWS_20260425165206_d51b64bf",
+            "NEWS_20260425165348_2df9c13a",
+            "NEWS_20260425165026_c0cc14b4",
+            "NEWS_20260425164800_cbaa001b",
+            "NEWS_20260425165418_fef19413",
+            "NEWS_20260425164853_1d4d3ee6",
+            "NEWS_20260425165840_1991a077",
+            "NEWS_20260425165733_2f71861b",
+            "NEWS_20260425165206_7e2468fd",
+            "NEWS_20260425165348_2df9c13a",
+            "NEWS_20260425165251_3463686f",
+            "NEWS_20260425164800_1d4d3ee6",
+            "NEWS_20260425165026_3807c694",
+            "NEWS_20260425165348_7964614b",
+            "NEWS_20260425165418_7e27396e"
+          ],
+          "priority_score": 106.36,
+          "impact_levels": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        {
+          "stock_name": "BYD",
+          "stock_code": "002594",
+          "selection_reasons": [
+            "市场行情: BYD reached strategic cooperation with CATL to joi",
+            "机构研报: BYD plans to private placement, analysts give Outp",
+            "突发事件: BYD encountered violation, stock price rising"
+          ],
+          "average_sentiment": 0.08,
+          "mention_count": 13,
+          "timestamp": "2026-04-25T16:58:41.944000",
+          "latest_news_time": "2026-04-25T15:43:33.003000",
+          "source_news": [
+            "NEWS_20260425165733_570ee8bb",
+            "NEWS_20260425164800_0da9bca7",
+            "NEWS_20260425165206_7f9de3a0",
+            "NEWS_20260425164651_07435f1a",
+            "NEWS_20260425164651_a9e4d9e1",
+            "NEWS_20260425165251_ff56c622",
+            "NEWS_20260425165418_987c9c2b",
+            "NEWS_20260425165733_4dfc2fd5",
+            "NEWS_20260425164651_6b3fa444",
+            "NEWS_20260425165026_36fd7e77",
+            "NEWS_20260425165418_f77434b1",
+            "NEWS_20260425165418_00bf8c77",
+            "NEWS_20260425164800_d269dbb0"
+          ],
+          "priority_score": 105.64,
+          "impact_levels": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        {
+          "stock_name": "Midea Group",
+          "stock_code": "000333",
+          "selection_reasons": [
+            "公司财报: Macroeconomic data better than expected, Finance s",
+            "机构研报: Finance sector benefits from policy support, Midea",
+            "公司公告: International market falling, A-share Finance sect"
+          ],
+          "average_sentiment": -0.19,
+          "mention_count": 15,
+          "timestamp": "2026-04-25T16:58:41.944000",
+          "latest_news_time": "2026-04-25T08:11:06.843000",
+          "source_news": [
+            "NEWS_20260425165206_e024e4bb",
+            "NEWS_20260425165206_62871d15",
+            "NEWS_20260425165418_44e2044d",
+            "NEWS_20260425165251_ce644aaf",
+            "NEWS_20260425164800_35542651",
+            "NEWS_20260425165733_634159c9",
+            "NEWS_20260425164651_5f30b708",
+            "NEWS_20260425165840_431a3a22",
+            "NEWS_20260425165348_5f08dca3",
+            "NEWS_20260425165026_62871d15",
+            "NEWS_20260425165206_431a3a22",
+            "NEWS_20260425165026_91a18689",
+            "NEWS_20260425165348_060599c8",
+            "NEWS_20260425165251_d51b64bf",
+            "NEWS_20260425164853_590e1438"
+          ],
+          "priority_score": 101.34,
+          "impact_levels": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        {
+          "stock_name": "Wuliangye",
+          "stock_code": "000858",
+          "selection_reasons": [
+            "市场行情: Wuliangye encountered violation, stock price risin",
+            "公司财报: International market falling, A-share Technology s",
+            "监管动态: Wuliangye launched new New Energy Vehicle, market "
+          ],
+          "average_sentiment": -0.01,
+          "mention_count": 23,
+          "timestamp": "2026-04-25T16:58:41.944000",
+          "latest_news_time": "2026-04-25T06:36:51.179000",
+          "source_news": [
+            "NEWS_20260425164651_a617b9b4",
+            "NEWS_20260425165816_50a801bf",
+            "NEWS_20260425165418_1b1a06db",
+            "NEWS_20260425165026_bc4453bd",
+            "NEWS_20260425164853_37cc413a",
+            "NEWS_20260425165251_71a0ce14",
+            "NEWS_20260425165206_6f8bd569",
+            "NEWS_20260425164800_952a5766",
+            "NEWS_20260425165418_904a9b2a",
+            "NEWS_20260425165251_52a9b9af",
+            "NEWS_20260425165733_904a9b2a",
+            "NEWS_20260425164853_be62129c",
+            "NEWS_20260425165251_5f30b708",
+            "NEWS_20260425165206_007b3761",
+            "NEWS_20260425165840_dc351efb",
+            "NEWS_20260425165816_89c93649",
+            "NEWS_20260425164651_1851d827",
+            "NEWS_20260425165348_118d96c5",
+            "NEWS_20260425165840_0fcfcc97",
+            "NEWS_20260425165840_57d3b701",
+            "NEWS_20260425165418_57d3b701",
+            "NEWS_20260425164651_23d5f483",
+            "NEWS_20260425165206_2df35f82"
+          ],
+          "priority_score": 100.68,
+          "impact_levels": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        {
+          "stock_name": "China Merchants Bank",
+          "stock_code": "600036",
+          "selection_reasons": [
+            "监管动态: China Merchants Bank launched new Smartphone, mark",
+            "机构研报: China Merchants Bank plans to private placement, a",
+            "机构研报: Pharmaceutical sector benefits from policy support"
+          ],
+          "average_sentiment": 0.01,
+          "mention_count": 19,
+          "timestamp": "2026-04-25T16:58:41.944000",
+          "latest_news_time": "2026-04-25T05:57:51.535000",
+          "source_news": [
+            "NEWS_20260425165251_426a0d0b",
+            "NEWS_20260425164651_536c6d69",
+            "NEWS_20260425165418_707d2b3d",
+            "NEWS_20260425164800_3dd27cba",
+            "NEWS_20260425164651_ebc8eee1",
+            "NEWS_20260425165816_9753dcbc",
+            "NEWS_20260425165816_b6736e2f",
+            "NEWS_20260425164800_2fd1914e",
+            "NEWS_20260425165026_fd5452fb",
+            "NEWS_20260425164853_4ca0508b",
+            "NEWS_20260425165733_32f46663",
+            "NEWS_20260425164651_fdfbb627",
+            "NEWS_20260425164800_bf6530cd",
+            "NEWS_20260425164853_a52ff371",
+            "NEWS_20260425164853_1eadf6a2",
+            "NEWS_20260425164800_d9a6da19",
+            "NEWS_20260425165348_5a8cdcbc",
+            "NEWS_20260425165026_918c586e",
+            "NEWS_20260425165251_6fc8ffb1"
+          ],
+          "priority_score": 100.62,
+          "impact_levels": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        {
+          "stock_name": "Hengrui Medicine",
+          "stock_code": "600276",
+          "selection_reasons": [
+            "宏观政策: Hengrui Medicine expects 2026 Q2 net profit to gro",
+            "宏观政策: Hengrui Medicine encountered lawsuit, stock price ",
+            "突发事件: Hengrui Medicine expects 2026 Q3 net profit to gro"
+          ],
+          "average_sentiment": 0.02,
+          "mention_count": 16,
+          "timestamp": "2026-04-25T16:58:41.944000",
+          "latest_news_time": "2026-04-25T04:14:51.180000",
+          "source_news": [
+            "NEWS_20260425164651_581c6eaf",
+            "NEWS_20260425165733_d51fc331",
+            "NEWS_20260425165348_3d0b5c61",
+            "NEWS_20260425165733_9ffbb734",
+            "NEWS_20260425165206_bff378a2",
+            "NEWS_20260425165418_d5f91a95",
+            "NEWS_20260425164853_dc351efb",
+            "NEWS_20260425164800_61763efa",
+            "NEWS_20260425165206_4059835d",
+            "NEWS_20260425165348_f205ee15",
+            "NEWS_20260425164651_37af0a2f",
+            "NEWS_20260425165816_e51205c8",
+            "NEWS_20260425165348_43d8d77f",
+            "NEWS_20260425165206_44e2044d",
+            "NEWS_20260425165840_c87b6504",
+            "NEWS_20260425165840_4a6c0c04"
+          ],
+          "priority_score": 100.01,
+          "impact_levels": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        {
+          "stock_name": "Ping An",
+          "stock_code": "601318",
+          "selection_reasons": [
+            "公司公告: Ping An launched new Smart Device, market response",
+            "市场行情: Consumer sector benefits from policy support, Ping",
+            "宏观政策: Macroeconomic data in line with expectations, Phar"
+          ],
+          "average_sentiment": 0.03,
+          "mention_count": 18,
+          "timestamp": "2026-04-25T16:58:41.944000",
+          "latest_news_time": "2026-04-25T01:49:18.324000",
+          "source_news": [
+            "NEWS_20260425165418_a2601b57",
+            "NEWS_20260425165418_129422a7",
+            "NEWS_20260425165206_0727d389",
+            "NEWS_20260425165206_df2cff6f",
+            "NEWS_20260425165840_a401ca35",
+            "NEWS_20260425165816_7d3df581",
+            "NEWS_20260425165816_17939e27",
+            "NEWS_20260425165816_24b04083",
+            "NEWS_20260425165348_77cc7fbb",
+            "NEWS_20260425165816_a401ca35",
+            "NEWS_20260425165816_77cc7fbb",
+            "NEWS_20260425165733_1a05d3c8",
+            "NEWS_20260425164800_3d06cdc4",
+            "NEWS_20260425165348_8de79823",
+            "NEWS_20260425165251_c6a5d051",
+            "NEWS_20260425165251_e5dc947e",
+            "NEWS_20260425164651_4b6778a5",
+            "NEWS_20260425165348_1daf9a1f"
+          ],
+          "priority_score": 99.06,
+          "impact_levels": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        {
+          "stock_name": "Guizhou Moutai",
+          "stock_code": "600519",
+          "selection_reasons": [
+            "概念热点: Guizhou Moutai reached strategic cooperation with ",
+            "国际市场: Guizhou Moutai encountered violation, stock price ",
+            "概念热点: Guizhou Moutai encountered lawsuit, stock price fl"
+          ],
+          "average_sentiment": 0.04,
+          "mention_count": 18,
+          "timestamp": "2026-04-25T16:58:41.944000",
+          "latest_news_time": "2026-04-24T21:07:40.800000",
+          "source_news": [
+            "NEWS_20260425165840_865ad7db",
+            "NEWS_20260425164853_fdef36ca",
+            "NEWS_20260425165733_88b6216b",
+            "NEWS_20260425165840_03a51a58",
+            "NEWS_20260425164800_f4b4ed72",
+            "NEWS_20260425164853_07122535",
+            "NEWS_20260425164853_de579068",
+            "NEWS_20260425165840_57d3b701",
+            "NEWS_20260425164853_1483c484",
+            "NEWS_20260425165733_219bdabb",
+            "NEWS_20260425165026_c6a5d051",
+            "NEWS_20260425165733_aae34ca3",
+            "NEWS_20260425165816_e7507df3",
+            "NEWS_20260425165251_6b7ff305",
+            "NEWS_20260425165251_04da6d8c",
+            "NEWS_20260425165733_88b6216b",
+            "NEWS_20260425164651_118d96c5",
+            "NEWS_20260425165251_cbb9d871"
+          ],
+          "priority_score": 97.35,
+          "impact_levels": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        {
+          "stock_name": "Ping An Bank",
+          "stock_code": "000001",
+          "selection_reasons": [
+            "行业动态: Ping An Bank expects 2026 Q4 net profit to grow -1",
+            "行业动态: Ping An Bank expects 2026 Q1 net profit to grow 33",
+            "公司财报: Ping An Bank reached strategic cooperation with CA"
+          ],
+          "average_sentiment": 0.12,
+          "mention_count": 17,
+          "timestamp": "2026-04-25T16:58:41.944000",
+          "latest_news_time": "2026-04-24T01:52:18.324000",
+          "source_news": [
+            "NEWS_20260425165418_49e5e4b1",
+            "NEWS_20260425165251_42aa5e47",
+            "NEWS_20260425165026_7eaf532a",
+            "NEWS_20260425165840_f9b21cea",
+            "NEWS_20260425164651_13ccff8b",
+            "NEWS_20260425164853_f3a1a2a1",
+            "NEWS_20260425165348_abc2f853",
+            "NEWS_20260425165733_456accf1",
+            "NEWS_20260425165026_23b7dea4",
+            "NEWS_20260425165206_118d96c5",
+            "NEWS_20260425165840_4389c0de",
+            "NEWS_20260425165733_2820bf9e",
+            "NEWS_20260425165418_506e5101",
+            "NEWS_20260425164800_d6f4be68",
+            "NEWS_20260425165026_c19206ff",
+            "NEWS_20260425164800_13ccff8b",
+            "NEWS_20260425165840_f32ff1e0"
+          ],
+          "priority_score": 96.81,
+          "impact_levels": [
+            "high",
+            "medium",
+            "low"
+          ]
+        },
+        {
+          "stock_name": "China Tourism Group Duty Free",
+          "stock_code": "601888",
+          "selection_reasons": [
+            "宏观政策: China Tourism Group Duty Free reached strategic co",
+            "公司财报: China Tourism Group Duty Free encountered negative",
+            "国际市场: China Tourism Group Duty Free expects 2026 Q4 net "
+          ],
+          "average_sentiment": -0.18,
+          "mention_count": 11,
+          "timestamp": "2026-04-25T16:58:41.944000",
+          "latest_news_time": "2026-04-24T14:25:40.800000",
+          "source_news": [
+            "NEWS_20260425165840_c0329d9f",
+            "NEWS_20260425165816_94922b84",
+            "NEWS_20260425165026_72535c64",
+            "NEWS_20260425165816_9b4a699e",
+            "NEWS_20260425165348_99c75541",
+            "NEWS_20260425165816_9f332442",
+            "NEWS_20260425165026_ce8bfe05",
+            "NEWS_20260425165026_49196025",
+            "NEWS_20260425164853_7eb77481",
+            "NEWS_20260425165816_5384f2ad",
+            "NEWS_20260425164853_d51cd804"
+          ],
+          "priority_score": 95.0,
+          "impact_levels": [
+            "high",
+            "medium",
+            "low"
+          ]
+        }
+      ]
+    },
+    "stock_analyst": {
+      "status": "completed",
+      "start_time": "2026-04-25T18:24:41.507714",
+      "end_time": "2026-04-25T18:24:41.521362",
+      "duration_seconds": 0.013648,
+      "result": [
+        {
+          "stock_name": "LONGi Green Energy",
+          "stock_code": "601012",
+          "priority_score": 106.36,
+          "target_price": 69.72,
+          "recommendation": "Strong Buy",
+          "risk_level": "High",
+          "source_news_count": 15,
+          "analysis_report": {
+            "technical_analysis": "Technical analysis:\n- MACD golden cross\n- Bollinger Band contraction\n- Bollinger Band breakout\n- Technical pattern: Bottom reversal\n",
+            "fundamental_analysis": "Fundamental analysis:\n- Gross margin improvement\n- Inventory turnover increase\n- Healthy cash flow\n- Financial condition: Good\n",
+            "news_analysis": "News analysis:\n- Recent mentions: 15 times\n- Average sentiment: 0.17\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T14:10:06.843000\n- News outlook: Positive\n",
+            "comprehensive_opinion": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+          },
+          "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Macroeconomic risk\n- Raw material price volatility\n",
+          "analysis_time": "2026-04-25T16:58:42.958000"
+        },
+        {
+          "stock_name": "BYD",
+          "stock_code": "002594",
+          "priority_score": 105.64,
+          "target_price": 428.08,
+          "recommendation": "Strong Buy",
+          "risk_level": "Low",
+          "source_news_count": 13,
+          "analysis_report": {
+            "technical_analysis": "Technical analysis:\n- Bollinger Band contraction\n- KDJ oversold\n- RSI neutral\n- MACD death cross\n- Technical pattern: Bottom reversal\n",
+            "fundamental_analysis": "Fundamental analysis:\n- R&D investment increase\n- Healthy cash flow\n- Inventory turnover increase\n- Gross margin improvement\n- Financial condition: Excellent\n",
+            "news_analysis": "News analysis:\n- Recent mentions: 13 times\n- Average sentiment: 0.08\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T15:43:33.003000\n- News outlook: Cautious\n",
+            "comprehensive_opinion": "Although news sentiment is positive, there is technical adjustment pressure and fundamentals need further observation."
+          },
+          "reasoning": "Recommendation reasons:\n- Fundamentals continue to improve, performance growth expected\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Industry cyclical risk\n- Inventory backlog risk\n",
+          "analysis_time": "2026-04-25T16:58:42.960000"
+        },
+        {
+          "stock_name": "Midea Group",
+          "stock_code": "000333",
+          "priority_score": 101.34,
+          "target_price": 858.96,
+          "recommendation": "Strong Buy",
+          "risk_level": "Medium",
+          "source_news_count": 15,
+          "analysis_report": {
+            "technical_analysis": "Technical analysis:\n- KDJ overbought\n- MACD golden cross\n- KDJ oversold\n- Technical pattern: Downtrend\n",
+            "fundamental_analysis": "Fundamental analysis:\n- Inventory turnover increase\n- ROE improvement\n- Gross margin improvement\n- Reasonable debt ratio\n- Financial condition: Good\n",
+            "news_analysis": "News analysis:\n- Recent mentions: 15 times\n- Average sentiment: -0.19\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T08:11:06.843000\n- News outlook: Cautious\n",
+            "comprehensive_opinion": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+          },
+          "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Inventory backlog risk\n- Raw material price volatility\n",
+          "analysis_time": "2026-04-25T16:58:42.960000"
+        },
+        {
+          "stock_name": "Wuliangye",
+          "stock_code": "000858",
+          "priority_score": 100.68,
+          "target_price": 451.5,
+          "recommendation": "Strong Buy",
+          "risk_level": "Medium",
+          "source_news_count": 23,
+          "analysis_report": {
+            "technical_analysis": "Technical analysis:\n- MACD death cross\n- KDJ oversold\n- Bollinger Band breakout\n- Technical pattern: Top pattern\n",
+            "fundamental_analysis": "Fundamental analysis:\n- Reasonable debt ratio\n- Accounts receivable turnover improvement\n- Gross margin improvement\n- ROE improvement\n- Net profit growth\n- Financial condition: Poor\n",
+            "news_analysis": "News analysis:\n- Recent mentions: 23 times\n- Average sentiment: -0.01\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T06:36:51.179000\n- News outlook: Positive\n",
+            "comprehensive_opinion": "Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals."
+          },
+          "reasoning": "Recommendation reasons:\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Intensified market competition\n- Exchange rate risk\n",
+          "analysis_time": "2026-04-25T16:58:42.960000"
+        },
+        {
+          "stock_name": "China Merchants Bank",
+          "stock_code": "600036",
+          "priority_score": 100.62,
+          "target_price": 630.98,
+          "recommendation": "Strong Buy",
+          "risk_level": "Medium",
+          "source_news_count": 19,
+          "analysis_report": {
+            "technical_analysis": "Technical analysis:\n- MACD golden cross\n- Volume-price coordination\n- MACD death cross\n- Bollinger Band contraction\n- RSI overbought\n- Technical pattern: Downtrend\n",
+            "fundamental_analysis": "Fundamental analysis:\n- Market share expansion\n- Accounts receivable turnover improvement\n- Gross margin improvement\n- ROE improvement\n- Reasonable debt ratio\n- Financial condition: Poor\n",
+            "news_analysis": "News analysis:\n- Recent mentions: 19 times\n- Average sentiment: 0.01\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T05:57:51.535000\n- News outlook: Cautious\n",
+            "comprehensive_opinion": "Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals."
+          },
+          "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Accounts receivable risk\n- Inventory backlog risk\n",
+          "analysis_time": "2026-04-25T16:58:42.960000"
+        },
+        {
+          "stock_name": "Hengrui Medicine",
+          "stock_code": "600276",
+          "priority_score": 100.01,
+          "target_price": 366.84,
+          "recommendation": "Strong Buy",
+          "risk_level": "High",
+          "source_news_count": 16,
+          "analysis_report": {
+            "technical_analysis": "Technical analysis:\n- Bollinger Band contraction\n- RSI overbought\n- KDJ overbought\n- Technical pattern: Bottom reversal\n",
+            "fundamental_analysis": "Fundamental analysis:\n- Accounts receivable turnover improvement\n- Reasonable debt ratio\n- Inventory turnover increase\n- Financial condition: Excellent\n",
+            "news_analysis": "News analysis:\n- Recent mentions: 16 times\n- Average sentiment: 0.02\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T04:14:51.180000\n- News outlook: Positive\n",
+            "comprehensive_opinion": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+          },
+          "reasoning": "Recommendation reasons:\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Exchange rate risk\n- Inventory backlog risk\n",
+          "analysis_time": "2026-04-25T16:58:42.960000"
+        },
+        {
+          "stock_name": "Ping An",
+          "stock_code": "601318",
+          "priority_score": 99.06,
+          "target_price": 170.66,
+          "recommendation": "Strong Buy",
+          "risk_level": "Medium",
+          "source_news_count": 18,
+          "analysis_report": {
+            "technical_analysis": "Technical analysis:\n- Volume-price coordination\n- KDJ oversold\n- KDJ overbought\n- MACD golden cross\n- Technical pattern: Bottom reversal\n",
+            "fundamental_analysis": "Fundamental analysis:\n- Inventory turnover increase\n- Gross margin improvement\n- ROE improvement\n- Accounts receivable turnover improvement\n- Net profit growth\n- Financial condition: Excellent\n",
+            "news_analysis": "News analysis:\n- Recent mentions: 18 times\n- Average sentiment: 0.03\n- Impact level: high, medium, low\n- Latest news time: 2026-04-25T01:49:18.324000\n- News outlook: Positive\n",
+            "comprehensive_opinion": "Both technical and news indicators show positive signals, with improving fundamentals. Worth focusing on."
+          },
+          "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Industry cyclical risk\n- Intensified market competition\n",
+          "analysis_time": "2026-04-25T16:58:42.961000"
+        },
+        {
+          "stock_name": "Guizhou Moutai",
+          "stock_code": "600519",
+          "priority_score": 97.35,
+          "target_price": 985.65,
+          "recommendation": "Strong Buy",
+          "risk_level": "Medium",
+          "source_news_count": 18,
+          "analysis_report": {
+            "technical_analysis": "Technical analysis:\n- RSI overbought\n- KDJ overbought\n- Bollinger Band contraction\n- Technical pattern: Sideways\n",
+            "fundamental_analysis": "Fundamental analysis:\n- Inventory turnover increase\n- Revenue growth\n- Market share expansion\n- Financial condition: Average\n",
+            "news_analysis": "News analysis:\n- Recent mentions: 18 times\n- Average sentiment: 0.04\n- Impact level: high, medium, low\n- Latest news time: 2026-04-24T21:07:40.800000\n- News outlook: Positive\n",
+            "comprehensive_opinion": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+          },
+          "reasoning": "Recommendation reasons:\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Macroeconomic risk\n- Accounts receivable risk\n",
+          "analysis_time": "2026-04-25T16:58:42.961000"
+        },
+        {
+          "stock_name": "Ping An Bank",
+          "stock_code": "000001",
+          "priority_score": 96.81,
+          "target_price": 827.67,
+          "recommendation": "Strong Buy",
+          "risk_level": "High",
+          "source_news_count": 17,
+          "analysis_report": {
+            "technical_analysis": "Technical analysis:\n- Bollinger Band contraction\n- Volume-price coordination\n- Bollinger Band breakout\n- MACD golden cross\n- Technical pattern: Sideways\n",
+            "fundamental_analysis": "Fundamental analysis:\n- Healthy cash flow\n- Net profit growth\n- Market share expansion\n- Inventory turnover increase\n- ROE improvement\n- Financial condition: Excellent\n",
+            "news_analysis": "News analysis:\n- Recent mentions: 17 times\n- Average sentiment: 0.12\n- Impact level: high, medium, low\n- Latest news time: 2026-04-24T01:52:18.324000\n- News outlook: Positive\n",
+            "comprehensive_opinion": "Both technical and news indicators show positive signals, with improving fundamentals. Worth focusing on."
+          },
+          "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Industry cyclical risk\n- Policy uncertainty\n",
+          "analysis_time": "2026-04-25T16:58:42.961000"
+        },
+        {
+          "stock_name": "China Tourism Group Duty Free",
+          "stock_code": "601888",
+          "priority_score": 95.0,
+          "target_price": 125.13,
+          "recommendation": "Strong Buy",
+          "risk_level": "High",
+          "source_news_count": 11,
+          "analysis_report": {
+            "technical_analysis": "Technical analysis:\n- MACD golden cross\n- Bollinger Band breakout\n- MA bullish排列\n- Bollinger Band contraction\n- Technical pattern: Top pattern\n",
+            "fundamental_analysis": "Fundamental analysis:\n- Accounts receivable turnover improvement\n- ROE improvement\n- Net profit growth\n- Healthy cash flow\n- Inventory turnover increase\n- Financial condition: Excellent\n",
+            "news_analysis": "News analysis:\n- Recent mentions: 11 times\n- Average sentiment: -0.18\n- Impact level: high, medium, low\n- Latest news time: 2026-04-24T14:25:40.800000\n- News outlook: Positive\n",
+            "comprehensive_opinion": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+          },
+          "reasoning": "Recommendation reasons:\n- Technical indicators show bullish signals, short-term trend positive\n- Fundamentals continue to improve, performance growth expected\n- Positive news sentiment, market expectations improving\n- Comprehensive factors indicate significant investment value\n\nRisk warnings:\n- Raw material price volatility\n- Exchange rate risk\n",
+          "analysis_time": "2026-04-25T16:58:42.961000"
+        }
+      ]
+    },
+    "stock_reporter": {
+      "status": "completed",
+      "start_time": "2026-04-25T18:24:42.030154",
+      "end_time": "2026-04-25T18:24:42.058010",
+      "duration_seconds": 0.027856,
+      "result": null
+    }
+  },
+  "current_stage": "news_collector",
+  "issues": [],
+  "final_result": "success"
+}

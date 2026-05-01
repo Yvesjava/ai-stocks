@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u4e70\u5165", 
+      "\u5206\u6790"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Midea Group launched new Smart Device, market response questioning", 
+  "publish_time": "2026-04-18T10:40:33.365000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": 0.58, 
+    "overall": "negative"
+  }, 
+  "title": "Midea Group launched new Smart Device, market response questioning", 
+  "original_title": "Midea Group launched new Smart Device, market response questioning", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T17:43:33.365000", 
+  "source_url": "https://example.com/news/NEWS_20260425174333_49f3071b", 
+  "news_id": "NEWS_20260425174333_49f3071b", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Midea Group launched new Smart Device, market response questioning", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 66, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

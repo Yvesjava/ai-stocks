@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u4e8b\u6545", 
+      "\u75ab\u60c5"
+    ], 
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Macroeconomic data in line with expectations, Technology sector affected", 
+  "publish_time": "2026-04-20T19:51:26.117000", 
+  "sentiment": {
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news", 
+    "score": -0.84, 
+    "overall": "positive"
+  }, 
+  "title": "Macroeconomic data in line with expectations, Technology sector affected", 
+  "original_title": "Macroeconomic data in line with expectations, Technology sector affected", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T16:50:26.118000", 
+  "source_url": "https://example.com/news/NEWS_20260425165026_23b7dea4", 
+  "news_id": "NEWS_20260425165026_23b7dea4", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "high", 
+  "summary": "Macroeconomic data in line with expectations, Technology sector affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 72, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

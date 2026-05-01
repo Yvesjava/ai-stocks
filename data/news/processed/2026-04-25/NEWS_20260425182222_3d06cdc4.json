@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u65b0\u89c4", 
+      "\u901a\u62a5"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Ping An launched new Smartphone, market response flat", 
+  "publish_time": "2026-04-21T15:22:22.693000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": -0.24, 
+    "overall": "negative"
+  }, 
+  "title": "Ping An launched new Smartphone, market response flat", 
+  "original_title": "Ping An launched new Smartphone, market response flat", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T18:22:22.693000", 
+  "source_url": "https://example.com/news/NEWS_20260425182222_3d06cdc4", 
+  "news_id": "NEWS_20260425182222_3d06cdc4", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Ping An launched new Smartphone, market response flat", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 53, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

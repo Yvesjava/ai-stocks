@@ -1,0 +1,44 @@
+[
+  {
+    "category": {
+      "tags": [
+        "\u7f8e\u80a1", 
+        "\u5916\u6c47"
+      ], 
+      "primary": "\u56fd\u9645\u5e02\u573a", 
+      "secondary": [
+        "Pharmaceutical"
+      ]
+    }, 
+    "content": "Midea Group expects 2026 Q3 net profit to grow 27.36% YoY, exceeding market expectations", 
+    "publish_time": "2026-04-19T02:11:22.664000", 
+    "sentiment": {
+      "reason": "\u56fd\u9645\u5e02\u573a related news", 
+      "score": -0.2, 
+      "overall": "positive"
+    }, 
+    "title": "Midea Group expects 2026 Q3 net profit to grow 27.36% YoY, exceeding market expectations", 
+    "original_title": "Midea Group expects 2026 Q3 net profit to grow 27.36% YoY, exceeding market expectations", 
+    "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+    "collect_time": "2026-04-25T16:46:22.664000", 
+    "source_url": "https://example.com/news/NEWS_20260425164622_ee47bfce", 
+    "news_id": "NEWS_20260425164622_ee47bfce", 
+    "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+    "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+    "impact_level": "high", 
+    "summary": "Midea Group expects 2026 Q3 net profit to grow 27.36% YoY, exceeding market expectations", 
+    "metadata": {
+      "is_headline": false, 
+      "is_original": true, 
+      "word_count": 88, 
+      "has_image": false
+    }, 
+    "related_stocks": [
+      {
+        "mention_type": "main target", 
+        "stock_name": "Midea Group", 
+        "stock_code": "000333"
+      }
+    ]
+  }
+]

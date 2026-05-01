@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "AI", 
+      "\u534a\u5bfc\u4f53"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "China Tourism Group Duty Free encountered violation, stock price rising", 
+  "publish_time": "2026-04-20T02:17:13.317000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": 0.83, 
+    "overall": "positive"
+  }, 
+  "title": "China Tourism Group Duty Free encountered violation, stock price rising", 
+  "original_title": "China Tourism Group Duty Free encountered violation, stock price rising", 
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+  "collect_time": "2026-04-25T17:44:13.317000", 
+  "source_url": "https://example.com/news/NEWS_20260425174413_9a64aa43", 
+  "news_id": "NEWS_20260425174413_9a64aa43", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "low", 
+  "summary": "China Tourism Group Duty Free encountered violation, stock price rising", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 71, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Tourism Group Duty Free", 
+      "stock_code": "601888"
+    }
+  ]
+}

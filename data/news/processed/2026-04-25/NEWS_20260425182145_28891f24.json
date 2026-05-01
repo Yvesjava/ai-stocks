@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5b63\u62a5", 
+      "\u5206\u7ea2"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "BYD released Q3 2026 report, revenue 809.23 billion yuan, YoY growth 46.02%", 
+  "publish_time": "2026-04-21T10:40:45.457000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": -0.58, 
+    "overall": "negative"
+  }, 
+  "title": "BYD released Q3 2026 report, revenue 809.23 billion yuan, YoY growth 46.02%", 
+  "original_title": "BYD released Q3 2026 report, revenue 809.23 billion yuan, YoY growth 46.02%", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T18:21:45.457000", 
+  "source_url": "https://example.com/news/NEWS_20260425182145_28891f24", 
+  "news_id": "NEWS_20260425182145_28891f24", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "BYD released Q3 2026 report, revenue 809.23 billion yuan, YoY growth 46.02%", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 75, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

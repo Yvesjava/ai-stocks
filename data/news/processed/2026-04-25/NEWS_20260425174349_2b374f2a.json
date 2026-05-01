@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u65b0\u89c4", 
+      "\u901a\u62a5"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Guizhou Moutai expects 2026 Q3 net profit to grow -3.38% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-19T21:14:49.513000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": 0.67, 
+    "overall": "neutral"
+  }, 
+  "title": "Guizhou Moutai expects 2026 Q3 net profit to grow -3.38% YoY, exceeding market expectations", 
+  "original_title": "Guizhou Moutai expects 2026 Q3 net profit to grow -3.38% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T17:43:49.513000", 
+  "source_url": "https://example.com/news/NEWS_20260425174349_2b374f2a", 
+  "news_id": "NEWS_20260425174349_2b374f2a", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Guizhou Moutai expects 2026 Q3 net profit to grow -3.38% YoY, exceeding market expectations", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 91, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u80a1\u6743\u6fc0\u52b1", 
+      "\u5e74\u62a5"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Macroeconomic data worse than expected, Consumer sector affected", 
+  "publish_time": "2026-04-21T13:43:48.977000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": 0.42, 
+    "overall": "positive"
+  }, 
+  "title": "Macroeconomic data worse than expected, Consumer sector affected", 
+  "original_title": "Macroeconomic data worse than expected, Consumer sector affected", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T16:53:48.977000", 
+  "source_url": "https://example.com/news/NEWS_20260425165348_2df9c13a", 
+  "news_id": "NEWS_20260425165348_2df9c13a", 
+  "source": "\u8d22\u65b0\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Macroeconomic data worse than expected, Consumer sector affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 64, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

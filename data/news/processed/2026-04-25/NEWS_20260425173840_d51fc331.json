@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8bc1\u76d1\u4f1a", 
+      "\u65b0\u89c4"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Hengrui Medicine encountered lawsuit, stock price fluctuating", 
+  "publish_time": "2026-04-25T11:10:40.581000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": -0.88, 
+    "overall": "neutral"
+  }, 
+  "title": "Hengrui Medicine encountered lawsuit, stock price fluctuating", 
+  "original_title": "Hengrui Medicine encountered lawsuit, stock price fluctuating", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T17:38:40.581000", 
+  "source_url": "https://example.com/news/NEWS_20260425173840_d51fc331", 
+  "news_id": "NEWS_20260425173840_d51fc331", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "high", 
+  "summary": "Hengrui Medicine encountered lawsuit, stock price fluctuating", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 61, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

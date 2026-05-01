@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182638_e55d7e52",
+  "title": "Guizhou Moutai encountered negative report, stock price fluctuating",
+  "original_title": "Guizhou Moutai encountered negative report, stock price fluctuating",
+  "source": "\u8d22\u65b0\u7f51",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425182638_e55d7e52",
+  "publish_time": "2026-04-21T03:56:38.051750",
+  "collect_time": "2026-04-25T18:26:38.051750",
+  "summary": "Guizhou Moutai encountered negative report, stock price fluctuating",
+  "content": "Guizhou Moutai encountered negative report, stock price fluctuating",
+  "related_stocks": [
+    {
+      "stock_code": "600519",
+      "stock_name": "Guizhou Moutai",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u6982\u5ff5\u70ed\u70b9",
+    "secondary": [
+      "Finance"
+    ],
+    "tags": [
+      "\u534a\u5bfc\u4f53",
+      "\u65b0\u80fd\u6e90"
+    ]
+  },
+  "sentiment": {
+    "overall": "negative",
+    "score": -0.92,
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news"
+  },
+  "impact_level": "medium",
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors",
+  "metadata": {
+    "word_count": 67,
+    "has_image": true,
+    "is_original": true,
+    "is_headline": true
+  }
+}

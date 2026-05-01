@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u7f8e\u80a1", 
+      "\u539f\u6cb9"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "LONGi Green Energy launched new Smart Device, market response questioning", 
+  "publish_time": "2026-04-25T04:27:57.805000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": 0.52, 
+    "overall": "positive"
+  }, 
+  "title": "LONGi Green Energy launched new Smart Device, market response questioning", 
+  "original_title": "LONGi Green Energy launched new Smart Device, market response questioning", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T18:20:57.805000", 
+  "source_url": "https://example.com/news/NEWS_20260425182057_50b74ece", 
+  "news_id": "NEWS_20260425182057_50b74ece", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "LONGi Green Energy launched new Smart Device, market response questioning", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 73, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

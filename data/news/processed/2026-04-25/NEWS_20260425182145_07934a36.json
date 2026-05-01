@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u534a\u5bfc\u4f53", 
+      "\u5143\u5b87\u5b99"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Guizhou Moutai launched new New Energy Vehicle, market response flat", 
+  "publish_time": "2026-04-25T04:28:45.457000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.45, 
+    "overall": "negative"
+  }, 
+  "title": "Guizhou Moutai launched new New Energy Vehicle, market response flat", 
+  "original_title": "Guizhou Moutai launched new New Energy Vehicle, market response flat", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T18:21:45.457000", 
+  "source_url": "https://example.com/news/NEWS_20260425182145_07934a36", 
+  "news_id": "NEWS_20260425182145_07934a36", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Guizhou Moutai launched new New Energy Vehicle, market response flat", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 68, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

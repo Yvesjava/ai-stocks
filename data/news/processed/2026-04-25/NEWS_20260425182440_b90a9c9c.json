@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182440_b90a9c9c",
+  "title": "BYD expects 2026 Q2 net profit to grow -11.51% YoY, exceeding market expectations",
+  "original_title": "BYD expects 2026 Q2 net profit to grow -11.51% YoY, exceeding market expectations",
+  "source": "\u6caa\u6df1\u4ea4\u6613\u6240",
+  "source_type": "\u5b98\u65b9",
+  "source_url": "https://example.com/news/NEWS_20260425182440_b90a9c9c",
+  "publish_time": "2026-04-19T06:29:40.333101",
+  "collect_time": "2026-04-25T18:24:40.333101",
+  "summary": "BYD expects 2026 Q2 net profit to grow -11.51% YoY, exceeding market expectations",
+  "content": "BYD expects 2026 Q2 net profit to grow -11.51% YoY, exceeding market expectations",
+  "related_stocks": [
+    {
+      "stock_code": "002594",
+      "stock_name": "BYD",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u673a\u6784\u7814\u62a5",
+    "secondary": [
+      "Technology"
+    ],
+    "tags": [
+      "\u4e70\u5165",
+      "\u5206\u6790"
+    ]
+  },
+  "sentiment": {
+    "overall": "negative",
+    "score": -0.37,
+    "reason": "\u673a\u6784\u7814\u62a5 related news"
+  },
+  "impact_level": "medium",
+  "market_reaction_expected": "Expected to impact BYD and related sectors",
+  "metadata": {
+    "word_count": 81,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": false
+  }
+}

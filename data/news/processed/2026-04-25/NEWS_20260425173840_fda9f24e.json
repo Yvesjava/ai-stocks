@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u534a\u5bfc\u4f53", 
+      "AI"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Ping An plans to increase holdings, analysts give Underperform rating", 
+  "publish_time": "2026-04-17T21:23:40.581000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.9, 
+    "overall": "neutral"
+  }, 
+  "title": "Ping An plans to increase holdings, analysts give Underperform rating", 
+  "original_title": "Ping An plans to increase holdings, analysts give Underperform rating", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T17:38:40.581000", 
+  "source_url": "https://example.com/news/NEWS_20260425173840_fda9f24e", 
+  "news_id": "NEWS_20260425173840_fda9f24e", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Ping An plans to increase holdings, analysts give Underperform rating", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 69, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

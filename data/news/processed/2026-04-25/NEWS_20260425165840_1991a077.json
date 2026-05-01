@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u677f\u5757\u8f6e\u52a8", 
+      "\u5927\u76d8"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Technology sector benefits from policy support, LONGi Green Energy and related stocks benefit", 
+  "publish_time": "2026-04-23T10:24:40.800000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": 0.81, 
+    "overall": "positive"
+  }, 
+  "title": "Technology sector benefits from policy support, LONGi Green Energy and related stocks benefit", 
+  "original_title": "Technology sector benefits from policy support, LONGi Green Energy and related stocks benefit", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T16:58:40.800000", 
+  "source_url": "https://example.com/news/NEWS_20260425165840_1991a077", 
+  "news_id": "NEWS_20260425165840_1991a077", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Technology sector benefits from policy support, LONGi Green Energy and related stocks benefit", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 93, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

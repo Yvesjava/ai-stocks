@@ -1,0 +1,86 @@
+[
+  {
+    "category": {
+      "tags": [
+        "\u5143\u5b87\u5b99", 
+        "AI"
+      ], 
+      "primary": "\u6982\u5ff5\u70ed\u70b9", 
+      "secondary": [
+        "Consumer"
+      ]
+    }, 
+    "content": "Macroeconomic data worse than expected, Pharmaceutical sector affected", 
+    "publish_time": "2026-04-24T00:45:22.663000", 
+    "sentiment": {
+      "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+      "score": -0.1, 
+      "overall": "neutral"
+    }, 
+    "title": "Macroeconomic data worse than expected, Pharmaceutical sector affected", 
+    "original_title": "Macroeconomic data worse than expected, Pharmaceutical sector affected", 
+    "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+    "collect_time": "2026-04-25T16:46:22.663000", 
+    "source_url": "https://example.com/news/NEWS_20260425164622_633a3694", 
+    "news_id": "NEWS_20260425164622_633a3694", 
+    "source": "\u6caa\u6df1\u4ea4\u6613\u6240", 
+    "source_type": "\u5b98\u65b9", 
+    "impact_level": "low", 
+    "summary": "Macroeconomic data worse than expected, Pharmaceutical sector affected", 
+    "metadata": {
+      "is_headline": false, 
+      "is_original": true, 
+      "word_count": 70, 
+      "has_image": true
+    }, 
+    "related_stocks": [
+      {
+        "mention_type": "main target", 
+        "stock_name": "Ping An", 
+        "stock_code": "601318"
+      }
+    ]
+  }, 
+  {
+    "category": {
+      "tags": [
+        "\u8d22\u52a1\u6570\u636e", 
+        "\u4e1a\u7ee9"
+      ], 
+      "primary": "\u516c\u53f8\u8d22\u62a5", 
+      "secondary": [
+        "New Energy"
+      ]
+    }, 
+    "content": "Finance sector benefits from policy support, LONGi Green Energy and related stocks benefit", 
+    "publish_time": "2026-04-25T16:30:22.664000", 
+    "sentiment": {
+      "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+      "score": 0.27, 
+      "overall": "positive"
+    }, 
+    "title": "Finance sector benefits from policy support, LONGi Green Energy and related stocks benefit", 
+    "original_title": "Finance sector benefits from policy support, LONGi Green Energy and related stocks benefit", 
+    "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+    "collect_time": "2026-04-25T16:46:22.664000", 
+    "source_url": "https://example.com/news/NEWS_20260425164622_3807c694", 
+    "news_id": "NEWS_20260425164622_3807c694", 
+    "source": "\u6caa\u6df1\u4ea4\u6613\u6240", 
+    "source_type": "\u5b98\u65b9", 
+    "impact_level": "medium", 
+    "summary": "Finance sector benefits from policy support, LONGi Green Energy and related stocks benefit", 
+    "metadata": {
+      "is_headline": false, 
+      "is_original": true, 
+      "word_count": 90, 
+      "has_image": false
+    }, 
+    "related_stocks": [
+      {
+        "mention_type": "main target", 
+        "stock_name": "LONGi Green Energy", 
+        "stock_code": "601012"
+      }
+    ]
+  }
+]

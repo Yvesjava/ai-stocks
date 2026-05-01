@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5b63\u62a5", 
+      "\u5206\u7ea2"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "China Merchants Bank expects 2026 Q1 net profit to grow -5.64% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-17T22:56:40.581000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": -0.41, 
+    "overall": "positive"
+  }, 
+  "title": "China Merchants Bank expects 2026 Q1 net profit to grow -5.64% YoY, exceeding market expectations", 
+  "original_title": "China Merchants Bank expects 2026 Q1 net profit to grow -5.64% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors", 
+  "collect_time": "2026-04-25T17:38:40.581000", 
+  "source_url": "https://example.com/news/NEWS_20260425173840_e2bd71da", 
+  "news_id": "NEWS_20260425173840_e2bd71da", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "China Merchants Bank expects 2026 Q1 net profit to grow -5.64% YoY, exceeding market expectations", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 97, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Merchants Bank", 
+      "stock_code": "600036"
+    }
+  ]
+}

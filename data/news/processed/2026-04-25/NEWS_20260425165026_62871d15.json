@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5206\u7ea2", 
+      "\u91cd\u5927\u4e8b\u9879"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Finance sector benefits from policy support, Midea Group and related stocks benefit", 
+  "publish_time": "2026-04-22T03:06:26.117000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": -0.24, 
+    "overall": "neutral"
+  }, 
+  "title": "Finance sector benefits from policy support, Midea Group and related stocks benefit", 
+  "original_title": "Finance sector benefits from policy support, Midea Group and related stocks benefit", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T16:50:26.117000", 
+  "source_url": "https://example.com/news/NEWS_20260425165026_62871d15", 
+  "news_id": "NEWS_20260425165026_62871d15", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Finance sector benefits from policy support, Midea Group and related stocks benefit", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 83, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

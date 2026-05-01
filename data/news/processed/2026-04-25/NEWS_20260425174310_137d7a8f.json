@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5904\u7f5a", 
+      "\u8bc1\u76d1\u4f1a"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "China Merchants Bank plans to repurchase shares, analysts give Neutral rating", 
+  "publish_time": "2026-04-25T01:08:10.400000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": 0.01, 
+    "overall": "positive"
+  }, 
+  "title": "China Merchants Bank plans to repurchase shares, analysts give Neutral rating", 
+  "original_title": "China Merchants Bank plans to repurchase shares, analysts give Neutral rating", 
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors", 
+  "collect_time": "2026-04-25T17:43:10.400000", 
+  "source_url": "https://example.com/news/NEWS_20260425174310_137d7a8f", 
+  "news_id": "NEWS_20260425174310_137d7a8f", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "China Merchants Bank plans to repurchase shares, analysts give Neutral rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 77, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Merchants Bank", 
+      "stock_code": "600036"
+    }
+  ]
+}

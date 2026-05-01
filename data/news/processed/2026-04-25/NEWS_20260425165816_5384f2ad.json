@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d22\u52a1\u6570\u636e", 
+      "\u8425\u6536"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "China Tourism Group Duty Free released Q1 2026 report, revenue 928.76 billion yuan, YoY growth 32.22%", 
+  "publish_time": "2026-04-18T13:01:16.420000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": 0.44, 
+    "overall": "negative"
+  }, 
+  "title": "China Tourism Group Duty Free released Q1 2026 report, revenue 928.76 billion yuan, YoY growth 32.22%", 
+  "original_title": "China Tourism Group Duty Free released Q1 2026 report, revenue 928.76 billion yuan, YoY growth 32.22%", 
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+  "collect_time": "2026-04-25T16:58:16.420000", 
+  "source_url": "https://example.com/news/NEWS_20260425165816_5384f2ad", 
+  "news_id": "NEWS_20260425165816_5384f2ad", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "China Tourism Group Duty Free released Q1 2026 report, revenue 928.76 billion yuan, YoY growth 32.22...", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 101, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Tourism Group Duty Free", 
+      "stock_code": "601888"
+    }
+  ]
+}

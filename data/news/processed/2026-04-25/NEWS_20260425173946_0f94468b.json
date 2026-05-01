@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u65b0\u80fd\u6e90", 
+      "AI"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "LONGi Green Energy launched new New Drug, market response flat", 
+  "publish_time": "2026-04-21T06:14:46.866000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.75, 
+    "overall": "neutral"
+  }, 
+  "title": "LONGi Green Energy launched new New Drug, market response flat", 
+  "original_title": "LONGi Green Energy launched new New Drug, market response flat", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T17:39:46.866000", 
+  "source_url": "https://example.com/news/NEWS_20260425173946_0f94468b", 
+  "news_id": "NEWS_20260425173946_0f94468b", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "LONGi Green Energy launched new New Drug, market response flat", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 62, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

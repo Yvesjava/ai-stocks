@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d22\u52a1\u6570\u636e", 
+      "\u8425\u6536"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Ping An Bank launched new Smartphone, market response enthusiastic", 
+  "publish_time": "2026-04-21T03:03:11.651000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": 0.87, 
+    "overall": "positive"
+  }, 
+  "title": "Ping An Bank launched new Smartphone, market response enthusiastic", 
+  "original_title": "Ping An Bank launched new Smartphone, market response enthusiastic", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T17:40:11.651000", 
+  "source_url": "https://example.com/news/NEWS_20260425174011_ab4f37db", 
+  "news_id": "NEWS_20260425174011_ab4f37db", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Ping An Bank launched new Smartphone, market response enthusiastic", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 66, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

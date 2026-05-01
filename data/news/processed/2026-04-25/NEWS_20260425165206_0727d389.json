@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d22\u653f\u653f\u7b56", 
+      "\u8d27\u5e01\u653f\u7b56"
+    ], 
+    "primary": "\u5b8f\u89c2\u653f\u7b56", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Macroeconomic data in line with expectations, Pharmaceutical sector affected", 
+  "publish_time": "2026-04-23T21:17:06.842000", 
+  "sentiment": {
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news", 
+    "score": -0.93, 
+    "overall": "negative"
+  }, 
+  "title": "Macroeconomic data in line with expectations, Pharmaceutical sector affected", 
+  "original_title": "Macroeconomic data in line with expectations, Pharmaceutical sector affected", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T16:52:06.843000", 
+  "source_url": "https://example.com/news/NEWS_20260425165206_0727d389", 
+  "news_id": "NEWS_20260425165206_0727d389", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Macroeconomic data in line with expectations, Pharmaceutical sector affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 76, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

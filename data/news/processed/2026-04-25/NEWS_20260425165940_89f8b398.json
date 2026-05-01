@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6210\u4ea4\u989d", 
+      "\u5927\u76d8"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "New Energy sector benefits from policy support, Wuliangye and related stocks benefit", 
+  "publish_time": "2026-04-21T13:32:40.022000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": -0.62, 
+    "overall": "neutral"
+  }, 
+  "title": "New Energy sector benefits from policy support, Wuliangye and related stocks benefit", 
+  "original_title": "New Energy sector benefits from policy support, Wuliangye and related stocks benefit", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T16:59:40.022000", 
+  "source_url": "https://example.com/news/NEWS_20260425165940_89f8b398", 
+  "news_id": "NEWS_20260425165940_89f8b398", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "low", 
+  "summary": "New Energy sector benefits from policy support, Wuliangye and related stocks benefit", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 84, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

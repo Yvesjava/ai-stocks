@@ -1,0 +1,215 @@
+2026-04-25 18:24:40,098 - workflow_integration - INFO - Initializing Workflow Engine
+2026-04-25 18:24:40,098 - workflow_integration - INFO - Starting full workflow execution
+2026-04-25 18:24:40,099 - workflow_integration - INFO - === Starting stage: news_collector ===
+2026-04-25 18:24:40,099 - workflow_integration - INFO - Executing module: news_collector
+2026-04-25 18:24:40,330 - news_collector - INFO - 开始采集新闻，目标数量：15
+2026-04-25 18:24:40,333 - news_collector - INFO - 生成 15 条模拟新闻
+2026-04-25 18:24:40,333 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\PhoenixFinance.json，共 1 条
+2026-04-25 18:24:40,334 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\Caixin.json，共 2 条
+2026-04-25 18:24:40,336 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\SinaFinance.json，共 4 条
+2026-04-25 18:24:40,337 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\EastMoney.json，共 4 条
+2026-04-25 18:24:40,337 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\SSE_SZSE.json，共 2 条
+2026-04-25 18:24:40,338 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\iFinD.json，共 1 条
+2026-04-25 18:24:40,339 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\FirstFinance.json，共 1 条
+2026-04-25 18:24:40,348 - news_collector - INFO - 保存处理后新闻到 data/news\processed\2026-04-25，共 15 条
+2026-04-25 18:24:40,372 - news_collector - INFO - 保存结构化新闻到 data/news\structured\news_database.json，新增 15 条，总计 390 条
+2026-04-25 18:24:40,372 - news_collector - INFO - 新闻采集流程完成
+2026-04-25 18:24:40,372 - workflow_integration - INFO - Module news_collector executed successfully, duration: 0.27s
+2026-04-25 18:24:40,372 - workflow_integration - INFO - Verifying stage output: news_collector
+2026-04-25 18:24:40,385 - workflow_integration - INFO - Loaded news_collector output data: 390
+2026-04-25 18:24:40,886 - workflow_integration - INFO - === Starting stage: stock_collector ===
+2026-04-25 18:24:40,892 - workflow_integration - INFO - Executing module: stock_collector
+2026-04-25 18:24:40,902 - stock_collector - INFO - Start collecting stocks
+2026-04-25 18:24:40,907 - stock_collector - INFO - Loaded 390 news items
+2026-04-25 18:24:40,997 - stock_collector - INFO - Extracted 10 stocks from news
+2026-04-25 18:24:40,997 - stock_collector - INFO - Screened to 10 stocks
+2026-04-25 18:24:40,999 - stock_collector - INFO - Saved stock list to data/news/structured/stock_list.json, added 0 stocks, total 10 stocks
+2026-04-25 18:24:40,999 - stock_collector - INFO - Stock collection process completed
+2026-04-25 18:24:40,999 - workflow_integration - INFO - Module stock_collector executed successfully, duration: 0.11s
+2026-04-25 18:24:40,999 - workflow_integration - INFO - Verifying stage output: stock_collector
+2026-04-25 18:24:41,006 - workflow_integration - INFO - Loaded stock_collector output data: 10
+2026-04-25 18:24:41,507 - workflow_integration - INFO - === Starting stage: stock_analyst ===
+2026-04-25 18:24:41,507 - workflow_integration - INFO - Executing module: stock_analyst
+2026-04-25 18:24:41,517 - stock_analyst - INFO - Start analyzing stocks
+2026-04-25 18:24:41,518 - stock_analyst - INFO - Loaded 10 stocks
+2026-04-25 18:24:41,518 - stock_analyst - INFO - Analyzing stock: LONGi Green Energy (601012)
+2026-04-25 18:24:41,518 - stock_analyst - INFO - Analyzing stock: BYD (002594)
+2026-04-25 18:24:41,518 - stock_analyst - INFO - Analyzing stock: Midea Group (000333)
+2026-04-25 18:24:41,519 - stock_analyst - INFO - Analyzing stock: Wuliangye (000858)
+2026-04-25 18:24:41,519 - stock_analyst - INFO - Analyzing stock: China Merchants Bank (600036)
+2026-04-25 18:24:41,519 - stock_analyst - INFO - Analyzing stock: Hengrui Medicine (600276)
+2026-04-25 18:24:41,519 - stock_analyst - INFO - Analyzing stock: Ping An (601318)
+2026-04-25 18:24:41,519 - stock_analyst - INFO - Analyzing stock: Guizhou Moutai (600519)
+2026-04-25 18:24:41,519 - stock_analyst - INFO - Analyzing stock: Ping An Bank (000001)
+2026-04-25 18:24:41,519 - stock_analyst - INFO - Analyzing stock: China Tourism Group Duty Free (601888)
+2026-04-25 18:24:41,521 - stock_analyst - INFO - Saved analysis results to data/news/structured/stock_analysis.json, added 0 analyses, total 10 analyses
+2026-04-25 18:24:41,521 - stock_analyst - INFO - Stock analysis process completed
+2026-04-25 18:24:41,521 - workflow_integration - INFO - Module stock_analyst executed successfully, duration: 0.01s
+2026-04-25 18:24:41,521 - workflow_integration - INFO - Verifying stage output: stock_analyst
+2026-04-25 18:24:41,528 - workflow_integration - INFO - Loaded stock_analyst output data: 10
+2026-04-25 18:24:42,029 - workflow_integration - INFO - === Starting stage: stock_reporter ===
+2026-04-25 18:24:42,029 - workflow_integration - INFO - Executing module: stock_reporter
+2026-04-25 18:24:42,055 - stock_reporter - INFO - 开始生成股票推荐报告
+2026-04-25 18:24:42,056 - stock_reporter - INFO - 加载 10 条分析结果
+2026-04-25 18:24:42,056 - stock_reporter - INFO - 开始最终筛选，共 10 只股票
+2026-04-25 18:24:42,056 - stock_reporter - INFO - 筛选完成，共 6 只推荐股票
+2026-04-25 18:24:42,058 - data_manager - ERROR - 保存股票报告数据失败: 'gbk' codec can't encode character '\U0001f4c8' in position 3: illegal multibyte sequence
+2026-04-25 18:24:42,058 - stock_reporter - ERROR - 保存报告失败：expected str, bytes or os.PathLike object, not NoneType
+2026-04-25 18:24:42,058 - workflow_integration - INFO - Module stock_reporter executed successfully, duration: 0.03s
+2026-04-25 18:24:42,058 - workflow_integration - INFO - Verifying stage output: stock_reporter
+2026-04-25 18:24:42,059 - workflow_integration - INFO - Loaded stock_reporter output data: dict
+2026-04-25 18:24:42,059 - workflow_integration - ERROR - Output verification failed: Report missing sections: ['market_overview', 'stock_analysis', 'recommendations']
+2026-04-25 18:24:42,559 - workflow_integration - INFO - Full workflow execution completed
+2026-04-25 18:24:42,561 - workflow_integration - INFO - Workflow result saved: data/news/reports/workflow_result_20260425_182442.json
+2026-04-25 18:26:38,039 - workflow_integration - INFO - Initializing Workflow Engine
+2026-04-25 18:26:38,039 - workflow_integration - INFO - Starting full workflow execution
+2026-04-25 18:26:38,039 - workflow_integration - INFO - === Starting stage: news_collector ===
+2026-04-25 18:26:38,039 - workflow_integration - INFO - Executing module: news_collector
+2026-04-25 18:26:38,051 - news_collector - INFO - 开始采集新闻，目标数量：15
+2026-04-25 18:26:38,052 - news_collector - INFO - 生成 15 条模拟新闻
+2026-04-25 18:26:38,052 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\XueQiu.json，共 4 条
+2026-04-25 18:26:38,054 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\Caixin.json，共 1 条
+2026-04-25 18:26:38,054 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\SSE_SZSE.json，共 2 条
+2026-04-25 18:26:38,055 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\FirstFinance.json，共 2 条
+2026-04-25 18:26:38,055 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\PhoenixFinance.json，共 2 条
+2026-04-25 18:26:38,056 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\iFinD.json，共 2 条
+2026-04-25 18:26:38,057 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\SinaFinance.json，共 1 条
+2026-04-25 18:26:38,057 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\EastMoney.json，共 1 条
+2026-04-25 18:26:38,066 - news_collector - INFO - 保存处理后新闻到 data/news\processed\2026-04-25，共 15 条
+2026-04-25 18:26:38,093 - news_collector - INFO - 保存结构化新闻到 data/news\structured\news_database.json，新增 15 条，总计 405 条
+2026-04-25 18:26:38,093 - news_collector - INFO - 新闻采集流程完成
+2026-04-25 18:26:38,093 - workflow_integration - INFO - Module news_collector executed successfully, duration: 0.05s
+2026-04-25 18:26:38,093 - workflow_integration - INFO - Verifying stage output: news_collector
+2026-04-25 18:26:38,107 - workflow_integration - INFO - Loaded news_collector output data: 405
+2026-04-25 18:26:38,608 - workflow_integration - INFO - === Starting stage: stock_collector ===
+2026-04-25 18:26:38,612 - workflow_integration - INFO - Executing module: stock_collector
+2026-04-25 18:26:38,613 - stock_collector - INFO - Start collecting stocks
+2026-04-25 18:26:38,620 - stock_collector - INFO - Loaded 405 news items
+2026-04-25 18:26:38,629 - stock_collector - INFO - Extracted 10 stocks from news
+2026-04-25 18:26:38,629 - stock_collector - INFO - Screened to 10 stocks
+2026-04-25 18:26:38,631 - stock_collector - INFO - Saved stock list to data/news/structured/stock_list.json, added 0 stocks, total 10 stocks
+2026-04-25 18:26:38,631 - stock_collector - INFO - Stock collection process completed
+2026-04-25 18:26:38,631 - workflow_integration - INFO - Module stock_collector executed successfully, duration: 0.02s
+2026-04-25 18:26:38,631 - workflow_integration - INFO - Verifying stage output: stock_collector
+2026-04-25 18:26:38,639 - workflow_integration - INFO - Loaded stock_collector output data: 10
+2026-04-25 18:26:39,140 - workflow_integration - INFO - === Starting stage: stock_analyst ===
+2026-04-25 18:26:39,140 - workflow_integration - INFO - Executing module: stock_analyst
+2026-04-25 18:26:39,142 - stock_analyst - INFO - Start analyzing stocks
+2026-04-25 18:26:39,142 - stock_analyst - INFO - Loaded 10 stocks
+2026-04-25 18:26:39,142 - stock_analyst - INFO - Analyzing stock: LONGi Green Energy (601012)
+2026-04-25 18:26:39,142 - stock_analyst - INFO - Analyzing stock: BYD (002594)
+2026-04-25 18:26:39,142 - stock_analyst - INFO - Analyzing stock: Midea Group (000333)
+2026-04-25 18:26:39,142 - stock_analyst - INFO - Analyzing stock: Wuliangye (000858)
+2026-04-25 18:26:39,143 - stock_analyst - INFO - Analyzing stock: China Merchants Bank (600036)
+2026-04-25 18:26:39,143 - stock_analyst - INFO - Analyzing stock: Hengrui Medicine (600276)
+2026-04-25 18:26:39,143 - stock_analyst - INFO - Analyzing stock: Ping An (601318)
+2026-04-25 18:26:39,143 - stock_analyst - INFO - Analyzing stock: Guizhou Moutai (600519)
+2026-04-25 18:26:39,143 - stock_analyst - INFO - Analyzing stock: Ping An Bank (000001)
+2026-04-25 18:26:39,143 - stock_analyst - INFO - Analyzing stock: China Tourism Group Duty Free (601888)
+2026-04-25 18:26:39,145 - stock_analyst - INFO - Saved analysis results to data/news/structured/stock_analysis.json, added 0 analyses, total 10 analyses
+2026-04-25 18:26:39,145 - stock_analyst - INFO - Stock analysis process completed
+2026-04-25 18:26:39,145 - workflow_integration - INFO - Module stock_analyst executed successfully, duration: 0.01s
+2026-04-25 18:26:39,145 - workflow_integration - INFO - Verifying stage output: stock_analyst
+2026-04-25 18:26:39,153 - workflow_integration - INFO - Loaded stock_analyst output data: 10
+2026-04-25 18:26:39,654 - workflow_integration - INFO - === Starting stage: stock_reporter ===
+2026-04-25 18:26:39,654 - workflow_integration - INFO - Executing module: stock_reporter
+2026-04-25 18:26:39,672 - stock_reporter - INFO - 开始生成股票推荐报告
+2026-04-25 18:26:39,672 - stock_reporter - INFO - 加载 10 条分析结果
+2026-04-25 18:26:39,672 - stock_reporter - INFO - 开始最终筛选，共 10 只股票
+2026-04-25 18:26:39,672 - stock_reporter - INFO - 筛选完成，共 6 只推荐股票
+2026-04-25 18:26:39,675 - data_manager - INFO - 保存股票报告数据到 data/news\reports\2026-04-25\stock_report_20260425182639.json 和 data/news\structured\stock_report.json
+2026-04-25 18:26:39,675 - stock_reporter - INFO - 保存报告到 data/news\reports\2026-04-25\stock_report_20260425182639.json 和 data/news\reports\2026-04-25\stock_report.md
+2026-04-25 18:26:39,676 - stock_reporter - INFO - 开始发送报告通知
+2026-04-25 18:26:39,676 - notification_service - INFO - [微信] 发送通知: 【股票推荐报告】
+生成时间: 2026-04-25T18:26:39.674289
+推荐股票: 6只...
+2026-04-25 18:26:39,676 - notification_service - INFO - 通知发送结果 - wechat: 成功
+2026-04-25 18:26:39,676 - notification_service - ERROR - [QQ] 发送失败: 'QQNotification' object has no attribute '_format_generic_message'
+2026-04-25 18:26:39,676 - notification_service - INFO - 通知发送结果 - qq: 失败
+2026-04-25 18:26:39,953 - notification_service - INFO - 通知发送结果 - wecom: 成功
+2026-04-25 18:26:39,953 - stock_reporter - INFO - 通知发送结果 - wechat: 成功
+2026-04-25 18:26:39,953 - stock_reporter - INFO - 通知发送结果 - qq: 失败
+2026-04-25 18:26:39,953 - stock_reporter - INFO - 通知发送结果 - wecom: 成功
+2026-04-25 18:26:39,955 - stock_reporter - INFO - 股票报告生成完成
+2026-04-25 18:26:39,955 - workflow_integration - INFO - Module stock_reporter executed successfully, duration: 0.30s
+2026-04-25 18:26:39,955 - workflow_integration - INFO - Verifying stage output: stock_reporter
+2026-04-25 18:26:39,955 - workflow_integration - INFO - Loaded stock_reporter output data: dict
+2026-04-25 18:26:39,955 - workflow_integration - ERROR - Output verification failed: Report missing sections: ['market_overview', 'stock_analysis', 'recommendations']
+2026-04-25 18:26:40,457 - workflow_integration - INFO - Full workflow execution completed
+2026-04-25 18:26:40,459 - workflow_integration - INFO - Workflow result saved: data/news/reports/workflow_result_20260425_182640.json
+2026-04-25 18:30:05,806 - workflow_integration - INFO - Initializing Workflow Engine
+2026-04-25 18:30:05,806 - workflow_integration - INFO - Starting full workflow execution
+2026-04-25 18:30:05,806 - workflow_integration - INFO - === Starting stage: news_collector ===
+2026-04-25 18:30:05,806 - workflow_integration - INFO - Executing module: news_collector
+2026-04-25 18:30:05,816 - news_collector - INFO - 开始采集新闻，目标数量：15
+2026-04-25 18:30:05,817 - news_collector - INFO - 生成 15 条模拟新闻
+2026-04-25 18:30:05,818 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\FirstFinance.json，共 2 条
+2026-04-25 18:30:05,818 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\PhoenixFinance.json，共 1 条
+2026-04-25 18:30:05,819 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\iFinD.json，共 1 条
+2026-04-25 18:30:05,820 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\Caixin.json，共 5 条
+2026-04-25 18:30:05,821 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\XueQiu.json，共 2 条
+2026-04-25 18:30:05,821 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\EastMoney.json，共 1 条
+2026-04-25 18:30:05,822 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\SinaFinance.json，共 1 条
+2026-04-25 18:30:05,822 - news_collector - INFO - 保存原始新闻到 data/news\raw\2026-04-25\SSE_SZSE.json，共 2 条
+2026-04-25 18:30:05,831 - news_collector - INFO - 保存处理后新闻到 data/news\processed\2026-04-25，共 15 条
+2026-04-25 18:30:05,857 - news_collector - INFO - 保存结构化新闻到 data/news\structured\news_database.json，新增 15 条，总计 420 条
+2026-04-25 18:30:05,858 - news_collector - INFO - 新闻采集流程完成
+2026-04-25 18:30:05,858 - workflow_integration - INFO - Module news_collector executed successfully, duration: 0.05s
+2026-04-25 18:30:05,858 - workflow_integration - INFO - Verifying stage output: news_collector
+2026-04-25 18:30:05,870 - workflow_integration - INFO - Loaded news_collector output data: 420
+2026-04-25 18:30:06,371 - workflow_integration - INFO - === Starting stage: stock_collector ===
+2026-04-25 18:30:06,377 - workflow_integration - INFO - Executing module: stock_collector
+2026-04-25 18:30:06,378 - stock_collector - INFO - Start collecting stocks
+2026-04-25 18:30:06,383 - stock_collector - INFO - Loaded 420 news items
+2026-04-25 18:30:06,392 - stock_collector - INFO - Extracted 10 stocks from news
+2026-04-25 18:30:06,393 - stock_collector - INFO - Screened to 10 stocks
+2026-04-25 18:30:06,394 - stock_collector - INFO - Saved stock list to data/news/structured/stock_list.json, added 0 stocks, total 10 stocks
+2026-04-25 18:30:06,394 - stock_collector - INFO - Stock collection process completed
+2026-04-25 18:30:06,395 - workflow_integration - INFO - Module stock_collector executed successfully, duration: 0.02s
+2026-04-25 18:30:06,395 - workflow_integration - INFO - Verifying stage output: stock_collector
+2026-04-25 18:30:06,402 - workflow_integration - INFO - Loaded stock_collector output data: 10
+2026-04-25 18:30:06,903 - workflow_integration - INFO - === Starting stage: stock_analyst ===
+2026-04-25 18:30:06,903 - workflow_integration - INFO - Executing module: stock_analyst
+2026-04-25 18:30:06,905 - stock_analyst - INFO - Start analyzing stocks
+2026-04-25 18:30:06,905 - stock_analyst - INFO - Loaded 10 stocks
+2026-04-25 18:30:06,905 - stock_analyst - INFO - Analyzing stock: LONGi Green Energy (601012)
+2026-04-25 18:30:06,905 - stock_analyst - INFO - Analyzing stock: BYD (002594)
+2026-04-25 18:30:06,905 - stock_analyst - INFO - Analyzing stock: Midea Group (000333)
+2026-04-25 18:30:06,905 - stock_analyst - INFO - Analyzing stock: Wuliangye (000858)
+2026-04-25 18:30:06,906 - stock_analyst - INFO - Analyzing stock: China Merchants Bank (600036)
+2026-04-25 18:30:06,906 - stock_analyst - INFO - Analyzing stock: Hengrui Medicine (600276)
+2026-04-25 18:30:06,906 - stock_analyst - INFO - Analyzing stock: Ping An (601318)
+2026-04-25 18:30:06,906 - stock_analyst - INFO - Analyzing stock: Guizhou Moutai (600519)
+2026-04-25 18:30:06,906 - stock_analyst - INFO - Analyzing stock: Ping An Bank (000001)
+2026-04-25 18:30:06,906 - stock_analyst - INFO - Analyzing stock: China Tourism Group Duty Free (601888)
+2026-04-25 18:30:06,908 - stock_analyst - INFO - Saved analysis results to data/news/structured/stock_analysis.json, added 0 analyses, total 10 analyses
+2026-04-25 18:30:06,908 - stock_analyst - INFO - Stock analysis process completed
+2026-04-25 18:30:06,908 - workflow_integration - INFO - Module stock_analyst executed successfully, duration: 0.00s
+2026-04-25 18:30:06,908 - workflow_integration - INFO - Verifying stage output: stock_analyst
+2026-04-25 18:30:06,916 - workflow_integration - INFO - Loaded stock_analyst output data: 10
+2026-04-25 18:30:07,417 - workflow_integration - INFO - === Starting stage: stock_reporter ===
+2026-04-25 18:30:07,418 - workflow_integration - INFO - Executing module: stock_reporter
+2026-04-25 18:30:07,432 - stock_reporter - INFO - 开始生成股票推荐报告
+2026-04-25 18:30:07,432 - stock_reporter - INFO - 加载 10 条分析结果
+2026-04-25 18:30:07,432 - stock_reporter - INFO - 开始最终筛选，共 10 只股票
+2026-04-25 18:30:07,432 - stock_reporter - INFO - 筛选完成，共 6 只推荐股票
+2026-04-25 18:30:07,434 - data_manager - INFO - 保存股票报告数据到 data/news\reports\2026-04-25\stock_report_20260425183007.json 和 data/news\structured\stock_report.json
+2026-04-25 18:30:07,435 - stock_reporter - INFO - 保存报告到 data/news\reports\2026-04-25\stock_report_20260425183007.json 和 data/news\reports\2026-04-25\stock_report.md
+2026-04-25 18:30:07,435 - stock_reporter - INFO - 开始发送报告通知
+2026-04-25 18:30:07,435 - notification_service - INFO - [微信] 发送通知: 【股票推荐报告】
+生成时间: 2026-04-25T18:30:07.433337
+推荐股票: 6只...
+2026-04-25 18:30:07,435 - notification_service - INFO - 通知发送结果 - wechat: 成功
+2026-04-25 18:30:07,435 - notification_service - ERROR - [QQ] 发送失败: 'QQNotification' object has no attribute '_format_generic_message'
+2026-04-25 18:30:07,435 - notification_service - INFO - 通知发送结果 - qq: 失败
+2026-04-25 18:30:07,442 - notification_service - INFO - 通知发送结果 - wecom: 成功
+2026-04-25 18:30:07,442 - stock_reporter - INFO - 通知发送结果 - wechat: 成功
+2026-04-25 18:30:07,442 - stock_reporter - INFO - 通知发送结果 - qq: 失败
+2026-04-25 18:30:07,442 - stock_reporter - INFO - 通知发送结果 - wecom: 成功
+2026-04-25 18:30:07,442 - stock_reporter - INFO - 股票报告生成完成
+2026-04-25 18:30:07,442 - workflow_integration - INFO - Module stock_reporter executed successfully, duration: 0.02s
+2026-04-25 18:30:07,442 - workflow_integration - INFO - Verifying stage output: stock_reporter
+2026-04-25 18:30:07,443 - workflow_integration - INFO - Loaded stock_reporter output data: dict
+2026-04-25 18:30:07,443 - workflow_integration - ERROR - Output verification failed: Report missing sections: ['market_overview', 'stock_analysis', 'recommendations']
+2026-04-25 18:30:07,944 - workflow_integration - INFO - Full workflow execution completed
+2026-04-25 18:30:07,946 - workflow_integration - INFO - Workflow result saved: data/news/reports/workflow_result_20260425_183007.json

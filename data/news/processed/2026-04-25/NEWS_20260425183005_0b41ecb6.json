@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425183005_0b41ecb6",
+  "title": "Guizhou Moutai launched new Smartphone, market response enthusiastic",
+  "original_title": "Guizhou Moutai launched new Smartphone, market response enthusiastic",
+  "source": "\u8d22\u65b0\u7f51",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425183005_0b41ecb6",
+  "publish_time": "2026-04-21T16:10:05.817249",
+  "collect_time": "2026-04-25T18:30:05.817249",
+  "summary": "Guizhou Moutai launched new Smartphone, market response enthusiastic",
+  "content": "Guizhou Moutai launched new Smartphone, market response enthusiastic",
+  "related_stocks": [
+    {
+      "stock_code": "600519",
+      "stock_name": "Guizhou Moutai",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u673a\u6784\u7814\u62a5",
+    "secondary": [
+      "New Energy"
+    ],
+    "tags": [
+      "\u4e70\u5165",
+      "\u76ee\u6807\u4ef7"
+    ]
+  },
+  "sentiment": {
+    "overall": "positive",
+    "score": 0.87,
+    "reason": "\u673a\u6784\u7814\u62a5 related news"
+  },
+  "impact_level": "high",
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors",
+  "metadata": {
+    "word_count": 68,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": false
+  }
+}

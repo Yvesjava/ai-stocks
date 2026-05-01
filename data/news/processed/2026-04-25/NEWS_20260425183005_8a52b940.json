@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425183005_8a52b940",
+  "title": "Wuliangye released Q3 2026 report, revenue 738.46 billion yuan, YoY growth 8.36%",
+  "original_title": "Wuliangye released Q3 2026 report, revenue 738.46 billion yuan, YoY growth 8.36%",
+  "source": "\u51e4\u51f0\u8d22\u7ecf",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425183005_8a52b940",
+  "publish_time": "2026-04-18T00:24:05.817249",
+  "collect_time": "2026-04-25T18:30:05.817249",
+  "summary": "Wuliangye released Q3 2026 report, revenue 738.46 billion yuan, YoY growth 8.36%",
+  "content": "Wuliangye released Q3 2026 report, revenue 738.46 billion yuan, YoY growth 8.36%",
+  "related_stocks": [
+    {
+      "stock_code": "000858",
+      "stock_name": "Wuliangye",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6",
+    "secondary": [
+      "New Energy"
+    ],
+    "tags": [
+      "\u5730\u9707",
+      "\u5371\u673a"
+    ]
+  },
+  "sentiment": {
+    "overall": "positive",
+    "score": 0.02,
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news"
+  },
+  "impact_level": "medium",
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors",
+  "metadata": {
+    "word_count": 80,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": false
+  }
+}

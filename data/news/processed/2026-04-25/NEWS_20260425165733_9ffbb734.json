@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5916\u6c47", 
+      "\u6e2f\u80a1"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Hengrui Medicine encountered violation, stock price falling", 
+  "publish_time": "2026-04-22T22:41:33.001000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": 0.59, 
+    "overall": "positive"
+  }, 
+  "title": "Hengrui Medicine encountered violation, stock price falling", 
+  "original_title": "Hengrui Medicine encountered violation, stock price falling", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T16:57:33.003000", 
+  "source_url": "https://example.com/news/NEWS_20260425165733_9ffbb734", 
+  "news_id": "NEWS_20260425165733_9ffbb734", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "low", 
+  "summary": "Hengrui Medicine encountered violation, stock price falling", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 59, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

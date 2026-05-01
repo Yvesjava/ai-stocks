@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8425\u6536", 
+      "\u5229\u6da6"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "International market fluctuating, A-share Finance sector fluctuates", 
+  "publish_time": "2026-04-17T23:26:40.022000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": -0.47, 
+    "overall": "negative"
+  }, 
+  "title": "International market fluctuating, A-share Finance sector fluctuates", 
+  "original_title": "International market fluctuating, A-share Finance sector fluctuates", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T16:59:40.022000", 
+  "source_url": "https://example.com/news/NEWS_20260425165940_dc351efb", 
+  "news_id": "NEWS_20260425165940_dc351efb", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "International market fluctuating, A-share Finance sector fluctuates", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 67, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

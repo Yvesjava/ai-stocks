@@ -1,0 +1,95 @@
+{
+  "recommended_stocks": [
+    {
+      "stock_name": "BYD", 
+      "priority_score": 105.64, 
+      "stock_code": "002594", 
+      "recommendation": "Strong Buy", 
+      "risk_level": "Low", 
+      "key_points": [
+        "\u57fa\u672c\u9762\u6301\u7eed\u6539\u5584", 
+        "Although news sentiment is positive, there is technical adjustment pressure and fundamentals need further observation."
+      ], 
+      "target_price": 428.08, 
+      "analysis_time": "2026-04-25T16:58:42.960000"
+    }, 
+    {
+      "stock_name": "Midea Group", 
+      "priority_score": 101.34, 
+      "stock_code": "000333", 
+      "recommendation": "Strong Buy", 
+      "risk_level": "Medium", 
+      "key_points": [
+        "\u6280\u672f\u9762\u5448\u73b0\u91d1\u53c9\u6216\u591a\u5934\u6392\u5217", 
+        "\u57fa\u672c\u9762\u6301\u7eed\u6539\u5584", 
+        "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+      ], 
+      "target_price": 858.96, 
+      "analysis_time": "2026-04-25T16:58:42.960000"
+    }, 
+    {
+      "stock_name": "Wuliangye", 
+      "priority_score": 100.68, 
+      "stock_code": "000858", 
+      "recommendation": "Strong Buy", 
+      "risk_level": "Medium", 
+      "key_points": [
+        "\u6280\u672f\u9762\u7a81\u7834\u5f62\u6001", 
+        "\u4e1a\u7ee9\u589e\u957f\u9884\u671f", 
+        "\u57fa\u672c\u9762\u6301\u7eed\u6539\u5584", 
+        "\u6d88\u606f\u9762\u79ef\u6781", 
+        "Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals."
+      ], 
+      "target_price": 451.5, 
+      "analysis_time": "2026-04-25T16:58:42.960000"
+    }, 
+    {
+      "stock_name": "China Merchants Bank", 
+      "priority_score": 100.62, 
+      "stock_code": "600036", 
+      "recommendation": "Strong Buy", 
+      "risk_level": "Medium", 
+      "key_points": [
+        "\u6280\u672f\u9762\u5448\u73b0\u91d1\u53c9\u6216\u591a\u5934\u6392\u5217", 
+        "\u57fa\u672c\u9762\u6301\u7eed\u6539\u5584", 
+        "Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals."
+      ], 
+      "target_price": 630.98, 
+      "analysis_time": "2026-04-25T16:58:42.960000"
+    }, 
+    {
+      "stock_name": "Ping An", 
+      "priority_score": 99.06, 
+      "stock_code": "601318", 
+      "recommendation": "Strong Buy", 
+      "risk_level": "Medium", 
+      "key_points": [
+        "\u6280\u672f\u9762\u5448\u73b0\u91d1\u53c9\u6216\u591a\u5934\u6392\u5217", 
+        "\u4e1a\u7ee9\u589e\u957f\u9884\u671f", 
+        "\u57fa\u672c\u9762\u6301\u7eed\u6539\u5584", 
+        "\u6d88\u606f\u9762\u79ef\u6781", 
+        "Both technical and news indicators show positive signals, with improving fundamentals. Worth focusing on."
+      ], 
+      "target_price": 170.66, 
+      "analysis_time": "2026-04-25T16:58:42.961000"
+    }, 
+    {
+      "stock_name": "Guizhou Moutai", 
+      "priority_score": 97.35, 
+      "stock_code": "600519", 
+      "recommendation": "Strong Buy", 
+      "risk_level": "Medium", 
+      "key_points": [
+        "\u4e1a\u7ee9\u589e\u957f\u9884\u671f", 
+        "\u6d88\u606f\u9762\u79ef\u6781", 
+        "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment."
+      ], 
+      "target_price": 985.65, 
+      "analysis_time": "2026-04-25T16:58:42.961000"
+    }
+  ], 
+  "report_time": "2026-04-25T16:59:43.195000", 
+  "total_analyzed": 10, 
+  "summary": "Error generating summary", 
+  "total_recommended": 6
+}

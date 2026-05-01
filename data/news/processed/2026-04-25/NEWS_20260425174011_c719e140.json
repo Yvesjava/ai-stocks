@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "AI", 
+      "\u534a\u5bfc\u4f53"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Ping An released Q3 2026 report, revenue 243.91 billion yuan, YoY growth 46.49%", 
+  "publish_time": "2026-04-19T17:01:11.651000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.23, 
+    "overall": "neutral"
+  }, 
+  "title": "Ping An released Q3 2026 report, revenue 243.91 billion yuan, YoY growth 46.49%", 
+  "original_title": "Ping An released Q3 2026 report, revenue 243.91 billion yuan, YoY growth 46.49%", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T17:40:11.651000", 
+  "source_url": "https://example.com/news/NEWS_20260425174011_c719e140", 
+  "news_id": "NEWS_20260425174011_c719e140", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "medium", 
+  "summary": "Ping An released Q3 2026 report, revenue 243.91 billion yuan, YoY growth 46.49%", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 79, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

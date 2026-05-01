@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d8b\u52bf", 
+      "\u6280\u672f\u7a81\u7834"
+    ], 
+    "primary": "\u884c\u4e1a\u52a8\u6001", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Ping An Bank expects 2026 Q1 net profit to grow 33.21% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-23T09:33:51.535000", 
+  "sentiment": {
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news", 
+    "score": 0.84, 
+    "overall": "neutral"
+  }, 
+  "title": "Ping An Bank expects 2026 Q1 net profit to grow 33.21% YoY, exceeding market expectations", 
+  "original_title": "Ping An Bank expects 2026 Q1 net profit to grow 33.21% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T16:52:51.535000", 
+  "source_url": "https://example.com/news/NEWS_20260425165251_42aa5e47", 
+  "news_id": "NEWS_20260425165251_42aa5e47", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Ping An Bank expects 2026 Q1 net profit to grow 33.21% YoY, exceeding market expectations", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 89, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "news_id": "NEWS_20260425183005_219bdabb",
+    "title": "International market fluctuating, A-share Consumer sector fluctuates",
+    "original_title": "International market fluctuating, A-share Consumer sector fluctuates",
+    "source": "\u7b2c\u4e00\u8d22\u7ecf",
+    "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+    "source_url": "https://example.com/news/NEWS_20260425183005_219bdabb",
+    "publish_time": "2026-04-19T01:24:05.817249",
+    "collect_time": "2026-04-25T18:30:05.817249",
+    "summary": "International market fluctuating, A-share Consumer sector fluctuates",
+    "content": "International market fluctuating, A-share Consumer sector fluctuates",
+    "related_stocks": [
+      {
+        "stock_code": "002594",
+        "stock_name": "BYD",
+        "mention_type": "main target"
+      }
+    ],
+    "category": {
+      "primary": "\u56fd\u9645\u5e02\u573a",
+      "secondary": [
+        "New Energy"
+      ],
+      "tags": [
+        "\u5916\u6c47",
+        "\u7f8e\u80a1"
+      ]
+    },
+    "sentiment": {
+      "overall": "neutral",
+      "score": 0.77,
+      "reason": "\u56fd\u9645\u5e02\u573a related news"
+    },
+    "impact_level": "high",
+    "market_reaction_expected": "Expected to impact BYD and related sectors",
+    "metadata": {
+      "word_count": 68,
+      "has_image": true,
+      "is_original": true,
+      "is_headline": true
+    }
+  },
+  {
+    "news_id": "NEWS_20260425183005_a0be7810",
+    "title": "BYD released Q2 2026 report, revenue 578.97 billion yuan, YoY growth 44.41%",
+    "original_title": "BYD released Q2 2026 report, revenue 578.97 billion yuan, YoY growth 44.41%",
+    "source": "\u7b2c\u4e00\u8d22\u7ecf",
+    "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+    "source_url": "https://example.com/news/NEWS_20260425183005_a0be7810",
+    "publish_time": "2026-04-20T03:56:05.817249",
+    "collect_time": "2026-04-25T18:30:05.817249",
+    "summary": "BYD released Q2 2026 report, revenue 578.97 billion yuan, YoY growth 44.41%",
+    "content": "BYD released Q2 2026 report, revenue 578.97 billion yuan, YoY growth 44.41%",
+    "related_stocks": [
+      {
+        "stock_code": "002594",
+        "stock_name": "BYD",
+        "mention_type": "main target"
+      }
+    ],
+    "category": {
+      "primary": "\u516c\u53f8\u8d22\u62a5",
+      "secondary": [
+        "Consumer"
+      ],
+      "tags": [
+        "\u8425\u6536",
+        "\u4e1a\u7ee9"
+      ]
+    },
+    "sentiment": {
+      "overall": "positive",
+      "score": 0.48,
+      "reason": "\u516c\u53f8\u8d22\u62a5 related news"
+    },
+    "impact_level": "medium",
+    "market_reaction_expected": "Expected to impact BYD and related sectors",
+    "metadata": {
+      "word_count": 75,
+      "has_image": true,
+      "is_original": true,
+      "is_headline": true
+    }
+  }
+]

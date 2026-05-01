@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8bc4\u7ea7", 
+      "\u5206\u6790"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Midea Group plans to increase holdings, analysts give Neutral rating", 
+  "publish_time": "2026-04-18T15:45:10.400000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": 0.58, 
+    "overall": "neutral"
+  }, 
+  "title": "Midea Group plans to increase holdings, analysts give Neutral rating", 
+  "original_title": "Midea Group plans to increase holdings, analysts give Neutral rating", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T17:43:10.400000", 
+  "source_url": "https://example.com/news/NEWS_20260425174310_43f43884", 
+  "news_id": "NEWS_20260425174310_43f43884", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Midea Group plans to increase holdings, analysts give Neutral rating", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 68, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

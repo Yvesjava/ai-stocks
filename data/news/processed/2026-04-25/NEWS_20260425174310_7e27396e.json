@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u80a1\u6743\u6fc0\u52b1", 
+      "\u5e74\u62a5"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Macroeconomic data better than expected, New Energy sector affected", 
+  "publish_time": "2026-04-24T13:08:10.400000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": 0.37, 
+    "overall": "positive"
+  }, 
+  "title": "Macroeconomic data better than expected, New Energy sector affected", 
+  "original_title": "Macroeconomic data better than expected, New Energy sector affected", 
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors", 
+  "collect_time": "2026-04-25T17:43:10.400000", 
+  "source_url": "https://example.com/news/NEWS_20260425174310_7e27396e", 
+  "news_id": "NEWS_20260425174310_7e27396e", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Macroeconomic data better than expected, New Energy sector affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 67, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Merchants Bank", 
+      "stock_code": "600036"
+    }
+  ]
+}

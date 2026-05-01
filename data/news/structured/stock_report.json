@@ -1,0 +1,87 @@
+{
+  "report_date": "2026-04-25T18:30:07.433337",
+  "total_analyzed": 10,
+  "total_stocks": 6,
+  "recommended_stocks": [
+    {
+      "stock_code": "002594",
+      "stock_name": "BYD",
+      "recommendation": "Strong Buy",
+      "risk_level": "Low",
+      "target_price": 428.08,
+      "priority_score": 105.64,
+      "analysis_time": "2026-04-25T16:58:42.960000",
+      "key_highlights": [],
+      "brief": "Although news sentiment is positive, there is technical adjustment pressure and fundamentals need further observation.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    },
+    {
+      "stock_code": "000333",
+      "stock_name": "Midea Group",
+      "recommendation": "Strong Buy",
+      "risk_level": "Medium",
+      "target_price": 858.96,
+      "priority_score": 101.34,
+      "analysis_time": "2026-04-25T16:58:42.960000",
+      "key_highlights": [],
+      "brief": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    },
+    {
+      "stock_code": "000858",
+      "stock_name": "Wuliangye",
+      "recommendation": "Strong Buy",
+      "risk_level": "Medium",
+      "target_price": 451.5,
+      "priority_score": 100.68,
+      "analysis_time": "2026-04-25T16:58:42.960000",
+      "key_highlights": [],
+      "brief": "Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    },
+    {
+      "stock_code": "600036",
+      "stock_name": "China Merchants Bank",
+      "recommendation": "Strong Buy",
+      "risk_level": "Medium",
+      "target_price": 630.98,
+      "priority_score": 100.62,
+      "analysis_time": "2026-04-25T16:58:42.960000",
+      "key_highlights": [],
+      "brief": "Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    },
+    {
+      "stock_code": "601318",
+      "stock_name": "Ping An",
+      "recommendation": "Strong Buy",
+      "risk_level": "Medium",
+      "target_price": 170.66,
+      "priority_score": 99.06,
+      "analysis_time": "2026-04-25T16:58:42.961000",
+      "key_highlights": [],
+      "brief": "Both technical and news indicators show positive signals, with improving fundamentals. Worth focusing on.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    },
+    {
+      "stock_code": "600519",
+      "stock_name": "Guizhou Moutai",
+      "recommendation": "Strong Buy",
+      "risk_level": "Medium",
+      "target_price": 985.65,
+      "priority_score": 97.35,
+      "analysis_time": "2026-04-25T16:58:42.961000",
+      "key_highlights": [],
+      "brief": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    }
+  ],
+  "summary": "# [强亿] 股票推荐报告\n\n> **生成时间**：2026年04月25日\n> **推荐股票数量**：6只\n\n## [统计] 市场概览\n### 市场简评\n市场整体呈现震荡走势，板块轮动加速。\n推荐股票主要集中在业绩增长明确、技术形态良好的个股。\n投资者可关注基本面改善且消息面积极的优质标的。\n\n### 推荐统计\n| 推荐评级 | 股票数量 |\n|---------|---------|\n| Strong Buy | 6只 |\n\n## [推荐] 推荐股票\n### [强] 1. 比亚迪 (002594)\n**推荐评级**：Strong Buy\n**现价/目标价**：350.2 / 428.08元\n**风险等级**：Low\n**优先级分数**：105.64\n\n**核心逻辑**：Although news sentiment is positive, there is technical adjustment pressure and fundamentals need further observation.\n\n**操作建议**：积极买入，可逢低加仓\n\n---\n\n### [强] 2. 美的集团 (000333)\n**推荐评级**：Strong Buy\n**现价/目标价**：580.3 / 858.96元\n**风险等级**：Medium\n**优先级分数**：101.34\n\n**核心逻辑**：Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment.\n\n**操作建议**：积极买入，可逢低加仓\n\n---\n\n### [强] 3. 五粮液 (000858)\n**推荐评级**：Strong Buy\n**现价/目标价**：380.1 / 451.5元\n**风险等级**：Medium\n**优先级分数**：100.68\n\n**核心逻辑**：Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals.\n\n**操作建议**：积极买入，可逢低加仓\n\n---\n\n### [强] 4. 招商银行 (600036)\n**推荐评级**：Strong Buy\n**现价/目标价**：520.8 / 630.98元\n**风险等级**：Medium\n**优先级分数**：100.62\n\n**核心逻辑**：Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals.\n\n**操作建议**：积极买入，可逢低加仓\n\n---\n\n### [强] 5. 中国平安 (601318)\n**推荐评级**：Strong Buy\n**现价/目标价**：48.5 / 170.66元\n**风险等级**：Medium\n**优先级分数**：99.06\n\n**核心逻辑**：Both technical and news indicators show positive signals, with improving fundamentals. Worth focusing on.\n\n**操作建议**：积极买入，可逢低加仓\n\n---\n\n### [强] 6. 贵州茅台 (600519)\n**推荐评级**：Strong Buy\n**现价/目标价**：1680.3 / 985.65元\n**风险等级**：Medium\n**优先级分数**：97.35\n\n**核心逻辑**：Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment.\n\n**操作建议**：积极买入，可逢低加仓\n\n---\n\n## [建议] 投资建议\n### 整体策略\n1. **分散投资**：建议将资金分散到不同行业和风险等级的股票中\n2. **关注时机**：根据市场情况选择合适的入场时机\n3. **设置止损**：为每只股票设置合理的止损位\n4. **定期复盘**：每周回顾投资组合表现，及时调整策略\n\n## [声明] 免责声明\n本报告仅供参考，不构成任何投资建议。投资有风险，入市需谨慎。\n报告中的信息均来源于公开渠道，我们对其准确性和完整性不做任何保证。\n投资者应根据自身情况做出投资决策，并承担相应风险。\n",
+  "generated_by": "Stock Reporter Agent"
+}

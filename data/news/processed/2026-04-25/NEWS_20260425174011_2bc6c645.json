@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5229\u6da6", 
+      "\u8d22\u52a1\u6570\u636e"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "BYD released Q1 2026 report, revenue 271.37 billion yuan, YoY growth 12.55%", 
+  "publish_time": "2026-04-20T10:35:11.651000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": -0.39, 
+    "overall": "positive"
+  }, 
+  "title": "BYD released Q1 2026 report, revenue 271.37 billion yuan, YoY growth 12.55%", 
+  "original_title": "BYD released Q1 2026 report, revenue 271.37 billion yuan, YoY growth 12.55%", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T17:40:11.651000", 
+  "source_url": "https://example.com/news/NEWS_20260425174011_2bc6c645", 
+  "news_id": "NEWS_20260425174011_2bc6c645", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "BYD released Q1 2026 report, revenue 271.37 billion yuan, YoY growth 12.55%", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 75, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

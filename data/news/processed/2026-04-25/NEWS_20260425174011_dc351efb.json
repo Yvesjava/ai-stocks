@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5916\u6c47", 
+      "\u7f8e\u80a1"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "International market fluctuating, A-share Finance sector fluctuates", 
+  "publish_time": "2026-04-21T21:02:11.651000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": -0.43, 
+    "overall": "neutral"
+  }, 
+  "title": "International market fluctuating, A-share Finance sector fluctuates", 
+  "original_title": "International market fluctuating, A-share Finance sector fluctuates", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T17:40:11.651000", 
+  "source_url": "https://example.com/news/NEWS_20260425174011_dc351efb", 
+  "news_id": "NEWS_20260425174011_dc351efb", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "International market fluctuating, A-share Finance sector fluctuates", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 67, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

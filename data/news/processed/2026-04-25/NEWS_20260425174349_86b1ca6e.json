@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5927\u76d8", 
+      "\u6210\u4ea4\u989d"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Wuliangye launched new New Drug, market response questioning", 
+  "publish_time": "2026-04-24T17:38:49.512000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": -0.83, 
+    "overall": "negative"
+  }, 
+  "title": "Wuliangye launched new New Drug, market response questioning", 
+  "original_title": "Wuliangye launched new New Drug, market response questioning", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T17:43:49.512000", 
+  "source_url": "https://example.com/news/NEWS_20260425174349_86b1ca6e", 
+  "news_id": "NEWS_20260425174349_86b1ca6e", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "high", 
+  "summary": "Wuliangye launched new New Drug, market response questioning", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 60, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

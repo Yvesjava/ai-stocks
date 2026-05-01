@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u901a\u62a5", 
+      "\u5904\u7f5a"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "LONGi Green Energy reached strategic cooperation with Tencent to jointly develop Cloud Computing", 
+  "publish_time": "2026-04-22T19:40:06.843000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": 0.3, 
+    "overall": "negative"
+  }, 
+  "title": "LONGi Green Energy reached strategic cooperation with Tencent to jointly develop Cloud Computing", 
+  "original_title": "LONGi Green Energy reached strategic cooperation with Tencent to jointly develop Cloud Computing", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T16:52:06.843000", 
+  "source_url": "https://example.com/news/NEWS_20260425165206_7e2468fd", 
+  "news_id": "NEWS_20260425165206_7e2468fd", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "LONGi Green Energy reached strategic cooperation with Tencent to jointly develop Cloud Computing", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 96, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u76d1\u7ba1\u653f\u7b56", 
+      "\u8d27\u5e01\u653f\u7b56"
+    ], 
+    "primary": "\u5b8f\u89c2\u653f\u7b56", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "BYD expects 2026 Q4 net profit to grow 12.17% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-24T09:52:30.512000", 
+  "sentiment": {
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news", 
+    "score": 0.98, 
+    "overall": "neutral"
+  }, 
+  "title": "BYD expects 2026 Q4 net profit to grow 12.17% YoY, exceeding market expectations", 
+  "original_title": "BYD expects 2026 Q4 net profit to grow 12.17% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T18:20:30.512000", 
+  "source_url": "https://example.com/news/NEWS_20260425182030_eb8f48e8", 
+  "news_id": "NEWS_20260425182030_eb8f48e8", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "BYD expects 2026 Q4 net profit to grow 12.17% YoY, exceeding market expectations", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 80, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

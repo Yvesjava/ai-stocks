@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u65b0\u80fd\u6e90", 
+      "\u534a\u5bfc\u4f53"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Macroeconomic data worse than expected, New Energy sector affected", 
+  "publish_time": "2026-04-23T16:06:33.365000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.65, 
+    "overall": "positive"
+  }, 
+  "title": "Macroeconomic data worse than expected, New Energy sector affected", 
+  "original_title": "Macroeconomic data worse than expected, New Energy sector affected", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T17:43:33.365000", 
+  "source_url": "https://example.com/news/NEWS_20260425174333_35542651", 
+  "news_id": "NEWS_20260425174333_35542651", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Macroeconomic data worse than expected, New Energy sector affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 66, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

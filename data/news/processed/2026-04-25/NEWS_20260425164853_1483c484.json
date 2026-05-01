@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5927\u76d8", 
+      "\u6307\u6570"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Guizhou Moutai plans to repurchase shares, analysts give Sell rating", 
+  "publish_time": "2026-04-20T10:15:53.649000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": -0.8, 
+    "overall": "positive"
+  }, 
+  "title": "Guizhou Moutai plans to repurchase shares, analysts give Sell rating", 
+  "original_title": "Guizhou Moutai plans to repurchase shares, analysts give Sell rating", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T16:48:53.649000", 
+  "source_url": "https://example.com/news/NEWS_20260425164853_1483c484", 
+  "news_id": "NEWS_20260425164853_1483c484", 
+  "source": "\u8d22\u65b0\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Guizhou Moutai plans to repurchase shares, analysts give Sell rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 68, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

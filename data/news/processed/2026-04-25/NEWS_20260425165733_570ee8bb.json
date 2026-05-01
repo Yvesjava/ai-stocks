@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6210\u4ea4\u989d", 
+      "\u6307\u6570"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "BYD reached strategic cooperation with CATL to jointly develop AI Chip", 
+  "publish_time": "2026-04-25T15:43:33.003000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": 0.85, 
+    "overall": "positive"
+  }, 
+  "title": "BYD reached strategic cooperation with CATL to jointly develop AI Chip", 
+  "original_title": "BYD reached strategic cooperation with CATL to jointly develop AI Chip", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T16:57:33.003000", 
+  "source_url": "https://example.com/news/NEWS_20260425165733_570ee8bb", 
+  "news_id": "NEWS_20260425165733_570ee8bb", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "low", 
+  "summary": "BYD reached strategic cooperation with CATL to jointly develop AI Chip", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 70, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

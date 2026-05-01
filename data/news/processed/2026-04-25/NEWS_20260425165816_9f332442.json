@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5229\u6da6", 
+      "\u4e1a\u7ee9"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Consumer sector benefits from policy support, China Tourism Group Duty Free and related stocks benefit", 
+  "publish_time": "2026-04-22T00:45:16.420000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": -0.96, 
+    "overall": "negative"
+  }, 
+  "title": "Consumer sector benefits from policy support, China Tourism Group Duty Free and related stocks benefit", 
+  "original_title": "Consumer sector benefits from policy support, China Tourism Group Duty Free and related stocks benefit", 
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+  "collect_time": "2026-04-25T16:58:16.420000", 
+  "source_url": "https://example.com/news/NEWS_20260425165816_9f332442", 
+  "news_id": "NEWS_20260425165816_9f332442", 
+  "source": "\u8d22\u65b0\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Consumer sector benefits from policy support, China Tourism Group Duty Free and related stocks benef...", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 102, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Tourism Group Duty Free", 
+      "stock_code": "601888"
+    }
+  ]
+}

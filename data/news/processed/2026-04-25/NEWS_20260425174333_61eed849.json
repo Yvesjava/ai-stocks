@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5730\u9707", 
+      "\u4e8b\u6545"
+    ], 
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Pharmaceutical sector benefits from policy support, Ping An and related stocks benefit", 
+  "publish_time": "2026-04-23T19:30:33.365000", 
+  "sentiment": {
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news", 
+    "score": -0.19, 
+    "overall": "positive"
+  }, 
+  "title": "Pharmaceutical sector benefits from policy support, Ping An and related stocks benefit", 
+  "original_title": "Pharmaceutical sector benefits from policy support, Ping An and related stocks benefit", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T17:43:33.365000", 
+  "source_url": "https://example.com/news/NEWS_20260425174333_61eed849", 
+  "news_id": "NEWS_20260425174333_61eed849", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Pharmaceutical sector benefits from policy support, Ping An and related stocks benefit", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 86, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

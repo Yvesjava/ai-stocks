@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u677f\u5757\u8f6e\u52a8", 
+      "\u5927\u76d8"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Hengrui Medicine reached strategic cooperation with BYD to jointly develop New Energy Vehicle", 
+  "publish_time": "2026-04-22T14:58:13.315000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": -0.46, 
+    "overall": "negative"
+  }, 
+  "title": "Hengrui Medicine reached strategic cooperation with BYD to jointly develop New Energy Vehicle", 
+  "original_title": "Hengrui Medicine reached strategic cooperation with BYD to jointly develop New Energy Vehicle", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T17:44:13.317000", 
+  "source_url": "https://example.com/news/NEWS_20260425174413_b04ab97f", 
+  "news_id": "NEWS_20260425174413_b04ab97f", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Hengrui Medicine reached strategic cooperation with BYD to jointly develop New Energy Vehicle", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 93, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

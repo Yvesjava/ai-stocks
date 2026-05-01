@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425183005_bc44ceea",
+  "title": "Macroeconomic data in line with expectations, Consumer sector affected",
+  "original_title": "Macroeconomic data in line with expectations, Consumer sector affected",
+  "source": "\u96ea\u7403",
+  "source_type": "\u8d22\u7ecf\u793e\u533a",
+  "source_url": "https://example.com/news/NEWS_20260425183005_bc44ceea",
+  "publish_time": "2026-04-23T21:12:05.817249",
+  "collect_time": "2026-04-25T18:30:05.817249",
+  "summary": "Macroeconomic data in line with expectations, Consumer sector affected",
+  "content": "Macroeconomic data in line with expectations, Consumer sector affected",
+  "related_stocks": [
+    {
+      "stock_code": "000001",
+      "stock_name": "Ping An Bank",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6",
+    "secondary": [
+      "Pharmaceutical"
+    ],
+    "tags": [
+      "\u5730\u9707",
+      "\u4e8b\u6545"
+    ]
+  },
+  "sentiment": {
+    "overall": "positive",
+    "score": 0.34,
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news"
+  },
+  "impact_level": "high",
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors",
+  "metadata": {
+    "word_count": 70,
+    "has_image": true,
+    "is_original": true,
+    "is_headline": false
+  }
+}

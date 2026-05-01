@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d22\u52a1\u6570\u636e", 
+      "\u8425\u6536"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Wuliangye encountered negative report, stock price fluctuating", 
+  "publish_time": "2026-04-24T09:00:10.400000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": -0.7, 
+    "overall": "positive"
+  }, 
+  "title": "Wuliangye encountered negative report, stock price fluctuating", 
+  "original_title": "Wuliangye encountered negative report, stock price fluctuating", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T17:43:10.400000", 
+  "source_url": "https://example.com/news/NEWS_20260425174310_35a0c10e", 
+  "news_id": "NEWS_20260425174310_35a0c10e", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Wuliangye encountered negative report, stock price fluctuating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 62, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

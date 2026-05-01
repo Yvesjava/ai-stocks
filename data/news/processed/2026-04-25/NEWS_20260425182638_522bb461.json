@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182638_522bb461",
+  "title": "China Merchants Bank reached strategic cooperation with Tencent to jointly develop Cloud Computing",
+  "original_title": "China Merchants Bank reached strategic cooperation with Tencent to jointly develop Cloud Computing",
+  "source": "\u6caa\u6df1\u4ea4\u6613\u6240",
+  "source_type": "\u5b98\u65b9",
+  "source_url": "https://example.com/news/NEWS_20260425182638_522bb461",
+  "publish_time": "2026-04-21T06:19:38.051750",
+  "collect_time": "2026-04-25T18:26:38.052757",
+  "summary": "China Merchants Bank reached strategic cooperation with Tencent to jointly develop Cloud Computing",
+  "content": "China Merchants Bank reached strategic cooperation with Tencent to jointly develop Cloud Computing",
+  "related_stocks": [
+    {
+      "stock_code": "600036",
+      "stock_name": "China Merchants Bank",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u5b8f\u89c2\u653f\u7b56",
+    "secondary": [
+      "Consumer"
+    ],
+    "tags": [
+      "\u8d22\u653f\u653f\u7b56",
+      "\u76d1\u7ba1\u653f\u7b56"
+    ]
+  },
+  "sentiment": {
+    "overall": "positive",
+    "score": 0.37,
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news"
+  },
+  "impact_level": "medium",
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors",
+  "metadata": {
+    "word_count": 98,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": false
+  }
+}

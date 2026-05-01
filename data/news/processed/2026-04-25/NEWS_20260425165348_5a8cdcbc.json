@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u75ab\u60c5", 
+      "\u5730\u9707"
+    ], 
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "China Merchants Bank reached strategic cooperation with BYD to jointly develop Biomedicine", 
+  "publish_time": "2026-04-19T12:40:48.977000", 
+  "sentiment": {
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news", 
+    "score": 0.41, 
+    "overall": "neutral"
+  }, 
+  "title": "China Merchants Bank reached strategic cooperation with BYD to jointly develop Biomedicine", 
+  "original_title": "China Merchants Bank reached strategic cooperation with BYD to jointly develop Biomedicine", 
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors", 
+  "collect_time": "2026-04-25T16:53:48.977000", 
+  "source_url": "https://example.com/news/NEWS_20260425165348_5a8cdcbc", 
+  "news_id": "NEWS_20260425165348_5a8cdcbc", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "China Merchants Bank reached strategic cooperation with BYD to jointly develop Biomedicine", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 90, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Merchants Bank", 
+      "stock_code": "600036"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u65b0\u80fd\u6e90", 
+      "\u534a\u5bfc\u4f53"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Ping An expects 2026 Q2 net profit to grow 17.39% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-22T10:31:22.693000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.35, 
+    "overall": "negative"
+  }, 
+  "title": "Ping An expects 2026 Q2 net profit to grow 17.39% YoY, exceeding market expectations", 
+  "original_title": "Ping An expects 2026 Q2 net profit to grow 17.39% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T18:22:22.693000", 
+  "source_url": "https://example.com/news/NEWS_20260425182222_aea0c111", 
+  "news_id": "NEWS_20260425182222_aea0c111", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Ping An expects 2026 Q2 net profit to grow 17.39% YoY, exceeding market expectations", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 84, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

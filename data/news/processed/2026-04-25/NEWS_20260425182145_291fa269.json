@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u901a\u62a5", 
+      "\u5904\u7f5a"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "BYD launched new New Drug, market response enthusiastic", 
+  "publish_time": "2026-04-22T00:56:45.457000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": 0.97, 
+    "overall": "neutral"
+  }, 
+  "title": "BYD launched new New Drug, market response enthusiastic", 
+  "original_title": "BYD launched new New Drug, market response enthusiastic", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T18:21:45.457000", 
+  "source_url": "https://example.com/news/NEWS_20260425182145_291fa269", 
+  "news_id": "NEWS_20260425182145_291fa269", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "BYD launched new New Drug, market response enthusiastic", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 55, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

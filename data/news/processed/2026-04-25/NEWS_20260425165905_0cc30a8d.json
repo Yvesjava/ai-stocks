@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6280\u672f\u7a81\u7834", 
+      "\u8d8b\u52bf"
+    ], 
+    "primary": "\u884c\u4e1a\u52a8\u6001", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Guizhou Moutai launched new Smartphone, market response flat", 
+  "publish_time": "2026-04-21T13:27:05.004000", 
+  "sentiment": {
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news", 
+    "score": 0.15, 
+    "overall": "neutral"
+  }, 
+  "title": "Guizhou Moutai launched new Smartphone, market response flat", 
+  "original_title": "Guizhou Moutai launched new Smartphone, market response flat", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T16:59:05.005000", 
+  "source_url": "https://example.com/news/NEWS_20260425165905_0cc30a8d", 
+  "news_id": "NEWS_20260425165905_0cc30a8d", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Guizhou Moutai launched new Smartphone, market response flat", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 60, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

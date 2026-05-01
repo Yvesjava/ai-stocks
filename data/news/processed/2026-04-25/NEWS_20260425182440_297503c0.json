@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182440_297503c0",
+  "title": "China Merchants Bank released Q4 2026 report, revenue 591.86 billion yuan, YoY growth -11.95%",
+  "original_title": "China Merchants Bank released Q4 2026 report, revenue 591.86 billion yuan, YoY growth -11.95%",
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425182440_297503c0",
+  "publish_time": "2026-04-17T22:17:40.333101",
+  "collect_time": "2026-04-25T18:24:40.333101",
+  "summary": "China Merchants Bank released Q4 2026 report, revenue 591.86 billion yuan, YoY growth -11.95%",
+  "content": "China Merchants Bank released Q4 2026 report, revenue 591.86 billion yuan, YoY growth -11.95%",
+  "related_stocks": [
+    {
+      "stock_code": "600036",
+      "stock_name": "China Merchants Bank",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u5e02\u573a\u884c\u60c5",
+    "secondary": [
+      "Pharmaceutical"
+    ],
+    "tags": [
+      "\u6210\u4ea4\u989d",
+      "\u677f\u5757\u8f6e\u52a8"
+    ]
+  },
+  "sentiment": {
+    "overall": "positive",
+    "score": -0.86,
+    "reason": "\u5e02\u573a\u884c\u60c5 related news"
+  },
+  "impact_level": "low",
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors",
+  "metadata": {
+    "word_count": 93,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": true
+  }
+}

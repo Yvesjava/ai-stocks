@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6280\u672f\u7a81\u7834", 
+      "\u7ade\u4e89"
+    ], 
+    "primary": "\u884c\u4e1a\u52a8\u6001", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "LONGi Green Energy encountered negative report, stock price falling", 
+  "publish_time": "2026-04-20T22:25:00.865000", 
+  "sentiment": {
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news", 
+    "score": 0.1, 
+    "overall": "negative"
+  }, 
+  "title": "LONGi Green Energy encountered negative report, stock price falling", 
+  "original_title": "LONGi Green Energy encountered negative report, stock price falling", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T16:48:00.865000", 
+  "source_url": "https://example.com/news/NEWS_20260425164800_1d4d3ee6", 
+  "news_id": "NEWS_20260425164800_1d4d3ee6", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "LONGi Green Energy encountered negative report, stock price falling", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 67, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

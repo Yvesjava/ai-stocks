@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u75ab\u60c5", 
+      "\u5371\u673a"
+    ], 
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Wuliangye reached strategic cooperation with Alibaba to jointly develop AI Chip", 
+  "publish_time": "2026-04-21T19:44:51.537000", 
+  "sentiment": {
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news", 
+    "score": 0.89, 
+    "overall": "neutral"
+  }, 
+  "title": "Wuliangye reached strategic cooperation with Alibaba to jointly develop AI Chip", 
+  "original_title": "Wuliangye reached strategic cooperation with Alibaba to jointly develop AI Chip", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T16:52:51.537000", 
+  "source_url": "https://example.com/news/NEWS_20260425165251_52a9b9af", 
+  "news_id": "NEWS_20260425165251_52a9b9af", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Wuliangye reached strategic cooperation with Alibaba to jointly develop AI Chip", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 79, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

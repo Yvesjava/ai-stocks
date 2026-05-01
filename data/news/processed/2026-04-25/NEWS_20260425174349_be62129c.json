@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5206\u6790", 
+      "\u8bc4\u7ea7"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Macroeconomic data better than expected, Consumer sector affected", 
+  "publish_time": "2026-04-22T22:12:49.513000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": -0.18, 
+    "overall": "neutral"
+  }, 
+  "title": "Macroeconomic data better than expected, Consumer sector affected", 
+  "original_title": "Macroeconomic data better than expected, Consumer sector affected", 
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors", 
+  "collect_time": "2026-04-25T17:43:49.513000", 
+  "source_url": "https://example.com/news/NEWS_20260425174349_be62129c", 
+  "news_id": "NEWS_20260425174349_be62129c", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Macroeconomic data better than expected, Consumer sector affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 65, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Hengrui Medicine", 
+      "stock_code": "600276"
+    }
+  ]
+}

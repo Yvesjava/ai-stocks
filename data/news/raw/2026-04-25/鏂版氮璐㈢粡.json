@@ -1,0 +1,170 @@
+[
+  {
+    "category": {
+      "tags": [
+        "\u4e8b\u6545", 
+        "\u5371\u673a"
+      ], 
+      "primary": "\u7a81\u53d1\u4e8b\u4ef6", 
+      "secondary": [
+        "Pharmaceutical"
+      ]
+    }, 
+    "content": "International market fluctuating, A-share Consumer sector fluctuates", 
+    "publish_time": "2026-04-20T16:25:22.663000", 
+    "sentiment": {
+      "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news", 
+      "score": 0.24, 
+      "overall": "positive"
+    }, 
+    "title": "International market fluctuating, A-share Consumer sector fluctuates", 
+    "original_title": "International market fluctuating, A-share Consumer sector fluctuates", 
+    "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+    "collect_time": "2026-04-25T16:46:22.663000", 
+    "source_url": "https://example.com/news/NEWS_20260425164622_219bdabb", 
+    "news_id": "NEWS_20260425164622_219bdabb", 
+    "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+    "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+    "impact_level": "high", 
+    "summary": "International market fluctuating, A-share Consumer sector fluctuates", 
+    "metadata": {
+      "is_headline": true, 
+      "is_original": true, 
+      "word_count": 68, 
+      "has_image": true
+    }, 
+    "related_stocks": [
+      {
+        "mention_type": "main target", 
+        "stock_name": "Ping An", 
+        "stock_code": "601318"
+      }
+    ]
+  }, 
+  {
+    "category": {
+      "tags": [
+        "\u65b0\u80fd\u6e90", 
+        "\u5143\u5b87\u5b99"
+      ], 
+      "primary": "\u6982\u5ff5\u70ed\u70b9", 
+      "secondary": [
+        "New Energy"
+      ]
+    }, 
+    "content": "Macroeconomic data worse than expected, Finance sector affected", 
+    "publish_time": "2026-04-24T02:28:22.663000", 
+    "sentiment": {
+      "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+      "score": -0.29, 
+      "overall": "positive"
+    }, 
+    "title": "Macroeconomic data worse than expected, Finance sector affected", 
+    "original_title": "Macroeconomic data worse than expected, Finance sector affected", 
+    "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+    "collect_time": "2026-04-25T16:46:22.663000", 
+    "source_url": "https://example.com/news/NEWS_20260425164622_f74c59fa", 
+    "news_id": "NEWS_20260425164622_f74c59fa", 
+    "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+    "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+    "impact_level": "high", 
+    "summary": "Macroeconomic data worse than expected, Finance sector affected", 
+    "metadata": {
+      "is_headline": false, 
+      "is_original": true, 
+      "word_count": 63, 
+      "has_image": true
+    }, 
+    "related_stocks": [
+      {
+        "mention_type": "main target", 
+        "stock_name": "China Tourism Group Duty Free", 
+        "stock_code": "601888"
+      }
+    ]
+  }, 
+  {
+    "category": {
+      "tags": [
+        "\u5206\u7ea2", 
+        "\u5b63\u62a5"
+      ], 
+      "primary": "\u516c\u53f8\u516c\u544a", 
+      "secondary": [
+        "Finance"
+      ]
+    }, 
+    "content": "Wuliangye released Q1 2026 report, revenue 72.42 billion yuan, YoY growth -17.28%", 
+    "publish_time": "2026-04-23T03:55:22.663000", 
+    "sentiment": {
+      "reason": "\u516c\u53f8\u516c\u544a related news", 
+      "score": -0.04, 
+      "overall": "positive"
+    }, 
+    "title": "Wuliangye released Q1 2026 report, revenue 72.42 billion yuan, YoY growth -17.28%", 
+    "original_title": "Wuliangye released Q1 2026 report, revenue 72.42 billion yuan, YoY growth -17.28%", 
+    "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+    "collect_time": "2026-04-25T16:46:22.663000", 
+    "source_url": "https://example.com/news/NEWS_20260425164622_e50628b9", 
+    "news_id": "NEWS_20260425164622_e50628b9", 
+    "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+    "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+    "impact_level": "low", 
+    "summary": "Wuliangye released Q1 2026 report, revenue 72.42 billion yuan, YoY growth -17.28%", 
+    "metadata": {
+      "is_headline": true, 
+      "is_original": true, 
+      "word_count": 81, 
+      "has_image": false
+    }, 
+    "related_stocks": [
+      {
+        "mention_type": "main target", 
+        "stock_name": "Wuliangye", 
+        "stock_code": "000858"
+      }
+    ]
+  }, 
+  {
+    "category": {
+      "tags": [
+        "\u5371\u673a", 
+        "\u4e8b\u6545"
+      ], 
+      "primary": "\u7a81\u53d1\u4e8b\u4ef6", 
+      "secondary": [
+        "Pharmaceutical"
+      ]
+    }, 
+    "content": "International market falling, A-share New Energy sector fluctuates", 
+    "publish_time": "2026-04-24T02:15:22.664000", 
+    "sentiment": {
+      "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news", 
+      "score": 0.77, 
+      "overall": "positive"
+    }, 
+    "title": "International market falling, A-share New Energy sector fluctuates", 
+    "original_title": "International market falling, A-share New Energy sector fluctuates", 
+    "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+    "collect_time": "2026-04-25T16:46:22.664000", 
+    "source_url": "https://example.com/news/NEWS_20260425164622_ce8bfe05", 
+    "news_id": "NEWS_20260425164622_ce8bfe05", 
+    "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+    "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+    "impact_level": "medium", 
+    "summary": "International market falling, A-share New Energy sector fluctuates", 
+    "metadata": {
+      "is_headline": false, 
+      "is_original": true, 
+      "word_count": 66, 
+      "has_image": false
+    }, 
+    "related_stocks": [
+      {
+        "mention_type": "main target", 
+        "stock_name": "Midea Group", 
+        "stock_code": "000333"
+      }
+    ]
+  }
+]

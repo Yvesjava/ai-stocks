@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6210\u4ea4\u989d", 
+      "\u677f\u5757\u8f6e\u52a8"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Ping An Bank reached strategic cooperation with Alibaba to jointly develop AI Chip", 
+  "publish_time": "2026-04-22T21:43:40.581000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": 0.28, 
+    "overall": "neutral"
+  }, 
+  "title": "Ping An Bank reached strategic cooperation with Alibaba to jointly develop AI Chip", 
+  "original_title": "Ping An Bank reached strategic cooperation with Alibaba to jointly develop AI Chip", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T17:38:40.581000", 
+  "source_url": "https://example.com/news/NEWS_20260425173840_8ca4afc2", 
+  "news_id": "NEWS_20260425173840_8ca4afc2", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Ping An Bank reached strategic cooperation with Alibaba to jointly develop AI Chip", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 82, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

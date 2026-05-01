@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u539f\u6cb9", 
+      "\u7f8e\u80a1"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Guizhou Moutai encountered violation, stock price fluctuating", 
+  "publish_time": "2026-04-24T18:25:53.649000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": -0.69, 
+    "overall": "neutral"
+  }, 
+  "title": "Guizhou Moutai encountered violation, stock price fluctuating", 
+  "original_title": "Guizhou Moutai encountered violation, stock price fluctuating", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T16:48:53.649000", 
+  "source_url": "https://example.com/news/NEWS_20260425164853_fdef36ca", 
+  "news_id": "NEWS_20260425164853_fdef36ca", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Guizhou Moutai encountered violation, stock price fluctuating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 61, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

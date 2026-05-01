@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u65b0\u89c4", 
+      "\u8bc1\u76d1\u4f1a"
+    ], 
+    "primary": "\u76d1\u7ba1\u52a8\u6001", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Wuliangye launched new New Energy Vehicle, market response enthusiastic", 
+  "publish_time": "2026-04-25T00:03:18.324000", 
+  "sentiment": {
+    "reason": "\u76d1\u7ba1\u52a8\u6001 related news", 
+    "score": 0.09, 
+    "overall": "negative"
+  }, 
+  "title": "Wuliangye launched new New Energy Vehicle, market response enthusiastic", 
+  "original_title": "Wuliangye launched new New Energy Vehicle, market response enthusiastic", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T16:54:18.324000", 
+  "source_url": "https://example.com/news/NEWS_20260425165418_1b1a06db", 
+  "news_id": "NEWS_20260425165418_1b1a06db", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Wuliangye launched new New Energy Vehicle, market response enthusiastic", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 71, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

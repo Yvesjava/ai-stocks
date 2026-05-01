@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u76d1\u7ba1\u653f\u7b56", 
+      "\u8d27\u5e01\u653f\u7b56"
+    ], 
+    "primary": "\u5b8f\u89c2\u653f\u7b56", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Midea Group plans to repurchase shares, analysts give Underperform rating", 
+  "publish_time": "2026-04-19T22:47:57.804000", 
+  "sentiment": {
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news", 
+    "score": 0.04, 
+    "overall": "negative"
+  }, 
+  "title": "Midea Group plans to repurchase shares, analysts give Underperform rating", 
+  "original_title": "Midea Group plans to repurchase shares, analysts give Underperform rating", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T18:20:57.805000", 
+  "source_url": "https://example.com/news/NEWS_20260425182057_99f20eee", 
+  "news_id": "NEWS_20260425182057_99f20eee", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Midea Group plans to repurchase shares, analysts give Underperform rating", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 73, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

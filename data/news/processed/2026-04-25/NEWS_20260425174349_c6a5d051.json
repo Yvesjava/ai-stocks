@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5143\u5b87\u5b99", 
+      "\u534a\u5bfc\u4f53"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "publish_time": "2026-04-22T10:21:49.513000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.8, 
+    "overall": "positive"
+  }, 
+  "title": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "original_title": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T17:43:49.513000", 
+  "source_url": "https://example.com/news/NEWS_20260425174349_c6a5d051", 
+  "news_id": "NEWS_20260425174349_c6a5d051", 
+  "source": "\u4e1c\u65b9\u8d22\u5bcc\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 69, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

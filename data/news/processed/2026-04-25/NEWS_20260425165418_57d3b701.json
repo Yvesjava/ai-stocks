@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u4e1a\u7ee9", 
+      "\u8425\u6536"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "International market falling, A-share Consumer sector fluctuates", 
+  "publish_time": "2026-04-18T23:22:18.324000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": 0.73, 
+    "overall": "neutral"
+  }, 
+  "title": "International market falling, A-share Consumer sector fluctuates", 
+  "original_title": "International market falling, A-share Consumer sector fluctuates", 
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors", 
+  "collect_time": "2026-04-25T16:54:18.324000", 
+  "source_url": "https://example.com/news/NEWS_20260425165418_57d3b701", 
+  "news_id": "NEWS_20260425165418_57d3b701", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "International market falling, A-share Consumer sector fluctuates", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 64, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Wuliangye", 
+      "stock_code": "000858"
+    }
+  ]
+}

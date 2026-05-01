@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182638_b6736e2f",
+  "title": "International market rising, A-share Finance sector fluctuates",
+  "original_title": "International market rising, A-share Finance sector fluctuates",
+  "source": "\u51e4\u51f0\u8d22\u7ecf",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425182638_b6736e2f",
+  "publish_time": "2026-04-21T02:05:38.051750",
+  "collect_time": "2026-04-25T18:26:38.051750",
+  "summary": "International market rising, A-share Finance sector fluctuates",
+  "content": "International market rising, A-share Finance sector fluctuates",
+  "related_stocks": [
+    {
+      "stock_code": "000858",
+      "stock_name": "Wuliangye",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6",
+    "secondary": [
+      "Technology"
+    ],
+    "tags": [
+      "\u5730\u9707",
+      "\u5371\u673a"
+    ]
+  },
+  "sentiment": {
+    "overall": "neutral",
+    "score": -0.78,
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news"
+  },
+  "impact_level": "medium",
+  "market_reaction_expected": "Expected to impact Wuliangye and related sectors",
+  "metadata": {
+    "word_count": 62,
+    "has_image": true,
+    "is_original": true,
+    "is_headline": false
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6210\u4ea4\u989d", 
+      "\u677f\u5757\u8f6e\u52a8"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Guizhou Moutai plans to reduce holdings, analysts give Underperform rating", 
+  "publish_time": "2026-04-23T00:55:45.457000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": -0.47, 
+    "overall": "positive"
+  }, 
+  "title": "Guizhou Moutai plans to reduce holdings, analysts give Underperform rating", 
+  "original_title": "Guizhou Moutai plans to reduce holdings, analysts give Underperform rating", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T18:21:45.457000", 
+  "source_url": "https://example.com/news/NEWS_20260425182145_fff33954", 
+  "news_id": "NEWS_20260425182145_fff33954", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Guizhou Moutai plans to reduce holdings, analysts give Underperform rating", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 74, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5143\u5b87\u5b99", 
+      "\u534a\u5bfc\u4f53"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Ping An Bank encountered violation, stock price fluctuating", 
+  "publish_time": "2026-04-19T04:10:33.003000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": 0.79, 
+    "overall": "positive"
+  }, 
+  "title": "Ping An Bank encountered violation, stock price fluctuating", 
+  "original_title": "Ping An Bank encountered violation, stock price fluctuating", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T16:57:33.003000", 
+  "source_url": "https://example.com/news/NEWS_20260425165733_2820bf9e", 
+  "news_id": "NEWS_20260425165733_2820bf9e", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "low", 
+  "summary": "Ping An Bank encountered violation, stock price fluctuating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 59, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

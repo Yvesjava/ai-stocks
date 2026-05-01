@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u539f\u6cb9", 
+      "\u7f8e\u80a1"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Ping An Bank reached strategic cooperation with Alibaba to jointly develop Cloud Computing", 
+  "publish_time": "2026-04-22T11:37:33.363000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": 0.97, 
+    "overall": "negative"
+  }, 
+  "title": "Ping An Bank reached strategic cooperation with Alibaba to jointly develop Cloud Computing", 
+  "original_title": "Ping An Bank reached strategic cooperation with Alibaba to jointly develop Cloud Computing", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T17:43:33.363000", 
+  "source_url": "https://example.com/news/NEWS_20260425174333_6560c0ea", 
+  "news_id": "NEWS_20260425174333_6560c0ea", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Ping An Bank reached strategic cooperation with Alibaba to jointly develop Cloud Computing", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 90, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

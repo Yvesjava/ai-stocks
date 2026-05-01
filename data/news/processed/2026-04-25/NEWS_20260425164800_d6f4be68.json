@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5e74\u62a5", 
+      "\u91cd\u5927\u4e8b\u9879"
+    ], 
+    "primary": "\u516c\u53f8\u516c\u544a", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Ping An Bank plans to repurchase shares, analysts give Sell rating", 
+  "publish_time": "2026-04-18T19:03:00.863000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u516c\u544a related news", 
+    "score": -0.79, 
+    "overall": "neutral"
+  }, 
+  "title": "Ping An Bank plans to repurchase shares, analysts give Sell rating", 
+  "original_title": "Ping An Bank plans to repurchase shares, analysts give Sell rating", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T16:48:00.863000", 
+  "source_url": "https://example.com/news/NEWS_20260425164800_d6f4be68", 
+  "news_id": "NEWS_20260425164800_d6f4be68", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Ping An Bank plans to repurchase shares, analysts give Sell rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 66, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

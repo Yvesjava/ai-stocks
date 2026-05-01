@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d8b\u52bf", 
+      "\u6280\u672f\u7a81\u7834"
+    ], 
+    "primary": "\u884c\u4e1a\u52a8\u6001", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "LONGi Green Energy expects 2026 Q1 net profit to grow 19.68% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-22T15:57:57.805000", 
+  "sentiment": {
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news", 
+    "score": -0.97, 
+    "overall": "neutral"
+  }, 
+  "title": "LONGi Green Energy expects 2026 Q1 net profit to grow 19.68% YoY, exceeding market expectations", 
+  "original_title": "LONGi Green Energy expects 2026 Q1 net profit to grow 19.68% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact LONGi Green Energy and related sectors", 
+  "collect_time": "2026-04-25T18:20:57.805000", 
+  "source_url": "https://example.com/news/NEWS_20260425182057_3d488214", 
+  "news_id": "NEWS_20260425182057_3d488214", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "LONGi Green Energy expects 2026 Q1 net profit to grow 19.68% YoY, exceeding market expectations", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 95, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "LONGi Green Energy", 
+      "stock_code": "601012"
+    }
+  ]
+}

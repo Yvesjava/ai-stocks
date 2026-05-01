@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u4e1a\u7ee9", 
+      "\u8d22\u52a1\u6570\u636e"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Midea Group released Q4 2026 report, revenue 152.75 billion yuan, YoY growth 15.66%", 
+  "publish_time": "2026-04-19T17:01:05.005000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": -0.5, 
+    "overall": "negative"
+  }, 
+  "title": "Midea Group released Q4 2026 report, revenue 152.75 billion yuan, YoY growth 15.66%", 
+  "original_title": "Midea Group released Q4 2026 report, revenue 152.75 billion yuan, YoY growth 15.66%", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T16:59:05.005000", 
+  "source_url": "https://example.com/news/NEWS_20260425165905_e3c9e038", 
+  "news_id": "NEWS_20260425165905_e3c9e038", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Midea Group released Q4 2026 report, revenue 152.75 billion yuan, YoY growth 15.66%", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 83, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

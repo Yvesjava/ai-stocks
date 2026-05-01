@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d27\u5e01\u653f\u7b56", 
+      "\u8d22\u653f\u653f\u7b56"
+    ], 
+    "primary": "\u5b8f\u89c2\u653f\u7b56", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "BYD expects 2026 Q3 net profit to grow -3.0% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-20T11:51:40.581000", 
+  "sentiment": {
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news", 
+    "score": -0.86, 
+    "overall": "neutral"
+  }, 
+  "title": "BYD expects 2026 Q3 net profit to grow -3.0% YoY, exceeding market expectations", 
+  "original_title": "BYD expects 2026 Q3 net profit to grow -3.0% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T17:38:40.581000", 
+  "source_url": "https://example.com/news/NEWS_20260425173840_95d273b1", 
+  "news_id": "NEWS_20260425173840_95d273b1", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "BYD expects 2026 Q3 net profit to grow -3.0% YoY, exceeding market expectations", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 79, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

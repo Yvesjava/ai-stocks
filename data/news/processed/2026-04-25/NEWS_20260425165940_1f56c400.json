@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u7f8e\u80a1", 
+      "\u539f\u6cb9"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Regulatory authorities issued regulatory requirement, China Tourism Group Duty Free and other companies may be affected", 
+  "publish_time": "2026-04-20T15:52:40.022000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": -0.76, 
+    "overall": "neutral"
+  }, 
+  "title": "Regulatory authorities issued regulatory requirement, China Tourism Group Duty Free and other companies may be affected", 
+  "original_title": "Regulatory authorities issued regulatory requirement, China Tourism Group Duty Free and other companies may be affected", 
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+  "collect_time": "2026-04-25T16:59:40.022000", 
+  "source_url": "https://example.com/news/NEWS_20260425165940_1f56c400", 
+  "news_id": "NEWS_20260425165940_1f56c400", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Regulatory authorities issued regulatory requirement, China Tourism Group Duty Free and other compan...", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 119, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Tourism Group Duty Free", 
+      "stock_code": "601888"
+    }
+  ]
+}

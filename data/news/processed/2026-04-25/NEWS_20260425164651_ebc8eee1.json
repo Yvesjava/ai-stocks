@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u7f8e\u80a1", 
+      "\u539f\u6cb9"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "China Merchants Bank plans to private placement, analysts give Underperform rating", 
+  "publish_time": "2026-04-23T07:11:51.179000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": 0.71, 
+    "overall": "negative"
+  }, 
+  "title": "China Merchants Bank plans to private placement, analysts give Underperform rating", 
+  "original_title": "China Merchants Bank plans to private placement, analysts give Underperform rating", 
+  "market_reaction_expected": "Expected to impact China Merchants Bank and related sectors", 
+  "collect_time": "2026-04-25T16:46:51.180000", 
+  "source_url": "https://example.com/news/NEWS_20260425164651_ebc8eee1", 
+  "news_id": "NEWS_20260425164651_ebc8eee1", 
+  "source": "\u8d22\u65b0\u7f51", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "China Merchants Bank plans to private placement, analysts give Underperform rating", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 82, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Merchants Bank", 
+      "stock_code": "600036"
+    }
+  ]
+}

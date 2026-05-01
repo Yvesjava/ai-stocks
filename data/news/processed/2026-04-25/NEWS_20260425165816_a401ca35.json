@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d27\u5e01\u653f\u7b56", 
+      "\u76d1\u7ba1\u653f\u7b56"
+    ], 
+    "primary": "\u5b8f\u89c2\u653f\u7b56", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Regulatory authorities issued regulatory requirement, Ping An and other companies may be affected", 
+  "publish_time": "2026-04-20T17:17:16.421000", 
+  "sentiment": {
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news", 
+    "score": 0.24, 
+    "overall": "positive"
+  }, 
+  "title": "Regulatory authorities issued regulatory requirement, Ping An and other companies may be affected", 
+  "original_title": "Regulatory authorities issued regulatory requirement, Ping An and other companies may be affected", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T16:58:16.421000", 
+  "source_url": "https://example.com/news/NEWS_20260425165816_a401ca35", 
+  "news_id": "NEWS_20260425165816_a401ca35", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Regulatory authorities issued regulatory requirement, Ping An and other companies may be affected", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 97, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6280\u672f\u7a81\u7834", 
+      "\u7ade\u4e89"
+    ], 
+    "primary": "\u884c\u4e1a\u52a8\u6001", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Midea Group launched new New Energy Vehicle, market response questioning", 
+  "publish_time": "2026-04-18T03:28:40.581000", 
+  "sentiment": {
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news", 
+    "score": -0.11, 
+    "overall": "neutral"
+  }, 
+  "title": "Midea Group launched new New Energy Vehicle, market response questioning", 
+  "original_title": "Midea Group launched new New Energy Vehicle, market response questioning", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T17:38:40.581000", 
+  "source_url": "https://example.com/news/NEWS_20260425173840_cee3d55a", 
+  "news_id": "NEWS_20260425173840_cee3d55a", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "medium", 
+  "summary": "Midea Group launched new New Energy Vehicle, market response questioning", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 72, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

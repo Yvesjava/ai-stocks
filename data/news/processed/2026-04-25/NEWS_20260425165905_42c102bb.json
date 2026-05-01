@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u677f\u5757\u8f6e\u52a8", 
+      "\u6210\u4ea4\u989d"
+    ], 
+    "primary": "\u5e02\u573a\u884c\u60c5", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Consumer sector benefits from policy support, Guizhou Moutai and related stocks benefit", 
+  "publish_time": "2026-04-24T08:24:05.005000", 
+  "sentiment": {
+    "reason": "\u5e02\u573a\u884c\u60c5 related news", 
+    "score": -0.72, 
+    "overall": "negative"
+  }, 
+  "title": "Consumer sector benefits from policy support, Guizhou Moutai and related stocks benefit", 
+  "original_title": "Consumer sector benefits from policy support, Guizhou Moutai and related stocks benefit", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T16:59:05.005000", 
+  "source_url": "https://example.com/news/NEWS_20260425165905_42c102bb", 
+  "news_id": "NEWS_20260425165905_42c102bb", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Consumer sector benefits from policy support, Guizhou Moutai and related stocks benefit", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 87, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

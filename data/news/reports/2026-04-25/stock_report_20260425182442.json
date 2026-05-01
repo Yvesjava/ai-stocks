@@ -1,0 +1,85 @@
+{
+  "report_date": "2026-04-25T18:24:42.056709",
+  "total_analyzed": 10,
+  "total_stocks": 6,
+  "recommended_stocks": [
+    {
+      "stock_code": "002594",
+      "stock_name": "BYD",
+      "recommendation": "Strong Buy",
+      "risk_level": "Low",
+      "target_price": 428.08,
+      "priority_score": 105.64,
+      "analysis_time": "2026-04-25T16:58:42.960000",
+      "key_highlights": [],
+      "brief": "Although news sentiment is positive, there is technical adjustment pressure and fundamentals need further observation.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    },
+    {
+      "stock_code": "000333",
+      "stock_name": "Midea Group",
+      "recommendation": "Strong Buy",
+      "risk_level": "Medium",
+      "target_price": 858.96,
+      "priority_score": 101.34,
+      "analysis_time": "2026-04-25T16:58:42.960000",
+      "key_highlights": [],
+      "brief": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    },
+    {
+      "stock_code": "000858",
+      "stock_name": "Wuliangye",
+      "recommendation": "Strong Buy",
+      "risk_level": "Medium",
+      "target_price": 451.5,
+      "priority_score": 100.68,
+      "analysis_time": "2026-04-25T16:58:42.960000",
+      "key_highlights": [],
+      "brief": "Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    },
+    {
+      "stock_code": "600036",
+      "stock_name": "China Merchants Bank",
+      "recommendation": "Strong Buy",
+      "risk_level": "Medium",
+      "target_price": 630.98,
+      "priority_score": 100.62,
+      "analysis_time": "2026-04-25T16:58:42.960000",
+      "key_highlights": [],
+      "brief": "Considering all factors, the stock is currently in a neutral state. Suggest waiting for clearer signals.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    },
+    {
+      "stock_code": "601318",
+      "stock_name": "Ping An",
+      "recommendation": "Strong Buy",
+      "risk_level": "Medium",
+      "target_price": 170.66,
+      "priority_score": 99.06,
+      "analysis_time": "2026-04-25T16:58:42.961000",
+      "key_highlights": [],
+      "brief": "Both technical and news indicators show positive signals, with improving fundamentals. Worth focusing on.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    },
+    {
+      "stock_code": "600519",
+      "stock_name": "Guizhou Moutai",
+      "recommendation": "Strong Buy",
+      "risk_level": "Medium",
+      "target_price": 985.65,
+      "priority_score": 97.35,
+      "analysis_time": "2026-04-25T16:58:42.961000",
+      "key_highlights": [],
+      "brief": "Comprehensively, this stock has good investment value with strong technical and fundamental performance, and positive news sentiment.",
+      "risk_warning": "",
+      "action_suggestion": "积极买入，可逢低加仓"
+    }
+  ],
+  "summary": 

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5206\u6790", 
+      "\u76ee\u6807\u4ef7"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Midea Group released Q2 2026 report, revenue 55.72 billion yuan, YoY growth 39.36%", 
+  "publish_time": "2026-04-23T08:04:40.581000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": -0.39, 
+    "overall": "neutral"
+  }, 
+  "title": "Midea Group released Q2 2026 report, revenue 55.72 billion yuan, YoY growth 39.36%", 
+  "original_title": "Midea Group released Q2 2026 report, revenue 55.72 billion yuan, YoY growth 39.36%", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T17:38:40.581000", 
+  "source_url": "https://example.com/news/NEWS_20260425173840_a9d9a957", 
+  "news_id": "NEWS_20260425173840_a9d9a957", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Midea Group released Q2 2026 report, revenue 55.72 billion yuan, YoY growth 39.36%", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 82, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

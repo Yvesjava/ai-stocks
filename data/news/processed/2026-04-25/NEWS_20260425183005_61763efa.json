@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425183005_61763efa",
+  "title": "Pharmaceutical sector benefits from policy support, Hengrui Medicine and related stocks benefit",
+  "original_title": "Pharmaceutical sector benefits from policy support, Hengrui Medicine and related stocks benefit",
+  "source": "\u540c\u82b1\u987a",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425183005_61763efa",
+  "publish_time": "2026-04-23T18:08:05.817249",
+  "collect_time": "2026-04-25T18:30:05.817249",
+  "summary": "Pharmaceutical sector benefits from policy support, Hengrui Medicine and related stocks benefit",
+  "content": "Pharmaceutical sector benefits from policy support, Hengrui Medicine and related stocks benefit",
+  "related_stocks": [
+    {
+      "stock_code": "600276",
+      "stock_name": "Hengrui Medicine",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u673a\u6784\u7814\u62a5",
+    "secondary": [
+      "Finance"
+    ],
+    "tags": [
+      "\u76ee\u6807\u4ef7",
+      "\u4e70\u5165"
+    ]
+  },
+  "sentiment": {
+    "overall": "neutral",
+    "score": -0.42,
+    "reason": "\u673a\u6784\u7814\u62a5 related news"
+  },
+  "impact_level": "medium",
+  "market_reaction_expected": "Expected to impact Hengrui Medicine and related sectors",
+  "metadata": {
+    "word_count": 95,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": true
+  }
+}

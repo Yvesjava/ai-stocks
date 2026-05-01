@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u8d22\u653f\u653f\u7b56", 
+      "\u8d27\u5e01\u653f\u7b56"
+    ], 
+    "primary": "\u5b8f\u89c2\u653f\u7b56", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "China Tourism Group Duty Free reached strategic cooperation with BYD to jointly develop Biomedicine", 
+  "publish_time": "2026-04-24T14:25:40.800000", 
+  "sentiment": {
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news", 
+    "score": 0.81, 
+    "overall": "positive"
+  }, 
+  "title": "China Tourism Group Duty Free reached strategic cooperation with BYD to jointly develop Biomedicine", 
+  "original_title": "China Tourism Group Duty Free reached strategic cooperation with BYD to jointly develop Biomedicine", 
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+  "collect_time": "2026-04-25T16:58:40.800000", 
+  "source_url": "https://example.com/news/NEWS_20260425165840_c0329d9f", 
+  "news_id": "NEWS_20260425165840_c0329d9f", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "China Tourism Group Duty Free reached strategic cooperation with BYD to jointly develop Biomedicine", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 99, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Tourism Group Duty Free", 
+      "stock_code": "601888"
+    }
+  ]
+}

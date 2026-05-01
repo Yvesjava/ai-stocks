@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5206\u6790", 
+      "\u76ee\u6807\u4ef7"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Ping An plans to reduce holdings, analysts give Sell rating", 
+  "publish_time": "2026-04-17T22:50:13.317000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": 0.87, 
+    "overall": "neutral"
+  }, 
+  "title": "Ping An plans to reduce holdings, analysts give Sell rating", 
+  "original_title": "Ping An plans to reduce holdings, analysts give Sell rating", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T17:44:13.317000", 
+  "source_url": "https://example.com/news/NEWS_20260425174413_f0e54441", 
+  "news_id": "NEWS_20260425174413_f0e54441", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Ping An plans to reduce holdings, analysts give Sell rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 59, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

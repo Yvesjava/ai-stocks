@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5229\u6da6", 
+      "\u8d22\u52a1\u6570\u636e"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "BYD encountered negative report, stock price fluctuating", 
+  "publish_time": "2026-04-22T22:38:05.005000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": -0.63, 
+    "overall": "neutral"
+  }, 
+  "title": "BYD encountered negative report, stock price fluctuating", 
+  "original_title": "BYD encountered negative report, stock price fluctuating", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T16:59:05.005000", 
+  "source_url": "https://example.com/news/NEWS_20260425165905_d2dcc989", 
+  "news_id": "NEWS_20260425165905_d2dcc989", 
+  "source": "\u65b0\u6d6a\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "BYD encountered negative report, stock price fluctuating", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 56, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

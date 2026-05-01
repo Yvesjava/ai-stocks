@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u4e8b\u6545", 
+      "\u5730\u9707"
+    ], 
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "BYD plans to reduce holdings, analysts give Sell rating", 
+  "publish_time": "2026-04-22T05:00:51.537000", 
+  "sentiment": {
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news", 
+    "score": 0.96, 
+    "overall": "negative"
+  }, 
+  "title": "BYD plans to reduce holdings, analysts give Sell rating", 
+  "original_title": "BYD plans to reduce holdings, analysts give Sell rating", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T16:52:51.537000", 
+  "source_url": "https://example.com/news/NEWS_20260425165251_ff56c622", 
+  "news_id": "NEWS_20260425165251_ff56c622", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "BYD plans to reduce holdings, analysts give Sell rating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 55, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

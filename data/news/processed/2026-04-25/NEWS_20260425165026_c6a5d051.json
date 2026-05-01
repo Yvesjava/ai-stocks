@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u76d1\u7ba1\u653f\u7b56", 
+      "\u8d22\u653f\u653f\u7b56"
+    ], 
+    "primary": "\u5b8f\u89c2\u653f\u7b56", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "publish_time": "2026-04-19T17:41:26.118000", 
+  "sentiment": {
+    "reason": "\u5b8f\u89c2\u653f\u7b56 related news", 
+    "score": -0.38, 
+    "overall": "neutral"
+  }, 
+  "title": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "original_title": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "market_reaction_expected": "Expected to impact Guizhou Moutai and related sectors", 
+  "collect_time": "2026-04-25T16:50:26.118000", 
+  "source_url": "https://example.com/news/NEWS_20260425165026_c6a5d051", 
+  "news_id": "NEWS_20260425165026_c6a5d051", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Macroeconomic data in line with expectations, Finance sector affected", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 69, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Guizhou Moutai", 
+      "stock_code": "600519"
+    }
+  ]
+}

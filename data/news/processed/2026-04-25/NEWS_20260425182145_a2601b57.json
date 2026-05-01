@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "AI", 
+      "\u5143\u5b87\u5b99"
+    ], 
+    "primary": "\u6982\u5ff5\u70ed\u70b9", 
+    "secondary": [
+      "Consumer"
+    ]
+  }, 
+  "content": "Ping An launched new Smart Device, market response flat", 
+  "publish_time": "2026-04-24T20:01:45.457000", 
+  "sentiment": {
+    "reason": "\u6982\u5ff5\u70ed\u70b9 related news", 
+    "score": -0.87, 
+    "overall": "positive"
+  }, 
+  "title": "Ping An launched new Smart Device, market response flat", 
+  "original_title": "Ping An launched new Smart Device, market response flat", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T18:21:45.457000", 
+  "source_url": "https://example.com/news/NEWS_20260425182145_a2601b57", 
+  "news_id": "NEWS_20260425182145_a2601b57", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "medium", 
+  "summary": "Ping An launched new Smart Device, market response flat", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 55, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

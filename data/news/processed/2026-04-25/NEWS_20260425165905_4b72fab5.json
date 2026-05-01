@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u4e1a\u7ee9", 
+      "\u8d22\u52a1\u6570\u636e"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Pharmaceutical sector benefits from policy support, BYD and related stocks benefit", 
+  "publish_time": "2026-04-20T12:52:05.005000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": 0.13, 
+    "overall": "negative"
+  }, 
+  "title": "Pharmaceutical sector benefits from policy support, BYD and related stocks benefit", 
+  "original_title": "Pharmaceutical sector benefits from policy support, BYD and related stocks benefit", 
+  "market_reaction_expected": "Expected to impact BYD and related sectors", 
+  "collect_time": "2026-04-25T16:59:05.005000", 
+  "source_url": "https://example.com/news/NEWS_20260425165905_4b72fab5", 
+  "news_id": "NEWS_20260425165905_4b72fab5", 
+  "source": "\u51e4\u51f0\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "medium", 
+  "summary": "Pharmaceutical sector benefits from policy support, BYD and related stocks benefit", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 82, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "BYD", 
+      "stock_code": "002594"
+    }
+  ]
+}

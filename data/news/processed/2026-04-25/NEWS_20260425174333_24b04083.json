@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u4e1a\u7ee9", 
+      "\u5229\u6da6"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "New Energy"
+    ]
+  }, 
+  "content": "Ping An encountered lawsuit, stock price rising", 
+  "publish_time": "2026-04-18T20:57:33.363000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": 0.44, 
+    "overall": "negative"
+  }, 
+  "title": "Ping An encountered lawsuit, stock price rising", 
+  "original_title": "Ping An encountered lawsuit, stock price rising", 
+  "market_reaction_expected": "Expected to impact Ping An and related sectors", 
+  "collect_time": "2026-04-25T17:43:33.363000", 
+  "source_url": "https://example.com/news/NEWS_20260425174333_24b04083", 
+  "news_id": "NEWS_20260425174333_24b04083", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "medium", 
+  "summary": "Ping An encountered lawsuit, stock price rising", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 47, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An", 
+      "stock_code": "601318"
+    }
+  ]
+}

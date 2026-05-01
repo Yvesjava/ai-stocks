@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5206\u6790", 
+      "\u4e70\u5165"
+    ], 
+    "primary": "\u673a\u6784\u7814\u62a5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "Ping An Bank reached strategic cooperation with BYD to jointly develop Cloud Computing", 
+  "publish_time": "2026-04-25T17:10:40.581000", 
+  "sentiment": {
+    "reason": "\u673a\u6784\u7814\u62a5 related news", 
+    "score": -0.74, 
+    "overall": "positive"
+  }, 
+  "title": "Ping An Bank reached strategic cooperation with BYD to jointly develop Cloud Computing", 
+  "original_title": "Ping An Bank reached strategic cooperation with BYD to jointly develop Cloud Computing", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T17:38:40.581000", 
+  "source_url": "https://example.com/news/NEWS_20260425173840_8d189c5c", 
+  "news_id": "NEWS_20260425173840_8d189c5c", 
+  "source": "\u6caa\u6df1\u4ea4\u6613\u6240", 
+  "source_type": "\u5b98\u65b9", 
+  "impact_level": "medium", 
+  "summary": "Ping An Bank reached strategic cooperation with BYD to jointly develop Cloud Computing", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 86, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

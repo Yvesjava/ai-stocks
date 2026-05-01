@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u4e1a\u7ee9", 
+      "\u8d22\u52a1\u6570\u636e"
+    ], 
+    "primary": "\u516c\u53f8\u8d22\u62a5", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "China Tourism Group Duty Free encountered lawsuit, stock price fluctuating", 
+  "publish_time": "2026-04-20T03:41:13.317000", 
+  "sentiment": {
+    "reason": "\u516c\u53f8\u8d22\u62a5 related news", 
+    "score": -0.51, 
+    "overall": "positive"
+  }, 
+  "title": "China Tourism Group Duty Free encountered lawsuit, stock price fluctuating", 
+  "original_title": "China Tourism Group Duty Free encountered lawsuit, stock price fluctuating", 
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+  "collect_time": "2026-04-25T17:44:13.317000", 
+  "source_url": "https://example.com/news/NEWS_20260425174413_e944b948", 
+  "news_id": "NEWS_20260425174413_e944b948", 
+  "source": "\u6caa\u6df1\u4ea4\u6613\u6240", 
+  "source_type": "\u5b98\u65b9", 
+  "impact_level": "medium", 
+  "summary": "China Tourism Group Duty Free encountered lawsuit, stock price fluctuating", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 74, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Tourism Group Duty Free", 
+      "stock_code": "601888"
+    }
+  ]
+}

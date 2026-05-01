@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u5730\u9707", 
+      "\u4e8b\u6545"
+    ], 
+    "primary": "\u7a81\u53d1\u4e8b\u4ef6", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Consumer sector benefits from policy support, Ping An Bank and related stocks benefit", 
+  "publish_time": "2026-04-18T10:06:00.863000", 
+  "sentiment": {
+    "reason": "\u7a81\u53d1\u4e8b\u4ef6 related news", 
+    "score": 0.12, 
+    "overall": "neutral"
+  }, 
+  "title": "Consumer sector benefits from policy support, Ping An Bank and related stocks benefit", 
+  "original_title": "Consumer sector benefits from policy support, Ping An Bank and related stocks benefit", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T16:48:00.863000", 
+  "source_url": "https://example.com/news/NEWS_20260425164800_13ccff8b", 
+  "news_id": "NEWS_20260425164800_13ccff8b", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "low", 
+  "summary": "Consumer sector benefits from policy support, Ping An Bank and related stocks benefit", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 85, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

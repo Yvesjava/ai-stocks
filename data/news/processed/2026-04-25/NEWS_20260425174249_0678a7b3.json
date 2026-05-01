@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u7f8e\u80a1", 
+      "\u5916\u6c47"
+    ], 
+    "primary": "\u56fd\u9645\u5e02\u573a", 
+    "secondary": [
+      "Finance"
+    ]
+  }, 
+  "content": "Regulatory authorities issued regulatory requirement, Midea Group and other companies may be affected", 
+  "publish_time": "2026-04-22T03:55:49.380000", 
+  "sentiment": {
+    "reason": "\u56fd\u9645\u5e02\u573a related news", 
+    "score": 0.04, 
+    "overall": "negative"
+  }, 
+  "title": "Regulatory authorities issued regulatory requirement, Midea Group and other companies may be affected", 
+  "original_title": "Regulatory authorities issued regulatory requirement, Midea Group and other companies may be affected", 
+  "market_reaction_expected": "Expected to impact Midea Group and related sectors", 
+  "collect_time": "2026-04-25T17:42:49.380000", 
+  "source_url": "https://example.com/news/NEWS_20260425174249_0678a7b3", 
+  "news_id": "NEWS_20260425174249_0678a7b3", 
+  "source": "\u96ea\u7403", 
+  "source_type": "\u8d22\u7ecf\u793e\u533a", 
+  "impact_level": "low", 
+  "summary": "Regulatory authorities issued regulatory requirement, Midea Group and other companies may be affecte...", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 101, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Midea Group", 
+      "stock_code": "000333"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6280\u672f\u7a81\u7834", 
+      "\u653f\u7b56"
+    ], 
+    "primary": "\u884c\u4e1a\u52a8\u6001", 
+    "secondary": [
+      "Pharmaceutical"
+    ]
+  }, 
+  "content": "Ping An Bank encountered lawsuit, stock price falling", 
+  "publish_time": "2026-04-18T07:23:33.365000", 
+  "sentiment": {
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news", 
+    "score": -0.99, 
+    "overall": "positive"
+  }, 
+  "title": "Ping An Bank encountered lawsuit, stock price falling", 
+  "original_title": "Ping An Bank encountered lawsuit, stock price falling", 
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors", 
+  "collect_time": "2026-04-25T17:43:33.365000", 
+  "source_url": "https://example.com/news/NEWS_20260425174333_6cf91d2b", 
+  "news_id": "NEWS_20260425174333_6cf91d2b", 
+  "source": "\u540c\u82b1\u987a", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "Ping An Bank encountered lawsuit, stock price falling", 
+  "metadata": {
+    "is_headline": false, 
+    "is_original": true, 
+    "word_count": 53, 
+    "has_image": false
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "Ping An Bank", 
+      "stock_code": "000001"
+    }
+  ]
+}

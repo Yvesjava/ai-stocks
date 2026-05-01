@@ -1,0 +1,42 @@
+{
+  "category": {
+    "tags": [
+      "\u6280\u672f\u7a81\u7834", 
+      "\u8d8b\u52bf"
+    ], 
+    "primary": "\u884c\u4e1a\u52a8\u6001", 
+    "secondary": [
+      "Technology"
+    ]
+  }, 
+  "content": "China Tourism Group Duty Free expects 2026 Q4 net profit to grow -10.98% YoY, exceeding market expectations", 
+  "publish_time": "2026-04-24T22:36:33.363000", 
+  "sentiment": {
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news", 
+    "score": -0.27, 
+    "overall": "negative"
+  }, 
+  "title": "China Tourism Group Duty Free expects 2026 Q4 net profit to grow -10.98% YoY, exceeding market expectations", 
+  "original_title": "China Tourism Group Duty Free expects 2026 Q4 net profit to grow -10.98% YoY, exceeding market expectations", 
+  "market_reaction_expected": "Expected to impact China Tourism Group Duty Free and related sectors", 
+  "collect_time": "2026-04-25T17:43:33.365000", 
+  "source_url": "https://example.com/news/NEWS_20260425174333_2d3c0a25", 
+  "news_id": "NEWS_20260425174333_2d3c0a25", 
+  "source": "\u7b2c\u4e00\u8d22\u7ecf", 
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53", 
+  "impact_level": "high", 
+  "summary": "China Tourism Group Duty Free expects 2026 Q4 net profit to grow -10.98% YoY, exceeding market expec...", 
+  "metadata": {
+    "is_headline": true, 
+    "is_original": true, 
+    "word_count": 107, 
+    "has_image": true
+  }, 
+  "related_stocks": [
+    {
+      "mention_type": "main target", 
+      "stock_name": "China Tourism Group Duty Free", 
+      "stock_code": "601888"
+    }
+  ]
+}

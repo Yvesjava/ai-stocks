@@ -1,0 +1,42 @@
+{
+  "news_id": "NEWS_20260425182638_c9c9d0f8",
+  "title": "Ping An Bank plans to private placement, analysts give Buy rating",
+  "original_title": "Ping An Bank plans to private placement, analysts give Buy rating",
+  "source": "\u51e4\u51f0\u8d22\u7ecf",
+  "source_type": "\u8d22\u7ecf\u5a92\u4f53",
+  "source_url": "https://example.com/news/NEWS_20260425182638_c9c9d0f8",
+  "publish_time": "2026-04-22T03:08:38.051750",
+  "collect_time": "2026-04-25T18:26:38.051750",
+  "summary": "Ping An Bank plans to private placement, analysts give Buy rating",
+  "content": "Ping An Bank plans to private placement, analysts give Buy rating",
+  "related_stocks": [
+    {
+      "stock_code": "000001",
+      "stock_name": "Ping An Bank",
+      "mention_type": "main target"
+    }
+  ],
+  "category": {
+    "primary": "\u884c\u4e1a\u52a8\u6001",
+    "secondary": [
+      "Pharmaceutical"
+    ],
+    "tags": [
+      "\u8d8b\u52bf",
+      "\u6280\u672f\u7a81\u7834"
+    ]
+  },
+  "sentiment": {
+    "overall": "positive",
+    "score": 0.79,
+    "reason": "\u884c\u4e1a\u52a8\u6001 related news"
+  },
+  "impact_level": "high",
+  "market_reaction_expected": "Expected to impact Ping An Bank and related sectors",
+  "metadata": {
+    "word_count": 65,
+    "has_image": false,
+    "is_original": true,
+    "is_headline": false
+  }
+}

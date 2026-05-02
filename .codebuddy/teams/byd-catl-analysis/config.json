@@ -12,11 +12,6 @@
       "memberId": "team-lead@byd-catl-analysis",
       "name": "team-lead",
       "role": "Team Lead - coordinates the team and interacts with the user"
-    },
-    {
-      "memberId": "market-analyst@byd-catl-analysis",
-      "name": "market-analyst",
-      "role": "比亚迪宁德时代技术分析"
     }
   ],
   "isAutoTeam": false

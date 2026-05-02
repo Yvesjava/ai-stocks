@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh auth *)",
+      "Bash(git config *)",
+      "Bash(git ls-remote *)",
+      "Bash(git credential-manager *)",
+      "Bash(git credential *)",
+      "Bash(cmdkey /list)",
+      "Bash(curl *)",
+      "Bash(ssh *)",
+      "Bash(git credential-manager-core *)",
+      "Bash(gh *)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)"
+    ]
+  }
+}

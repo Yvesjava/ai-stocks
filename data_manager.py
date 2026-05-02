@@ -77,7 +77,7 @@ class DataManager:
         file_path = os.path.join(date_dir, '%s.json' % source)
         
         try:
-            with open(file_path, 'w') as f:
+            with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(news_data, f, indent=2, ensure_ascii=False)
             logger.info("保存新闻数据到 %s", file_path)
             return file_path
@@ -92,7 +92,7 @@ class DataManager:
         file_path = os.path.join(date_dir, 'NEWS_%s_%s.json' % (timestamp, os.urandom(4).encode('hex')))
         
         try:
-            with open(file_path, 'w') as f:
+            with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(processed_news, f, indent=2, ensure_ascii=False)
             logger.info("保存处理后的新闻数据到 %s", file_path)
             return file_path
@@ -107,12 +107,12 @@ class DataManager:
         
         try:
             # 保存按日期的分析数据
-            with open(file_path, 'w') as f:
+            with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(analysis_data, f, indent=2, ensure_ascii=False)
             
             # 同时更新全局分析文件
             global_file = os.path.join(self.structured_dir, 'stock_analysis.json')
-            with open(global_file, 'w') as f:
+            with open(global_file, 'w', encoding='utf-8') as f:
                 json.dump(analysis_data, f, indent=2, ensure_ascii=False)
             
             logger.info("保存股票分析数据到 %s 和 %s", file_path, global_file)
@@ -129,12 +129,12 @@ class DataManager:
         
         try:
             # 保存报告数据
-            with open(file_path, 'w') as f:
+            with open(file_path, 'w', encoding='utf-8') as f:
                 json.dump(report_data, f, indent=2, ensure_ascii=False)
             
             # 同时更新最新报告文件
             latest_file = os.path.join(self.structured_dir, 'stock_report.json')
-            with open(latest_file, 'w') as f:
+            with open(latest_file, 'w', encoding='utf-8') as f:
                 json.dump(report_data, f, indent=2, ensure_ascii=False)
             
             logger.info("保存股票报告数据到 %s 和 %s", file_path, latest_file)
@@ -149,7 +149,7 @@ class DataManager:
         file_path = os.path.join(date_dir, '%s.json' % source)
         
         try:
-            with open(file_path, 'r') as f:
+            with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             logger.info("加载新闻数据从 %s", file_path)
             return data
@@ -166,7 +166,7 @@ class DataManager:
             for file_name in os.listdir(date_dir):
                 if file_name.startswith('NEWS_') and file_name.endswith('.json'):
                     file_path = os.path.join(date_dir, file_name)
-                    with open(file_path, 'r') as f:
+                    with open(file_path, 'r', encoding='utf-8') as f:
                         news = json.load(f)
                         if isinstance(news, list):
                             processed_news.extend(news)
@@ -187,7 +187,7 @@ class DataManager:
         
         try:
             if os.path.exists(file_path):
-                with open(file_path, 'r') as f:
+                with open(file_path, 'r', encoding='utf-8') as f:
                     return json.load(f)
             return []
         except Exception as e:
@@ -211,7 +211,7 @@ class DataManager:
         
         try:
             if os.path.exists(file_path):
-                with open(file_path, 'r') as f:
+                with open(file_path, 'r', encoding='utf-8') as f:
                     return json.load(f)
             return {}
         except Exception as e:

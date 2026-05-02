@@ -499,7 +499,7 @@ Market Date: %s
         status = self.get_workflow_status()
 
         try:
-            with open(status_file, 'w') as f:
+            with open(status_file, 'w', encoding='utf-8') as f:
                 json.dump(status, f, ensure_ascii=False, indent=2)
             logger.info("Workflow status saved: %s", status_file)
             return True
@@ -515,7 +515,7 @@ Market Date: %s
             return None
 
         try:
-            with open(status_file, 'r') as f:
+            with open(status_file, 'r', encoding='utf-8') as f:
                 status = json.load(f)
             logger.info("Workflow status loaded")
             return status

@@ -84,7 +84,7 @@ class WorkFlowEngine(object):
             return False
 
         try:
-            with open(input_file, 'r') as f:
+            with open(input_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             return len(data) > 0
         except Exception as e:
@@ -100,7 +100,7 @@ class WorkFlowEngine(object):
             return None
 
         try:
-            with open(output_file, 'r') as f:
+            with open(output_file, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             data_len = len(data) if isinstance(data, list) else 'dict'
             logger.info("Loaded %s output data: %s", module_name, data_len)
@@ -292,7 +292,7 @@ class WorkFlowEngine(object):
             os.makedirs(dir_path)
 
         try:
-            with open(result_file, 'w') as f:
+            with open(result_file, 'w', encoding='utf-8') as f:
                 json.dump(self.workflow_status, f, ensure_ascii=False, indent=2)
             logger.info("Workflow result saved: %s", result_file)
             return result_file
@@ -313,7 +313,7 @@ class WorkFlowEngine(object):
             latest_file = max(files, key=lambda f: os.path.getctime(os.path.join(reports_dir, f)))
             file_path = os.path.join(reports_dir, latest_file)
 
-            with open(file_path, 'r') as f:
+            with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
             return data
         except Exception as e:

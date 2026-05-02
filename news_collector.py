@@ -2,18 +2,16 @@
 # -*- coding: utf-8 -*-
 """
 新闻采集员模块
-功能：从多个渠道采集新闻，进行清洗、整理、分类后存储为JSON文件
+功能：从财联社、东方财富等真实渠道采集新闻，清洗整理后存储为JSON文件
 """
 
 import os
 import json
-import time
-import random
+import re
+import logging
 from datetime import datetime, timedelta
 import hashlib
-import logging
 
-# 配置日志
 logging.basicConfig(
     level=logging.INFO,
     format='%(asctime)s - %(name)s - %(levelname)s - %(message)s',
@@ -24,303 +22,459 @@ logging.basicConfig(
 )
 logger = logging.getLogger('news_collector')
 
+
 class NewsCollector:
     def __init__(self):
-        """初始化新闻采集器"""
         self.base_dir = 'data/news'
         self.raw_dir = os.path.join(self.base_dir, 'raw')
         self.processed_dir = os.path.join(self.base_dir, 'processed')
         self.structured_dir = os.path.join(self.base_dir, 'structured')
-        
-        # 确保目录存在
+
         for dir_path in [self.raw_dir, self.processed_dir, self.structured_dir]:
             if not os.path.exists(dir_path):
                 os.makedirs(dir_path)
-        
-        # 模拟新闻来源
-        self.news_sources = [
-            {'name': '东方财富网', 'type': '财经媒体'},
-            {'name': '同花顺', 'type': '财经媒体'},
-            {'name': '雪球', 'type': '财经社区'},
-            {'name': '财新网', 'type': '财经媒体'},
-            {'name': '第一财经', 'type': '财经媒体'},
-            {'name': '新浪财经', 'type': '财经媒体'},
-            {'name': '凤凰财经', 'type': '财经媒体'},
-            {'name': '沪深交易所', 'type': '官方'}
-        ]
-        
-        # 模拟新闻分类
-        self.categories = {
-            '公司公告': ['年报', '季报', '重大事项', '股权激励', '分红'],
-            '公司财报': ['营收', '利润', '业绩', '财务数据'],
-            '行业动态': ['政策', '趋势', '竞争', '技术突破'],
-            '宏观政策': ['货币政策', '财政政策', '监管政策'],
-            '市场行情': ['大盘', '指数', '成交额', '板块轮动'],
-            '概念热点': ['AI', '新能源', '元宇宙', '半导体'],
-            '突发事件': ['地震', '疫情', '事故', '危机'],
-            '监管动态': ['证监会', '处罚', '通报', '新规'],
-            '机构研报': ['买入', '评级', '目标价', '分析'],
-            '国际市场': ['美股', '港股', '外汇', '原油']
+
+        self.stocks = {
+            '600519': ('贵州茅台', ['茅台', '贵州茅台', '飞天茅台']),
+            '000858': ('五粮液', ['五粮液']),
+            '601318': ('中国平安', ['中国平安', '平安']),
+            '600036': ('招商银行', ['招商银行', '招行']),
+            '000333': ('美的集团', ['美的集团', '美的']),
+            '000001': ('平安银行', ['平安银行']),
+            '601888': ('中国中免', ['中国中免', '中免']),
+            '600276': ('恒瑞医药', ['恒瑞医药', '恒瑞']),
+            '002594': ('比亚迪', ['比亚迪', 'BYD']),
+            '601012': ('隆基绿能', ['隆基绿能', '隆基']),
+            '300750': ('宁德时代', ['宁德时代', '宁德', 'CATL']),
+            '601857': ('中国石油', ['中国石油', '中石油']),
+            '600028': ('中国石化', ['中国石化', '中石化']),
+            '601398': ('工商银行', ['工商银行', '工行']),
+            '601288': ('农业银行', ['农业银行', '农行']),
+            '601939': ('建设银行', ['建设银行', '建行']),
+            '601988': ('中国银行', ['中国银行', '中行']),
+            '000651': ('格力电器', ['格力电器', '格力']),
+            '002415': ('海康威视', ['海康威视', '海康']),
+            '000725': ('京东方A', ['京东方', '京东方A']),
+            '300059': ('东方财富', ['东方财富', '东财']),
+            '603259': ('药明康德', ['药明康德', '药明']),
+            '600900': ('长江电力', ['长江电力']),
+            '601899': ('紫金矿业', ['紫金矿业', '紫金']),
+            '600809': ('山西汾酒', ['山西汾酒', '汾酒']),
+            '002475': ('立讯精密', ['立讯精密', '立讯']),
+            '688981': ('中芯国际', ['中芯国际', '中芯']),
+            '000002': ('万科A', ['万科', '万科A']),
+            '600030': ('中信证券', ['中信证券', '中信']),
+            '300124': ('汇川技术', ['汇川技术', '汇川']),
+            '002714': ('牧原股份', ['牧原股份', '牧原']),
+            '000568': ('泸州老窖', ['泸州老窖', '老窖']),
+            '601166': ('兴业银行', ['兴业银行', '兴业']),
+            '600887': ('伊利股份', ['伊利股份', '伊利']),
+            '002230': ('科大讯飞', ['科大讯飞', '科大讯飞', '讯飞']),
+            '601888': ('中国中免', ['中国中免', '中免']),
+            '600048': ('保利发展', ['保利发展', '保利']),
+            '002594': ('比亚迪', ['比亚迪', 'BYD']),
+            '002241': ('歌尔股份', ['歌尔股份', '歌尔']),
+            '600585': ('海螺水泥', ['海螺水泥', '海螺']),
+            '600690': ('海尔智家', ['海尔智家', '海尔']),
+            '688111': ('金山办公', ['金山办公', '金山']),
+            '002027': ('分众传媒', ['分众传媒', '分众']),
+            '601728': ('中国电信', ['中国电信', '电信']),
         }
-        
-        # 模拟股票池
-        self.stocks = [
-            {'code': '600519', 'name': 'Guizhou Moutai'},
-            {'code': '000858', 'name': 'Wuliangye'},
-            {'code': '601318', 'name': 'Ping An'},
-            {'code': '600036', 'name': 'China Merchants Bank'},
-            {'code': '000333', 'name': 'Midea Group'},
-            {'code': '000001', 'name': 'Ping An Bank'},
-            {'code': '601888', 'name': 'China Tourism Group Duty Free'},
-            {'code': '600276', 'name': 'Hengrui Medicine'},
-            {'code': '002594', 'name': 'BYD'},
-            {'code': '601012', 'name': 'LONGi Green Energy'}
+
+        self.category_keywords = {
+            '公司公告': ['公告', '披露', '董事会', '股东大会', '重组', '停牌', '复牌'],
+            '公司财报': ['营收', '利润', '业绩', '财报', '年报', '季报', '净利润', '同比增长'],
+            '行业动态': ['行业', '产业', '政策', '赛道', '板块'],
+            '宏观政策': ['央行', '利率', '货币', '财政', '证监会'],
+            '市场行情': ['大盘', '指数', '成交额', '涨停', '跌停', 'A股', '沪指', '深指'],
+            '概念热点': ['AI', '人工智能', '新能源', '芯片', '半导体', '机器人'],
+            '突发事件': ['突发', '紧急', '预警', '危机'],
+            '监管动态': ['监管', '处罚', '违规', '问询', '调查'],
+            '机构研报': ['研报', '评级', '目标价', '推荐', '买入'],
+            '国际市场': ['美股', '港股', '美联储', '原油', '黄金', '外汇'],
+        }
+
+        self.positive_words = ['增长', '上涨', '利好', '突破', '创新高', '盈利', '改善', '提升',
+                               '加速', '扩张', '中标', '签约', '分红', '回购', '增持', '大涨']
+        self.negative_words = ['下跌', '亏损', '下滑', '风险', '处罚', '违规', '暴跌', '衰退',
+                               '萎缩', '危机', '诉讼', '警告', '减持', '跌停', '退市', '爆雷']
+
+    # ============================================================
+    # 真实数据源
+    # ============================================================
+
+    def _fetch_cls_news(self):
+        """从财联社电报获取新闻"""
+        import akshare as ak
+        df = ak.stock_info_global_cls()
+        items = []
+        for _, row in df.iterrows():
+            title = str(row.iloc[0]).strip() if row.iloc[0] else ''
+            content = str(row.iloc[1]).strip() if row.iloc[1] else ''
+            pub_date = str(row.iloc[2]).strip() if row.iloc[2] else ''
+            pub_time = str(row.iloc[3]).strip() if row.iloc[3] else ''
+            if not title and not content:
+                continue
+            text = content if content else title
+            publish_time = f"{pub_date} {pub_time}" if pub_date else datetime.now().isoformat()
+            items.append({
+                'title': title if title else text[:40],
+                'content': text,
+                'publish_time': publish_time,
+                'url': '',
+            })
+        logger.info("财联社: 获取 %d 条电报", len(items))
+        return items
+
+    def _fetch_eastmoney_news(self):
+        """从东方财富获取新闻"""
+        import akshare as ak
+        df = ak.stock_info_global_em()
+        items = []
+        for _, row in df.iterrows():
+            title = str(row.iloc[0]).strip() if row.iloc[0] else ''
+            summary = str(row.iloc[1]).strip() if row.iloc[1] else ''
+            pub_time = str(row.iloc[2]).strip() if row.iloc[2] else ''
+            url = str(row.iloc[3]).strip() if row.iloc[3] else ''
+            if not title:
+                continue
+            content = summary if summary else title
+            items.append({
+                'title': title,
+                'content': content,
+                'publish_time': pub_time,
+                'url': url,
+            })
+        logger.info("东方财富: 获取 %d 条新闻", len(items))
+        return items
+
+    def _fetch_sina_news(self):
+        """从新浪财经获取新闻（2列：时间、内容，无独立标题列）"""
+        import akshare as ak
+        try:
+            df = ak.stock_info_global_sina()
+            items = []
+            for _, row in df.iterrows():
+                pub_time = str(row.iloc[0]).strip() if row.iloc[0] else ''
+                content = str(row.iloc[1]).strip() if row.iloc[1] else ''
+                if not content:
+                    continue
+                # 用内容前30字作为标题
+                title = content[:30]
+                items.append({
+                    'title': title,
+                    'content': content,
+                    'publish_time': pub_time,
+                    'url': '',
+                })
+            logger.info("新浪财经: 获取 %d 条新闻", len(items))
+            return items
+        except Exception as e:
+            logger.warning("新浪财经获取失败: %s", e)
+            return []
+
+    # ============================================================
+    # 采集主流程
+    # ============================================================
+
+    def fetch_all_news(self):
+        """从所有真实数据源采集新闻"""
+        sources = [
+            ('财联社', self._fetch_cls_news),
+            ('东方财富', self._fetch_eastmoney_news),
+            ('新浪财经', self._fetch_sina_news),
         ]
-        
-        # 模拟情感倾向
-        self.sentiments = ['positive', 'neutral', 'negative']
-        
-        # 模拟新闻模板
-        self.news_templates = [
-            '{company} released Q{quarter} {year} report, revenue {revenue} billion yuan, YoY growth {growth}%',
-            '{company} expects {year} Q{quarter} net profit to grow {growth}% YoY, exceeding market expectations',
-            '{sector} sector benefits from policy support, {company} and related stocks benefit',
-            '{company} reached strategic cooperation with {partner} to jointly develop {project}',
-            '{company} plans to {action}, analysts give {rating} rating',
-            '{company} launched new {product}, market response {reaction}',
-            'Macroeconomic data {data}, {sector} sector affected',
-            'Regulatory authorities issued {policy}, {company} and other companies may be affected',
-            'International market {event}, A-share {sector} sector fluctuates',
-            '{company} encountered {issue}, stock price {trend}'
+        all_news = []
+        for name, fetcher in sources:
+            try:
+                items = fetcher()
+                for item in items:
+                    item['source'] = name
+                all_news.extend(items)
+            except Exception as e:
+                logger.warning("数据源 %s 获取失败: %s", name, e)
+        return all_news
+
+    # ============================================================
+    # 新闻处理
+    # ============================================================
+
+    def detect_stocks(self, text):
+        """从新闻文字中识别涉及的股票"""
+        matched = []
+        for code, (name, aliases) in self.stocks.items():
+            for alias in aliases:
+                if alias in text:
+                    matched.append({
+                        'stock_code': code,
+                        'stock_name': name,
+                        'mention_type': '直接提及'
+                    })
+                    break
+        return matched
+
+    def classify_news(self, text):
+        """对新闻进行自动分类"""
+        primary = '市场行情'
+        max_hits = 0
+        secondary = []
+        for category, keywords in self.category_keywords.items():
+            hits = sum(1 for kw in keywords if kw in text)
+            if hits > max_hits:
+                max_hits = hits
+                primary = category
+            if hits > 0 and category != primary:
+                secondary.append(category)
+        if not secondary:
+            secondary = ['市场行情']
+        tags = [kw for kw, v in self.category_keywords.items() for word in self.category_keywords[kw]
+                if word in text][:3]
+        return primary, secondary[:2], tags
+
+    def analyze_sentiment(self, text):
+        """基于关键词的情感分析"""
+        pos = sum(1 for w in self.positive_words if w in text)
+        neg = sum(1 for w in self.negative_words if w in text)
+        if pos > neg:
+            score = min(0.3 + pos * 0.15, 1.0)
+            return 'positive', round(score, 2), '正面关键词占比高'
+        elif neg > pos:
+            score = max(-0.3 - neg * 0.15, -1.0)
+            return 'negative', round(score, 2), '负面关键词占比高'
+        else:
+            return 'neutral', 0.0, '无明显情感倾向'
+
+    def determine_impact(self, text, stocks_count):
+        """判断新闻影响级别"""
+        high_signals = ['突发', '紧急', '重大', '重组', '停牌', '处罚', '退市', '涨停', '跌停']
+        medium_signals = ['增长', '下滑', '政策', '监管', '收购', '增持', '减持']
+        if any(kw in text for kw in high_signals) or stocks_count >= 3:
+            return 'high'
+        elif any(kw in text for kw in medium_signals) or stocks_count >= 1:
+            return 'medium'
+        return 'low'
+
+    def parse_publish_time(self, time_str):
+        """解析各种格式的发布时间，返回ISO格式"""
+        if not time_str:
+            return datetime.now().isoformat()
+        formats = [
+            '%Y-%m-%d %H:%M:%S',
+            '%Y-%m-%d %H:%M',
+            '%Y-%m-%dT%H:%M:%S',
+            '%Y-%m-%dT%H:%M:%S.%f',
+            '%Y-%m-%d',
         ]
-    
+        for fmt in formats:
+            try:
+                dt = datetime.strptime(time_str, fmt)
+                return dt.isoformat()
+            except ValueError:
+                continue
+        # 尝试提取日期+时间
+        match = re.search(r'(\d{4}-\d{2}-\d{2}).*?(\d{2}:\d{2}(:\d{2})?)', time_str)
+        if match:
+            t = f"{match.group(1)} {match.group(2)}"
+            for fmt in ['%Y-%m-%d %H:%M:%S', '%Y-%m-%d %H:%M']:
+                try:
+                    return datetime.strptime(t, fmt).isoformat()
+                except ValueError:
+                    continue
+        return datetime.now().isoformat()
+
+    def build_news_item(self, raw, source_name):
+        """将原始新闻转换为标准格式"""
+        text = raw.get('content', '') or raw.get('title', '')
+        title = raw.get('title', text[:40])
+
+        # 识别股票
+        related_stocks = self.detect_stocks(text)
+
+        # 分类
+        primary, secondary, tags = self.classify_news(text)
+
+        # 情感分析
+        sentiment_label, sentiment_score, sentiment_reason = self.analyze_sentiment(text)
+
+        # 影响级别
+        impact = self.determine_impact(text, len(related_stocks))
+
+        # 发布时间
+        publish_time = self.parse_publish_time(raw.get('publish_time', ''))
+
+        news_id = self.generate_news_id(title + text[:50])
+
+        return {
+            'news_id': news_id,
+            'title': title,
+            'original_title': title,
+            'source': source_name,
+            'source_type': '财经媒体',
+            'source_url': raw.get('url', ''),
+            'publish_time': publish_time,
+            'collect_time': datetime.now().isoformat(),
+            'summary': text[:100] + ('...' if len(text) > 100 else ''),
+            'content': text,
+            'related_stocks': related_stocks,
+            'category': {
+                'primary': primary,
+                'secondary': secondary,
+                'tags': tags if tags else [primary],
+            },
+            'sentiment': {
+                'overall': sentiment_label,
+                'score': sentiment_score,
+                'reason': sentiment_reason,
+            },
+            'impact_level': impact,
+            'market_reaction_expected': '预计影响相关个股' if related_stocks else '暂无明显个股指向',
+            'metadata': {
+                'word_count': len(text),
+                'has_image': False,
+                'is_original': True,
+                'is_headline': False,
+            }
+        }
+
     def generate_news_id(self, content):
         """生成唯一新闻ID"""
         timestamp = datetime.now().strftime('%Y%m%d%H%M%S')
         hash_str = hashlib.md5(content.encode('utf-8')).hexdigest()[:8]
-        return "NEWS_{timestamp}_{hash_str}".format(timestamp=timestamp, hash_str=hash_str)
-    
-    def generate_mock_news(self, count=10):
-        """生成模拟新闻数据"""
-        news_list = []
-        
-        for i in range(count):
-            # 随机选择来源
-            source = random.choice(self.news_sources)
-            
-            # 随机选择分类
-            category = random.choice(list(self.categories.keys()))
-            
-            # 随机选择股票
-            stock = random.choice(self.stocks)
-            
-            # 随机生成发布时间（最近7天内）
-            publish_time = datetime.now() - timedelta(days=random.randint(0, 7), hours=random.randint(0, 23), minutes=random.randint(0, 59))
-            
-            # 随机生成新闻内容
-            template = random.choice(self.news_templates)
-            year = datetime.now().year
-            quarter = random.randint(1, 4)
-            revenue = round(random.uniform(10, 1000), 2)
-            growth = round(random.uniform(-20, 50), 2)
-            
-            # 填充模板
-            news_content = template.format(
-                company=stock['name'],
-                year=year,
-                quarter=quarter,
-                revenue=revenue,
-                growth=growth,
-                sector=random.choice(['Technology', 'Finance', 'Consumer', 'Pharmaceutical', 'New Energy']),
-                partner=random.choice(['Tencent', 'Alibaba', 'Huawei', 'BYD', 'CATL']),
-                project=random.choice(['New Energy Vehicle', 'AI Chip', 'Cloud Computing', 'Biomedicine']),
-                action=random.choice(['repurchase shares', 'increase holdings', 'reduce holdings', 'private placement']),
-                rating=random.choice(['Buy', 'Outperform', 'Neutral', 'Underperform', 'Sell']),
-                product=random.choice(['Smartphone', 'New Energy Vehicle', 'New Drug', 'Smart Device']),
-                reaction=random.choice(['enthusiastic', 'flat', 'questioning']),
-                data=random.choice(['better than expected', 'in line with expectations', 'worse than expected']),
-                policy=random.choice(['new regulation', 'regulatory requirement', 'favorable policy']),
-                event=random.choice(['rising', 'falling', 'fluctuating']),
-                issue=random.choice(['performance decline', 'lawsuit', 'violation', 'negative report']),
-                trend=random.choice(['falling', 'fluctuating', 'rising'])
-            )
-            
-            # 生成新闻ID
-            news_id = self.generate_news_id(news_content)
-            
-            # 构建新闻数据
-            news = {
-                "news_id": news_id,
-                "title": news_content,
-                "original_title": news_content,
-                "source": source['name'],
-                "source_type": source['type'],
-                "source_url": "https://example.com/news/{news_id}".format(news_id=news_id),
-                "publish_time": publish_time.isoformat(),
-                "collect_time": datetime.now().isoformat(),
-                "summary": news_content[:100] + "..." if len(news_content) > 100 else news_content,
-                "content": news_content,
-                "related_stocks": [{
-                    "stock_code": stock['code'],
-                    "stock_name": stock['name'],
-                    "mention_type": "main target"
-                }],
-                "category": {
-                    "primary": category,
-                    "secondary": [random.choice(['Technology', 'Finance', 'Consumer', 'Pharmaceutical', 'New Energy'])],
-                    "tags": random.sample(self.categories.get(category, []), min(2, len(self.categories.get(category, []))))
-                },
-                "sentiment": {
-                    "overall": random.choice(self.sentiments),
-                    "score": round(random.uniform(-1, 1), 2),
-                    "reason": "{category} related news".format(category=category)
-                },
-                "impact_level": random.choice(['high', 'medium', 'low']),
-                "market_reaction_expected": "Expected to impact {stock_name} and related sectors".format(stock_name=stock['name']),
-                "metadata": {
-                    "word_count": len(news_content),
-                    "has_image": random.choice([True, False]),
-                    "is_original": True,
-                    "is_headline": random.choice([True, False])
-                }
-            }
-            
-            news_list.append(news)
-        
-        return news_list
-    
+        return f"NEWS_{timestamp}_{hash_str}"
+
+    # ============================================================
+    # 数据持久化
+    # ============================================================
+
     def save_raw_news(self, news_list):
-        """保存原始新闻数据"""
+        """保存原始新闻数据（按来源分组）"""
         date_str = datetime.now().strftime('%Y-%m-%d')
         raw_date_dir = os.path.join(self.raw_dir, date_str)
         if not os.path.exists(raw_date_dir):
             os.makedirs(raw_date_dir)
-        
-        # 按来源分组保存
         source_news = {}
         for news in news_list:
             source = news['source']
             if source not in source_news:
                 source_news[source] = []
             source_news[source].append(news)
-        
         for source, items in source_news.items():
-            # 生成安全的文件名（使用英文替代中文）
-            source_eng = {
-                '东方财富网': 'EastMoney',
-                '同花顺': 'iFinD',
-                '雪球': 'XueQiu',
-                '财新网': 'Caixin',
-                '第一财经': 'FirstFinance',
-                '新浪财经': 'SinaFinance',
-                '凤凰财经': 'PhoenixFinance',
-                '沪深交易所': 'SSE_SZSE'
-            }.get(source, source)
-            filename = "%s.json" % source_eng.replace(' ', '_')
-            filepath = os.path.join(raw_date_dir, filename)
-            
-            with open(filepath, 'w') as f:
-                json.dump(items, f, indent=2)
-            
+            safe_name = source.replace(' ', '_')
+            filepath = os.path.join(raw_date_dir, f"{safe_name}.json")
+            with open(filepath, 'w', encoding='utf-8') as f:
+                json.dump(items, f, indent=2, ensure_ascii=False)
             logger.info("保存原始新闻到 %s，共 %d 条", filepath, len(items))
-    
-    def process_news(self, news_list):
-        """处理新闻数据"""
-        processed_news = []
-        
-        for news in news_list:
-            # 模拟去重（这里简化处理，实际项目中需要更复杂的去重逻辑）
-            # 模拟分类（这里使用随机分类，实际项目中需要NLP分类）
-            # 模拟情感分析（这里使用随机情感，实际项目中需要情感分析模型）
-            
-            processed_news.append(news)
-        
-        return processed_news
-    
+
     def save_processed_news(self, processed_news):
-        """保存处理后的新闻数据"""
+        """保存处理后的新闻数据（逐条存储）"""
         date_str = datetime.now().strftime('%Y-%m-%d')
         processed_date_dir = os.path.join(self.processed_dir, date_str)
         if not os.path.exists(processed_date_dir):
             os.makedirs(processed_date_dir)
-        
         for news in processed_news:
-            filename = "%s.json" % news['news_id']
-            filepath = os.path.join(processed_date_dir, filename)
-            
-            with open(filepath, 'w') as f:
-                json.dump(news, f, indent=2)
-            
+            filepath = os.path.join(processed_date_dir, f"{news['news_id']}.json")
+            with open(filepath, 'w', encoding='utf-8') as f:
+                json.dump(news, f, indent=2, ensure_ascii=False)
         logger.info("保存处理后新闻到 %s，共 %d 条", processed_date_dir, len(processed_news))
-    
+
     def save_structured_news(self, processed_news):
         """保存结构化新闻数据供下游Agent使用"""
         structured_file = os.path.join(self.structured_dir, 'news_database.json')
-        
-        # 读取现有数据
         existing_news = []
         if os.path.exists(structured_file):
-            with open(structured_file, 'r') as f:
+            with open(structured_file, 'r', encoding='utf-8') as f:
                 try:
                     existing_news = json.load(f)
-                except:
+                except Exception:
                     existing_news = []
-        
-        # 去重（基于news_id）
         existing_ids = {news['news_id'] for news in existing_news}
         new_news = [news for news in processed_news if news['news_id'] not in existing_ids]
-        
-        # 合并数据
         all_news = existing_news + new_news
-        
-        # 按发布时间排序（最新的在前）
         all_news.sort(key=lambda x: x['publish_time'], reverse=True)
-        
-        # 保存数据
-        with open(structured_file, 'w') as f:
-            json.dump(all_news, f, indent=2)
-        
-        logger.info("保存结构化新闻到 %s，新增 %d 条，总计 %d 条", structured_file, len(new_news), len(all_news))
-    
-    def collect(self, count=10):
+        with open(structured_file, 'w', encoding='utf-8') as f:
+            json.dump(all_news, f, indent=2, ensure_ascii=False)
+        logger.info("保存结构化新闻到 %s，新增 %d 条，总计 %d 条",
+                     structured_file, len(new_news), len(all_news))
+
+    # ============================================================
+    # 主入口
+    # ============================================================
+
+    def collect(self, count=15):
         """执行采集流程"""
-        logger.info("开始采集新闻，目标数量：%d", count)
-        
-        # 1. 生成模拟新闻
-        news_list = self.generate_mock_news(count)
-        logger.info("生成 %d 条模拟新闻", len(news_list))
-        
-        # 2. 保存原始新闻
-        self.save_raw_news(news_list)
-        
-        # 3. 处理新闻
-        processed_news = self.process_news(news_list)
-        
-        # 4. 保存处理后新闻
-        self.save_processed_news(processed_news)
-        
-        # 5. 保存结构化新闻
-        self.save_structured_news(processed_news)
-        
-        logger.info("新闻采集流程完成")
-        return processed_news
+        logger.info("开始从真实数据源采集新闻，目标数量：%d", count)
+
+        raw_items = self.fetch_all_news()
+        if not raw_items:
+            logger.warning("所有数据源均未返回结果，本次采集为空")
+            return []
+
+        logger.info("共获取 %d 条原始新闻，正在处理...", len(raw_items))
+
+        # 转换为标准格式并去重
+        processed = []
+        seen_titles = set()
+        for raw in raw_items:
+            item = self.build_news_item(raw, raw['source'])
+            title_key = item['title'][:30]
+            if title_key in seen_titles:
+                continue
+            seen_titles.add(title_key)
+            processed.append(item)
+
+        # 优先选取有股票关联的新闻，再补充其他新闻
+        with_stocks = [n for n in processed if n['related_stocks']]
+        without_stocks = [n for n in processed if not n['related_stocks']]
+        logger.info("含股票关联: %d 条, 其他: %d 条", len(with_stocks), len(without_stocks))
+
+        # 按发布时间降序排列
+        with_stocks.sort(key=lambda x: x['publish_time'], reverse=True)
+        without_stocks.sort(key=lambda x: x['publish_time'], reverse=True)
+
+        # 优先取含股票关联的新闻，不足时用其他新闻补充
+        selected = with_stocks[:count]
+        if len(selected) < count:
+            selected += without_stocks[:(count - len(selected))]
+
+        processed = selected
+
+        # 持久化
+        self.save_raw_news(processed)
+        self.save_processed_news(processed)
+        self.save_structured_news(processed)
+
+        logger.info("新闻采集流程完成，有效新闻 %d 条", len(processed))
+        return processed
+
 
 def main():
-    """主函数"""
     collector = NewsCollector()
-    
-    # 采集10条新闻
-    collected_news = collector.collect(10)
-    
-    # 打印采集结果
-    print("\n采集完成，共收集 %d 条新闻" % len(collected_news))
-    print("\n前3条新闻示例：")
-    for i, news in enumerate(collected_news[:3]):
-        print("\n%d. %s" % (i+1, news['title']))
-        print("   来源：%s" % news['source'])
-        print("   分类：%s" % news['category']['primary'])
-        print("   情感：%s" % news['sentiment']['overall'])
-        print("   涉及股票：%s" % [stock['stock_name'] for stock in news['related_stocks']])
+
+    print("=" * 60)
+    print("  股票分析系统 - 新闻采集员")
+    print("  数据源: 财联社, 东方财富, 新浪财经")
+    print("=" * 60)
+
+    collected = collector.collect(15)
+
+    if not collected:
+        print("\n[警告] 未能获取到新闻，请检查网络连接")
+        return
+
+    print(f"\n采集完成，共收集 {len(collected)} 条新闻\n")
+
+    for i, news in enumerate(collected[:5]):
+        print(f"{i+1}. {news['title']}")
+        print(f"   来源: {news['source']}")
+        print(f"   分类: {news['category']['primary']}")
+        print(f"   情感: {news['sentiment']['overall']} ({news['sentiment']['score']})")
+        stocks = [s['stock_name'] for s in news['related_stocks']]
+        if stocks:
+            print(f"   涉及股票: {', '.join(stocks)}")
+        else:
+            print("   涉及股票: 无")
+        print()
+
 
 if __name__ == '__main__':
     main()

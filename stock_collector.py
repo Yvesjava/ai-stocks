@@ -57,7 +57,7 @@ class StockCollector:
             return []
         
         try:
-            with open(self.news_structured_file, 'r') as f:
+            with open(self.news_structured_file, 'r', encoding='utf-8') as f:
                 news_data = json.load(f)
             logger.info("Loaded %d news items", len(news_data))
             return news_data
@@ -122,19 +122,14 @@ class StockCollector:
                 
                 # 提取推荐理由
                 try:
-                    category = news['category']['primary']
-                    summary = news['summary'][:50]
-                    # 确保字符串是UTF-8编码
-                    if isinstance(category, unicode):
-                        category = category.encode('utf-8')
-                    if isinstance(summary, unicode):
-                        summary = summary.encode('utf-8')
-                    reason = "{category}: {summary}".format(category=category, summary=summary)
+                    category = str(news['category']['primary'])
+                    summary = str(news['summary'][:50])
+                    reason = f"{category}: {summary}"
                     stock_mentions[stock_code]['reasons'].append(reason)
-                except Exception as e:
-                    # 如果编码处理失败，使用安全的理由
-                    reason = "News mention: {summary}".format(summary=news['summary'][:50])
-                    stock_mentions[stock_code]['reasons'].append(reason)
+                except Exception:
+                    stock_mentions[stock_code]['reasons'].append(
+                        f"News mention: {str(news['summary'][:50])}"
+                    )
         
         return stock_mentions
     
@@ -221,7 +216,7 @@ class StockCollector:
         # 读取现有数据
         existing_stocks = []
         if os.path.exists(self.stock_list_file):
-            with open(self.stock_list_file, 'r') as f:
+            with open(self.stock_list_file, 'r', encoding='utf-8') as f:
                 try:
                     existing_stocks = json.load(f)
                 except:
@@ -238,7 +233,7 @@ class StockCollector:
         all_stocks.sort(key=lambda x: x['priority_score'], reverse=True)
         
         # 保存数据
-        with open(self.stock_list_file, 'w') as f:
+        with open(self.stock_list_file, 'w', encoding='utf-8') as f:
             json.dump(all_stocks, f, indent=2)
         
         logger.info("Saved stock list to %s, added %d stocks, total %d stocks", self.stock_list_file, len(new_stocks), len(all_stocks))

@@ -65,7 +65,7 @@ class StockAnalyst:
             return []
         
         try:
-            with open(self.stock_list_file, 'r') as f:
+            with open(self.stock_list_file, 'r', encoding='utf-8') as f:
                 stock_list = json.load(f)
             logger.info("Loaded %d stocks", len(stock_list))
             return stock_list
@@ -243,7 +243,7 @@ class StockAnalyst:
         # 读取现有数据
         existing_analyses = []
         if os.path.exists(self.analysis_file):
-            with open(self.analysis_file, 'r') as f:
+            with open(self.analysis_file, 'r', encoding='utf-8') as f:
                 try:
                     existing_analyses = json.load(f)
                 except:
@@ -260,7 +260,7 @@ class StockAnalyst:
         all_analyses.sort(key=lambda x: x.get('priority_score', 0), reverse=True)
         
         # 保存数据
-        with open(self.analysis_file, 'w') as f:
+        with open(self.analysis_file, 'w', encoding='utf-8') as f:
             json.dump(all_analyses, f, indent=2)
         
         logger.info("Saved analysis results to %s, added %d analyses, total %d analyses", self.analysis_file, len(new_analyses), len(all_analyses))

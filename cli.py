@@ -272,7 +272,7 @@ Type 'quit' to exit the system.
             return
 
         try:
-            with open(stock_list_file, 'r') as f:
+            with open(stock_list_file, 'r', encoding='utf-8') as f:
                 stocks = json.load(f)
 
             print("\n" + "=" * 60)
@@ -301,7 +301,7 @@ Type 'quit' to exit the system.
             return
 
         try:
-            with open(analysis_file, 'r') as f:
+            with open(analysis_file, 'r', encoding='utf-8') as f:
                 analyses = json.load(f)
 
             data_len = len(analyses) if isinstance(analyses, list) else 0
@@ -358,7 +358,7 @@ Type 'quit' to exit the system.
 
         report_file = "data/news/reports/daily_report_%s.txt" % datetime.now().strftime('%Y%m%d_%H%M%S')
         try:
-            with open(report_file, 'w') as f:
+            with open(report_file, 'w', encoding='utf-8') as f:
                 f.write(user_report)
             print("\nReport saved to: %s" % report_file)
         except Exception as e:
